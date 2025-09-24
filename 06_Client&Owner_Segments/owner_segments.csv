@@ -1,0 +1,1448 @@
+owner_id,R_Score,F_Score,M_Score,Segment
+1,1,4,2,At Risk
+2,3,4,4,Champion
+3,3,4,3,Champion
+4,3,4,3,Champion
+5,1,1,2,Dormant Owner
+6,1,2,2,At Risk
+7,3,4,3,Champion
+8,3,4,2,Emerging Owne
+9,3,4,4,Champion
+10,3,2,3,Emerging Owne
+11,1,1,1,Dormant Owner
+12,1,2,4,High Value-Low Activity
+13,1,1,2,Dormant Owner
+14,3,2,1,Dormant Owner
+15,2,2,3,Emerging Owne
+16,2,2,4,Emerging Owne
+17,3,4,4,Champion
+19,3,1,2,Dormant Owner
+20,3,2,1,Dormant Owner
+21,3,2,4,Emerging Owne
+22,3,4,2,Emerging Owne
+23,1,2,2,At Risk
+24,3,4,3,Champion
+25,3,3,4,Champion
+26,3,4,3,Champion
+27,2,2,4,Emerging Owne
+29,3,4,4,Champion
+30,1,1,1,Dormant Owner
+31,3,2,1,Dormant Owner
+32,1,1,1,Dormant Owner
+33,1,1,3,High Value-Low Activity
+34,3,2,2,Emerging Owne
+35,3,3,1,Dormant Owner
+36,1,1,2,Dormant Owner
+39,3,4,4,Champion
+41,1,2,3,High Value-Low Activity
+42,2,2,4,Emerging Owne
+44,1,1,1,Dormant Owner
+45,1,4,4,At Risk
+46,3,4,4,Champion
+47,3,2,3,Emerging Owne
+48,3,3,4,Champion
+49,3,4,4,Champion
+50,1,1,2,Dormant Owner
+51,2,2,4,Emerging Owne
+52,1,1,1,Dormant Owner
+53,1,1,1,Dormant Owner
+54,3,2,2,Emerging Owne
+55,1,2,1,Dormant Owner
+57,1,2,2,At Risk
+58,1,1,1,Dormant Owner
+59,2,2,4,Emerging Owne
+60,1,2,2,At Risk
+61,1,1,2,Dormant Owner
+62,2,1,1,Dormant Owner
+63,2,2,1,Dormant Owner
+64,3,3,3,Champion
+66,3,2,3,Emerging Owne
+67,3,2,3,Emerging Owne
+68,3,2,4,Emerging Owne
+69,3,3,2,Emerging Owne
+70,1,1,2,Dormant Owner
+71,3,3,2,Emerging Owne
+72,3,3,4,Champion
+73,1,2,2,At Risk
+74,3,3,2,Emerging Owne
+75,2,2,2,Emerging Owne
+76,3,4,3,Champion
+77,1,1,2,Dormant Owner
+78,3,2,3,Emerging Owne
+80,3,4,4,Champion
+81,2,2,1,Dormant Owner
+83,3,2,4,Emerging Owne
+84,2,2,2,Emerging Owne
+85,3,4,4,Champion
+86,1,1,1,Dormant Owner
+87,1,1,3,High Value-Low Activity
+88,1,2,3,High Value-Low Activity
+89,3,1,1,Dormant Owner
+90,3,4,3,Champion
+91,3,3,2,Emerging Owne
+92,3,4,4,Champion
+94,3,4,3,Champion
+96,3,2,1,Dormant Owner
+97,1,2,3,High Value-Low Activity
+98,2,3,3,Loyal Owner
+99,3,3,3,Champion
+100,3,4,4,Champion
+101,3,1,1,Dormant Owner
+102,1,1,1,Dormant Owner
+103,1,1,1,Dormant Owner
+104,3,3,1,Dormant Owner
+105,3,2,3,Emerging Owne
+108,1,1,2,Dormant Owner
+109,2,1,1,Dormant Owner
+110,3,2,4,Emerging Owne
+111,3,4,4,Champion
+112,1,2,2,At Risk
+113,1,1,3,High Value-Low Activity
+114,3,3,4,Champion
+115,3,3,4,Champion
+116,1,2,4,High Value-Low Activity
+118,1,2,4,High Value-Low Activity
+119,1,3,3,At Risk
+120,3,4,3,Champion
+122,3,3,2,Emerging Owne
+123,1,1,1,Dormant Owner
+125,1,1,1,Dormant Owner
+126,1,2,1,Dormant Owner
+127,3,4,4,Champion
+128,1,2,1,Dormant Owner
+129,1,1,1,Dormant Owner
+130,1,2,1,Dormant Owner
+131,3,4,3,Champion
+133,3,4,3,Champion
+134,1,2,2,At Risk
+135,3,3,3,Champion
+136,3,4,4,Champion
+137,3,4,4,Champion
+138,1,2,3,High Value-Low Activity
+139,3,4,4,Champion
+140,3,2,2,Emerging Owne
+142,1,2,4,High Value-Low Activity
+143,1,1,1,Dormant Owner
+144,1,1,1,Dormant Owner
+146,1,1,1,Dormant Owner
+147,3,2,3,Emerging Owne
+148,3,3,3,Champion
+149,1,1,2,Dormant Owner
+150,3,4,3,Champion
+151,3,2,4,Emerging Owne
+153,2,2,2,Emerging Owne
+154,1,1,3,High Value-Low Activity
+155,2,1,2,Dormant Owner
+156,3,2,2,Emerging Owne
+157,3,4,4,Champion
+159,3,3,2,Emerging Owne
+160,2,1,3,High Value-Low Activity
+161,1,3,3,At Risk
+164,1,2,2,At Risk
+165,3,2,1,Dormant Owner
+167,3,4,3,Champion
+169,3,4,3,Champion
+170,3,2,3,Emerging Owne
+171,1,1,1,Dormant Owner
+172,2,1,2,Dormant Owner
+173,1,2,3,High Value-Low Activity
+175,1,2,2,At Risk
+176,1,2,4,High Value-Low Activity
+177,3,3,4,Champion
+179,1,2,1,Dormant Owner
+180,1,1,1,Dormant Owner
+181,3,4,4,Champion
+182,3,4,2,Emerging Owne
+183,1,1,1,Dormant Owner
+185,3,4,4,Champion
+186,1,2,2,At Risk
+187,3,4,2,Emerging Owne
+188,3,3,4,Champion
+189,3,4,4,Champion
+190,1,1,1,Dormant Owner
+191,1,1,1,Dormant Owner
+192,1,2,2,At Risk
+193,3,3,3,Champion
+194,2,2,1,Dormant Owner
+195,3,2,4,Emerging Owne
+197,3,2,4,Emerging Owne
+198,1,1,1,Dormant Owner
+199,3,3,3,Champion
+200,3,2,2,Emerging Owne
+201,3,4,2,Emerging Owne
+202,1,2,3,High Value-Low Activity
+203,1,2,3,High Value-Low Activity
+204,2,1,4,High Value-Low Activity
+205,2,2,1,Dormant Owner
+206,2,4,3,Loyal Owner
+207,1,3,3,At Risk
+208,3,3,4,Champion
+209,3,4,3,Champion
+210,3,2,4,Emerging Owne
+211,3,4,4,Champion
+212,3,4,4,Champion
+213,3,2,2,Emerging Owne
+214,1,2,4,High Value-Low Activity
+215,3,2,3,Emerging Owne
+217,3,3,3,Champion
+218,3,2,3,Emerging Owne
+219,3,3,1,Dormant Owner
+220,3,1,1,Dormant Owner
+226,3,4,3,Champion
+227,3,4,3,Champion
+229,3,3,3,Champion
+232,1,1,1,Dormant Owner
+233,3,4,4,Champion
+234,1,2,2,At Risk
+235,3,3,1,Dormant Owner
+236,3,4,4,Champion
+237,3,4,4,Champion
+238,2,3,2,Emerging Owne
+239,3,3,4,Champion
+240,2,2,1,Dormant Owner
+242,3,3,4,Champion
+243,3,4,4,Champion
+244,3,3,3,Champion
+246,1,1,1,Dormant Owner
+247,3,3,2,Emerging Owne
+248,3,3,1,Dormant Owner
+249,3,3,4,Champion
+250,3,3,2,Emerging Owne
+251,2,2,3,Emerging Owne
+253,1,1,1,Dormant Owner
+254,3,2,2,Emerging Owne
+255,1,3,3,At Risk
+256,1,1,1,Dormant Owner
+257,2,1,1,Dormant Owner
+258,3,2,4,Emerging Owne
+259,3,4,4,Champion
+260,1,1,3,High Value-Low Activity
+261,3,2,1,Dormant Owner
+264,3,3,2,Emerging Owne
+265,3,3,2,Emerging Owne
+266,1,1,3,High Value-Low Activity
+268,3,4,4,Champion
+269,1,2,2,At Risk
+271,3,3,1,Dormant Owner
+273,3,4,4,Champion
+274,1,1,1,Dormant Owner
+276,3,4,4,Champion
+277,1,1,1,Dormant Owner
+278,1,1,2,Dormant Owner
+279,1,2,1,Dormant Owner
+280,2,2,1,Dormant Owner
+281,1,2,2,At Risk
+283,1,1,1,Dormant Owner
+284,1,1,3,High Value-Low Activity
+285,3,3,2,Emerging Owne
+286,2,1,3,High Value-Low Activity
+287,2,1,2,Dormant Owner
+288,3,4,4,Champion
+289,3,4,3,Champion
+290,1,1,1,Dormant Owner
+291,1,1,1,Dormant Owner
+292,2,2,2,Emerging Owne
+295,3,3,2,Emerging Owne
+298,3,3,4,Champion
+299,1,1,1,Dormant Owner
+300,3,2,1,Dormant Owner
+302,1,1,2,Dormant Owner
+303,3,3,1,Dormant Owner
+304,1,2,2,At Risk
+305,3,3,3,Champion
+306,3,3,4,Champion
+307,1,1,2,Dormant Owner
+308,3,3,1,Dormant Owner
+309,3,4,3,Champion
+311,3,4,4,Champion
+312,3,3,2,Emerging Owne
+313,1,3,4,At Risk
+314,3,3,3,Champion
+317,3,3,2,Emerging Owne
+318,1,1,2,Dormant Owner
+319,3,4,3,Champion
+321,1,2,4,High Value-Low Activity
+322,1,2,2,At Risk
+323,3,4,4,Champion
+324,2,3,3,Loyal Owner
+325,1,1,2,Dormant Owner
+326,1,2,3,High Value-Low Activity
+327,3,4,4,Champion
+328,3,2,4,Emerging Owne
+329,3,3,3,Champion
+330,1,1,1,Dormant Owner
+331,3,4,3,Champion
+332,3,4,4,Champion
+333,3,3,4,Champion
+334,3,1,2,Dormant Owner
+335,3,3,2,Emerging Owne
+336,2,3,3,Loyal Owner
+338,1,1,3,High Value-Low Activity
+339,2,1,3,High Value-Low Activity
+341,1,1,1,Dormant Owner
+342,2,1,2,Dormant Owner
+343,1,3,4,At Risk
+344,1,1,1,Dormant Owner
+345,3,3,4,Champion
+346,1,3,3,At Risk
+347,1,2,2,At Risk
+348,3,4,3,Champion
+350,3,4,2,Emerging Owne
+351,3,4,4,Champion
+352,3,4,3,Champion
+353,1,1,1,Dormant Owner
+354,1,2,2,At Risk
+355,3,4,4,Champion
+356,3,2,2,Emerging Owne
+357,3,2,1,Dormant Owner
+358,3,4,3,Champion
+359,3,4,3,Champion
+360,3,2,3,Emerging Owne
+361,3,3,4,Champion
+362,1,3,4,At Risk
+363,1,1,1,Dormant Owner
+364,3,4,3,Champion
+366,1,2,1,Dormant Owner
+367,1,1,1,Dormant Owner
+368,1,1,1,Dormant Owner
+370,3,4,3,Champion
+371,1,3,2,At Risk
+372,1,1,1,Dormant Owner
+373,3,4,2,Emerging Owne
+374,3,2,3,Emerging Owne
+376,3,4,4,Champion
+377,3,4,4,Champion
+378,1,3,4,At Risk
+379,3,4,4,Champion
+380,3,3,1,Dormant Owner
+381,3,3,3,Champion
+382,3,4,4,Champion
+383,3,4,3,Champion
+385,1,3,4,At Risk
+386,1,2,3,High Value-Low Activity
+387,1,1,1,Dormant Owner
+389,1,2,3,High Value-Low Activity
+392,2,3,2,Emerging Owne
+393,3,4,4,Champion
+395,2,2,4,Emerging Owne
+396,3,4,3,Champion
+397,3,3,2,Emerging Owne
+398,1,1,1,Dormant Owner
+399,1,1,1,Dormant Owner
+400,1,1,2,Dormant Owner
+401,3,1,1,Dormant Owner
+402,3,4,2,Emerging Owne
+403,1,1,3,High Value-Low Activity
+404,3,3,1,Dormant Owner
+406,3,3,3,Champion
+407,3,2,4,Emerging Owne
+408,1,1,1,Dormant Owner
+409,1,1,1,Dormant Owner
+410,1,1,4,High Value-Low Activity
+411,2,3,4,Loyal Owner
+412,3,3,4,Champion
+413,1,1,3,High Value-Low Activity
+415,3,3,3,Champion
+416,3,2,4,Emerging Owne
+417,1,3,4,At Risk
+419,3,4,4,Champion
+420,1,1,1,Dormant Owner
+422,1,2,1,Dormant Owner
+423,3,3,2,Emerging Owne
+425,1,1,1,Dormant Owner
+426,2,2,2,Emerging Owne
+427,1,2,2,At Risk
+429,3,3,3,Champion
+430,1,1,1,Dormant Owner
+431,1,1,2,Dormant Owner
+433,1,1,1,Dormant Owner
+434,3,2,3,Emerging Owne
+435,3,4,4,Champion
+436,3,3,2,Emerging Owne
+437,3,4,4,Champion
+438,3,4,4,Champion
+439,1,1,4,High Value-Low Activity
+440,3,3,4,Champion
+441,3,2,4,Emerging Owne
+442,3,3,3,Champion
+443,3,3,2,Emerging Owne
+444,3,4,4,Champion
+445,3,4,3,Champion
+446,3,4,4,Champion
+447,3,4,3,Champion
+448,1,2,4,High Value-Low Activity
+450,3,4,3,Champion
+451,2,3,2,Emerging Owne
+452,1,1,2,Dormant Owner
+453,3,1,2,Dormant Owner
+454,3,2,1,Dormant Owner
+455,3,4,4,Champion
+456,3,3,1,Dormant Owner
+459,3,3,3,Champion
+461,2,3,1,Dormant Owner
+462,3,4,3,Champion
+463,3,3,4,Champion
+464,3,4,4,Champion
+465,3,3,4,Champion
+466,3,3,4,Champion
+468,3,1,2,Dormant Owner
+469,3,3,3,Champion
+470,3,4,4,Champion
+471,1,2,3,High Value-Low Activity
+473,1,1,1,Dormant Owner
+474,3,2,3,Emerging Owne
+476,3,2,2,Emerging Owne
+477,3,3,1,Dormant Owner
+478,1,1,3,High Value-Low Activity
+479,1,2,1,Dormant Owner
+480,3,3,3,Champion
+481,3,4,3,Champion
+482,3,4,4,Champion
+483,3,3,2,Emerging Owne
+484,3,4,2,Emerging Owne
+486,3,4,4,Champion
+487,1,2,2,At Risk
+488,3,2,2,Emerging Owne
+490,1,2,1,Dormant Owner
+491,2,1,3,High Value-Low Activity
+492,3,4,4,Champion
+493,2,1,1,Dormant Owner
+494,3,3,2,Emerging Owne
+495,1,1,1,Dormant Owner
+496,3,2,2,Emerging Owne
+497,3,4,3,Champion
+499,1,1,1,Dormant Owner
+501,3,4,3,Champion
+503,3,4,4,Champion
+504,3,3,4,Champion
+505,3,4,4,Champion
+506,3,4,4,Champion
+508,1,2,1,Dormant Owner
+509,3,3,4,Champion
+510,1,1,1,Dormant Owner
+511,1,1,1,Dormant Owner
+512,1,2,2,At Risk
+513,3,3,1,Dormant Owner
+515,1,2,2,At Risk
+516,3,1,1,Dormant Owner
+517,3,4,3,Champion
+518,2,1,3,High Value-Low Activity
+519,3,2,1,Dormant Owner
+520,3,4,4,Champion
+523,3,4,4,Champion
+524,3,4,2,Emerging Owne
+526,1,2,1,Dormant Owner
+527,1,1,1,Dormant Owner
+528,1,1,2,Dormant Owner
+529,1,1,3,High Value-Low Activity
+530,3,4,4,Champion
+531,1,2,2,At Risk
+533,1,2,2,At Risk
+535,1,1,1,Dormant Owner
+536,1,1,2,Dormant Owner
+537,1,2,2,At Risk
+538,1,2,3,High Value-Low Activity
+539,2,3,2,Emerging Owne
+540,3,4,2,Emerging Owne
+541,1,3,4,At Risk
+542,3,4,4,Champion
+543,3,2,3,Emerging Owne
+544,1,2,2,At Risk
+545,2,2,2,Emerging Owne
+546,3,3,2,Emerging Owne
+547,1,3,2,At Risk
+548,1,2,2,At Risk
+549,2,3,3,Loyal Owner
+550,1,1,1,Dormant Owner
+552,1,3,1,Dormant Owner
+553,3,3,4,Champion
+555,3,2,1,Dormant Owner
+557,1,1,1,Dormant Owner
+558,2,2,1,Dormant Owner
+560,3,3,2,Emerging Owne
+562,1,2,3,High Value-Low Activity
+563,1,1,2,Dormant Owner
+564,3,3,1,Dormant Owner
+565,2,2,4,Emerging Owne
+567,3,4,4,Champion
+568,1,2,2,At Risk
+569,1,2,4,High Value-Low Activity
+570,1,2,3,High Value-Low Activity
+571,1,2,2,At Risk
+572,3,4,4,Champion
+573,1,1,1,Dormant Owner
+576,3,3,4,Champion
+578,1,2,2,At Risk
+579,3,3,1,Dormant Owner
+580,1,1,1,Dormant Owner
+581,3,3,1,Dormant Owner
+582,1,2,2,At Risk
+583,3,2,2,Emerging Owne
+584,1,2,3,High Value-Low Activity
+585,3,2,2,Emerging Owne
+586,1,1,1,Dormant Owner
+588,1,1,2,Dormant Owner
+589,3,4,4,Champion
+590,1,3,2,At Risk
+591,3,3,3,Champion
+592,1,1,3,High Value-Low Activity
+594,3,3,3,Champion
+595,3,3,2,Emerging Owne
+596,1,2,2,At Risk
+597,1,3,3,At Risk
+598,3,2,2,Emerging Owne
+599,3,4,3,Champion
+600,3,3,2,Emerging Owne
+601,3,4,4,Champion
+602,3,3,3,Champion
+603,1,1,1,Dormant Owner
+604,1,1,1,Dormant Owner
+605,1,1,1,Dormant Owner
+606,3,2,3,Emerging Owne
+607,1,1,3,High Value-Low Activity
+608,3,3,3,Champion
+610,3,3,4,Champion
+611,3,4,3,Champion
+612,1,1,3,High Value-Low Activity
+613,3,3,2,Emerging Owne
+614,3,3,4,Champion
+615,2,3,4,Loyal Owner
+617,3,1,1,Dormant Owner
+618,1,3,2,At Risk
+619,3,2,1,Dormant Owner
+620,1,1,1,Dormant Owner
+621,1,1,2,Dormant Owner
+622,3,2,1,Dormant Owner
+625,1,1,1,Dormant Owner
+627,1,2,3,High Value-Low Activity
+629,2,3,2,Emerging Owne
+630,1,1,1,Dormant Owner
+631,3,3,2,Emerging Owne
+632,3,2,1,Dormant Owner
+633,1,3,3,At Risk
+634,3,3,2,Emerging Owne
+635,3,4,4,Champion
+636,1,1,1,Dormant Owner
+637,3,3,3,Champion
+638,2,3,4,Loyal Owner
+639,3,4,4,Champion
+643,3,3,4,Champion
+644,1,2,2,At Risk
+645,1,3,2,At Risk
+646,3,4,3,Champion
+647,3,3,2,Emerging Owne
+648,3,3,2,Emerging Owne
+649,1,1,2,Dormant Owner
+650,1,1,1,Dormant Owner
+651,3,2,1,Dormant Owner
+653,3,3,2,Emerging Owne
+654,2,1,2,Dormant Owner
+655,3,3,2,Emerging Owne
+656,1,2,2,At Risk
+657,3,3,2,Emerging Owne
+658,3,2,1,Dormant Owner
+659,2,2,3,Emerging Owne
+660,2,1,1,Dormant Owner
+661,3,3,4,Champion
+664,1,2,2,At Risk
+665,3,3,3,Champion
+666,3,3,3,Champion
+667,2,3,1,Dormant Owner
+668,2,2,3,Emerging Owne
+670,1,1,1,Dormant Owner
+672,1,2,3,High Value-Low Activity
+674,3,2,1,Dormant Owner
+675,1,1,4,High Value-Low Activity
+677,1,2,2,At Risk
+679,1,1,1,Dormant Owner
+680,2,2,2,Emerging Owne
+682,1,4,3,At Risk
+683,3,3,2,Emerging Owne
+684,1,3,3,At Risk
+686,2,3,4,Loyal Owner
+687,3,4,2,Emerging Owne
+690,2,3,3,Loyal Owner
+691,2,2,2,Emerging Owne
+692,1,1,1,Dormant Owner
+693,1,2,4,High Value-Low Activity
+694,1,3,4,At Risk
+695,2,2,2,Emerging Owne
+696,1,2,1,Dormant Owner
+699,3,3,4,Champion
+700,3,3,4,Champion
+701,3,4,3,Champion
+702,3,3,2,Emerging Owne
+703,1,1,1,Dormant Owner
+704,3,3,3,Champion
+705,3,3,4,Champion
+706,3,2,1,Dormant Owner
+708,3,3,3,Champion
+709,1,1,2,Dormant Owner
+710,3,2,4,Emerging Owne
+711,1,1,1,Dormant Owner
+712,2,2,3,Emerging Owne
+713,3,3,4,Champion
+714,3,2,2,Emerging Owne
+715,3,3,2,Emerging Owne
+716,2,1,3,High Value-Low Activity
+717,3,3,2,Emerging Owne
+718,3,3,3,Champion
+719,1,2,2,At Risk
+720,1,1,1,Dormant Owner
+722,3,2,2,Emerging Owne
+723,3,4,4,Champion
+724,3,4,3,Champion
+726,3,3,4,Champion
+727,3,3,3,Champion
+728,2,2,3,Emerging Owne
+729,1,1,1,Dormant Owner
+730,3,3,3,Champion
+731,1,1,1,Dormant Owner
+732,1,1,3,High Value-Low Activity
+733,3,4,4,Champion
+734,1,4,4,At Risk
+735,3,4,4,Champion
+736,3,3,2,Emerging Owne
+738,3,3,3,Champion
+739,3,3,2,Emerging Owne
+740,3,3,3,Champion
+741,3,3,2,Emerging Owne
+742,1,1,3,High Value-Low Activity
+743,1,2,3,High Value-Low Activity
+744,1,2,1,Dormant Owner
+745,3,4,4,Champion
+746,1,1,4,High Value-Low Activity
+747,3,2,1,Dormant Owner
+749,3,3,3,Champion
+750,1,2,4,High Value-Low Activity
+751,3,4,4,Champion
+752,3,4,4,Champion
+754,1,1,3,High Value-Low Activity
+755,3,4,3,Champion
+756,1,2,2,At Risk
+758,3,1,1,Dormant Owner
+760,1,2,3,High Value-Low Activity
+761,3,3,1,Dormant Owner
+762,3,3,2,Emerging Owne
+763,1,1,3,High Value-Low Activity
+765,2,1,1,Dormant Owner
+766,3,3,3,Champion
+768,3,4,4,Champion
+769,2,2,3,Emerging Owne
+770,1,1,2,Dormant Owner
+771,3,3,4,Champion
+773,3,3,4,Champion
+774,3,4,3,Champion
+777,1,3,3,At Risk
+778,2,2,2,Emerging Owne
+779,3,3,2,Emerging Owne
+780,3,4,4,Champion
+781,1,1,1,Dormant Owner
+782,2,1,2,Dormant Owner
+784,3,4,2,Emerging Owne
+785,1,2,2,At Risk
+786,3,4,3,Champion
+787,3,4,3,Champion
+789,3,3,4,Champion
+790,3,2,3,Emerging Owne
+791,1,1,2,Dormant Owner
+792,2,1,1,Dormant Owner
+794,3,4,4,Champion
+795,2,2,3,Emerging Owne
+797,3,3,4,Champion
+798,3,4,4,Champion
+800,3,3,1,Dormant Owner
+801,1,1,1,Dormant Owner
+802,3,3,3,Champion
+803,1,1,1,Dormant Owner
+804,1,1,1,Dormant Owner
+806,3,3,2,Emerging Owne
+807,3,3,4,Champion
+808,1,3,3,At Risk
+809,3,3,4,Champion
+810,1,1,2,Dormant Owner
+811,1,1,4,High Value-Low Activity
+812,3,3,4,Champion
+813,1,1,1,Dormant Owner
+814,3,4,4,Champion
+815,1,1,1,Dormant Owner
+816,3,4,4,Champion
+817,3,1,1,Dormant Owner
+818,3,4,4,Champion
+819,1,1,1,Dormant Owner
+820,3,3,4,Champion
+821,1,2,2,At Risk
+822,1,3,2,At Risk
+823,3,3,3,Champion
+824,3,2,1,Dormant Owner
+825,3,3,2,Emerging Owne
+827,3,3,2,Emerging Owne
+829,3,4,4,Champion
+830,3,3,2,Emerging Owne
+832,2,2,3,Emerging Owne
+833,1,2,3,High Value-Low Activity
+834,2,1,2,Dormant Owner
+835,3,4,4,Champion
+836,1,1,3,High Value-Low Activity
+837,3,3,4,Champion
+838,1,2,1,Dormant Owner
+839,3,3,4,Champion
+841,1,3,4,At Risk
+842,1,1,2,Dormant Owner
+843,1,2,4,High Value-Low Activity
+844,1,2,1,Dormant Owner
+845,2,2,2,Emerging Owne
+846,3,3,4,Champion
+848,1,1,2,Dormant Owner
+850,2,1,2,Dormant Owner
+851,1,1,3,High Value-Low Activity
+852,1,1,2,Dormant Owner
+853,3,2,1,Dormant Owner
+854,2,1,2,Dormant Owner
+855,3,3,3,Champion
+856,3,2,3,Emerging Owne
+857,1,1,3,High Value-Low Activity
+858,3,3,3,Champion
+860,2,2,2,Emerging Owne
+862,3,3,2,Emerging Owne
+863,2,3,3,Loyal Owner
+864,2,3,1,Dormant Owner
+866,3,4,3,Champion
+867,3,2,2,Emerging Owne
+868,1,3,4,At Risk
+869,3,4,4,Champion
+870,3,2,1,Dormant Owner
+871,1,2,2,At Risk
+872,1,2,1,Dormant Owner
+873,1,1,1,Dormant Owner
+874,2,3,4,Loyal Owner
+876,3,3,2,Emerging Owne
+878,3,3,3,Champion
+879,1,2,3,High Value-Low Activity
+881,3,3,4,Champion
+882,1,1,4,High Value-Low Activity
+883,1,1,2,Dormant Owner
+885,1,1,1,Dormant Owner
+887,3,3,2,Emerging Owne
+888,1,1,1,Dormant Owner
+889,3,4,3,Champion
+890,1,2,1,Dormant Owner
+891,3,4,4,Champion
+892,1,2,3,High Value-Low Activity
+893,1,1,1,Dormant Owner
+894,1,1,1,Dormant Owner
+895,1,3,3,At Risk
+896,3,2,2,Emerging Owne
+897,3,4,4,Champion
+899,1,2,2,At Risk
+900,1,1,1,Dormant Owner
+901,1,3,4,At Risk
+902,3,3,3,Champion
+904,3,3,4,Champion
+905,2,2,1,Dormant Owner
+906,3,2,2,Emerging Owne
+907,1,3,3,At Risk
+908,1,2,2,At Risk
+909,1,1,1,Dormant Owner
+910,3,4,3,Champion
+911,3,2,2,Emerging Owne
+912,3,4,2,Emerging Owne
+913,3,4,4,Champion
+916,2,1,1,Dormant Owner
+917,2,3,3,Loyal Owner
+918,1,1,2,Dormant Owner
+919,2,3,3,Loyal Owner
+920,3,3,3,Champion
+922,3,3,3,Champion
+923,1,3,3,At Risk
+924,1,1,3,High Value-Low Activity
+925,3,3,1,Dormant Owner
+926,2,3,3,Loyal Owner
+928,1,1,1,Dormant Owner
+929,1,3,4,At Risk
+931,1,2,1,Dormant Owner
+932,3,4,3,Champion
+933,3,2,2,Emerging Owne
+935,3,4,4,Champion
+936,3,4,4,Champion
+937,1,3,2,At Risk
+938,3,3,2,Emerging Owne
+940,1,3,2,At Risk
+941,3,3,4,Champion
+944,2,1,2,Dormant Owner
+945,3,4,4,Champion
+946,1,1,1,Dormant Owner
+947,3,4,3,Champion
+948,3,3,2,Emerging Owne
+949,1,1,3,High Value-Low Activity
+950,1,3,4,At Risk
+951,3,4,3,Champion
+952,2,2,3,Emerging Owne
+954,3,3,3,Champion
+956,1,1,4,High Value-Low Activity
+957,3,3,3,Champion
+958,2,2,4,Emerging Owne
+959,3,3,4,Champion
+960,3,4,4,Champion
+961,1,2,3,High Value-Low Activity
+962,3,3,3,Champion
+963,1,1,1,Dormant Owner
+964,1,1,2,Dormant Owner
+965,3,4,3,Champion
+966,1,2,1,Dormant Owner
+967,3,2,3,Emerging Owne
+968,3,3,1,Dormant Owner
+969,3,4,4,Champion
+970,1,1,1,Dormant Owner
+971,1,1,3,High Value-Low Activity
+972,2,4,4,Loyal Owner
+973,3,4,4,Champion
+974,1,3,3,At Risk
+975,3,3,3,Champion
+976,3,3,4,Champion
+977,2,2,1,Dormant Owner
+978,3,2,1,Dormant Owner
+979,1,1,1,Dormant Owner
+980,3,4,4,Champion
+981,2,2,2,Emerging Owne
+982,3,4,4,Champion
+983,2,3,4,Loyal Owner
+985,3,3,4,Champion
+987,3,4,4,Champion
+988,3,3,2,Emerging Owne
+989,3,4,4,Champion
+990,3,3,2,Emerging Owne
+991,1,1,1,Dormant Owner
+992,1,1,1,Dormant Owner
+993,3,3,4,Champion
+994,1,1,2,Dormant Owner
+996,3,3,2,Emerging Owne
+997,1,1,1,Dormant Owner
+998,1,1,1,Dormant Owner
+1000,2,2,3,Emerging Owne
+1001,1,1,1,Dormant Owner
+1002,1,1,1,Dormant Owner
+1003,2,4,4,Loyal Owner
+1004,1,1,2,Dormant Owner
+1006,3,3,4,Champion
+1007,1,1,1,Dormant Owner
+1008,1,1,1,Dormant Owner
+1009,3,3,2,Emerging Owne
+1010,3,2,3,Emerging Owne
+1011,3,2,1,Dormant Owner
+1013,1,1,1,Dormant Owner
+1014,1,1,2,Dormant Owner
+1015,1,1,2,Dormant Owner
+1016,1,1,1,Dormant Owner
+1017,2,1,1,Dormant Owner
+1018,3,3,4,Champion
+1019,3,3,4,Champion
+1020,3,4,3,Champion
+1021,3,4,4,Champion
+1022,1,1,1,Dormant Owner
+1023,3,4,2,Emerging Owne
+1025,3,4,4,Champion
+1026,3,4,3,Champion
+1028,3,3,2,Emerging Owne
+1029,1,2,3,High Value-Low Activity
+1030,3,4,4,Champion
+1032,3,1,1,Dormant Owner
+1034,3,4,3,Champion
+1035,3,3,4,Champion
+1036,3,4,3,Champion
+1037,3,4,4,Champion
+1038,3,3,4,Champion
+1039,1,1,2,Dormant Owner
+1041,1,1,2,Dormant Owner
+1042,1,1,1,Dormant Owner
+1044,1,1,1,Dormant Owner
+1046,1,1,1,Dormant Owner
+1047,3,2,2,Emerging Owne
+1048,1,3,4,At Risk
+1049,1,2,3,High Value-Low Activity
+1050,1,1,1,Dormant Owner
+1051,1,1,1,Dormant Owner
+1052,3,4,4,Champion
+1053,1,2,1,Dormant Owner
+1054,1,1,1,Dormant Owner
+1055,1,3,2,At Risk
+1056,3,2,3,Emerging Owne
+1057,3,3,2,Emerging Owne
+1058,3,3,1,Dormant Owner
+1059,3,2,2,Emerging Owne
+1060,1,1,1,Dormant Owner
+1061,1,1,1,Dormant Owner
+1062,3,3,4,Champion
+1064,3,3,3,Champion
+1065,1,1,1,Dormant Owner
+1066,3,2,3,Emerging Owne
+1067,2,2,2,Emerging Owne
+1068,3,1,2,Dormant Owner
+1069,3,2,1,Dormant Owner
+1070,1,1,1,Dormant Owner
+1071,3,2,3,Emerging Owne
+1072,3,3,1,Dormant Owner
+1073,3,4,4,Champion
+1074,3,2,2,Emerging Owne
+1075,1,2,2,At Risk
+1076,2,2,1,Dormant Owner
+1077,3,4,3,Champion
+1078,3,3,2,Emerging Owne
+1079,3,4,3,Champion
+1080,3,3,3,Champion
+1081,1,2,4,High Value-Low Activity
+1082,1,2,4,High Value-Low Activity
+1083,3,4,4,Champion
+1084,1,1,1,Dormant Owner
+1085,3,3,4,Champion
+1086,3,4,4,Champion
+1088,1,1,1,Dormant Owner
+1089,1,1,1,Dormant Owner
+1090,1,1,1,Dormant Owner
+1091,3,3,2,Emerging Owne
+1092,3,4,3,Champion
+1093,3,3,3,Champion
+1094,1,2,2,At Risk
+1095,3,4,3,Champion
+1096,3,3,3,Champion
+1097,1,2,2,At Risk
+1098,1,1,1,Dormant Owner
+1100,1,1,4,High Value-Low Activity
+1101,3,2,1,Dormant Owner
+1103,3,2,2,Emerging Owne
+1104,1,1,1,Dormant Owner
+1105,3,3,3,Champion
+1106,3,4,4,Champion
+1108,3,4,3,Champion
+1109,3,4,4,Champion
+1110,1,1,2,Dormant Owner
+1111,1,2,2,At Risk
+1112,3,3,2,Emerging Owne
+1114,2,4,4,Loyal Owner
+1115,3,2,1,Dormant Owner
+1116,1,3,3,At Risk
+1117,3,4,3,Champion
+1118,1,1,2,Dormant Owner
+1119,3,3,2,Emerging Owne
+1120,3,3,2,Emerging Owne
+1122,1,2,3,High Value-Low Activity
+1123,1,1,3,High Value-Low Activity
+1124,1,1,2,Dormant Owner
+1125,1,2,3,High Value-Low Activity
+1126,2,1,1,Dormant Owner
+1127,1,2,2,At Risk
+1128,3,2,2,Emerging Owne
+1129,3,3,2,Emerging Owne
+1131,3,3,1,Dormant Owner
+1132,3,3,2,Emerging Owne
+1133,3,3,4,Champion
+1134,1,3,3,At Risk
+1135,1,2,1,Dormant Owner
+1136,1,1,3,High Value-Low Activity
+1137,1,3,3,At Risk
+1139,1,1,2,Dormant Owner
+1140,1,1,4,High Value-Low Activity
+1142,3,3,2,Emerging Owne
+1143,1,1,1,Dormant Owner
+1144,3,2,1,Dormant Owner
+1145,2,1,1,Dormant Owner
+1146,3,4,4,Champion
+1147,1,2,1,Dormant Owner
+1148,3,4,4,Champion
+1149,2,2,2,Emerging Owne
+1150,3,4,4,Champion
+1151,3,2,3,Emerging Owne
+1152,1,1,1,Dormant Owner
+1154,1,1,1,Dormant Owner
+1156,1,1,1,Dormant Owner
+1157,1,1,3,High Value-Low Activity
+1158,1,1,1,Dormant Owner
+1159,1,2,2,At Risk
+1160,3,2,1,Dormant Owner
+1161,1,1,2,Dormant Owner
+1162,3,3,3,Champion
+1164,3,3,4,Champion
+1165,3,3,3,Champion
+1166,3,3,2,Emerging Owne
+1167,3,3,2,Emerging Owne
+1169,2,4,2,Emerging Owne
+1172,3,2,2,Emerging Owne
+1173,1,3,4,At Risk
+1174,1,1,1,Dormant Owner
+1175,3,4,3,Champion
+1176,1,1,2,Dormant Owner
+1177,1,1,1,Dormant Owner
+1178,1,1,1,Dormant Owner
+1179,1,1,1,Dormant Owner
+1180,3,4,4,Champion
+1181,3,4,4,Champion
+1182,1,2,2,At Risk
+1184,1,3,4,At Risk
+1185,3,4,3,Champion
+1186,3,2,1,Dormant Owner
+1187,3,3,2,Emerging Owne
+1188,2,2,1,Dormant Owner
+1189,1,1,1,Dormant Owner
+1190,1,1,1,Dormant Owner
+1191,1,1,1,Dormant Owner
+1192,3,4,3,Champion
+1193,1,2,1,Dormant Owner
+1194,1,1,1,Dormant Owner
+1195,3,4,3,Champion
+1196,1,3,3,At Risk
+1197,3,3,1,Dormant Owner
+1198,1,1,1,Dormant Owner
+1199,3,3,3,Champion
+1201,2,2,2,Emerging Owne
+1202,2,1,2,Dormant Owner
+1203,3,4,4,Champion
+1204,3,2,3,Emerging Owne
+1205,1,1,2,Dormant Owner
+1207,3,4,3,Champion
+1208,3,4,3,Champion
+1210,1,1,1,Dormant Owner
+1211,1,1,1,Dormant Owner
+1212,3,4,4,Champion
+1214,3,4,2,Emerging Owne
+1215,3,3,1,Dormant Owner
+1216,1,2,3,High Value-Low Activity
+1217,3,4,1,Dormant Owner
+1218,1,3,2,At Risk
+1219,3,3,1,Dormant Owner
+1220,3,4,3,Champion
+1223,1,1,2,Dormant Owner
+1224,1,1,2,Dormant Owner
+1225,3,3,2,Emerging Owne
+1226,1,3,4,At Risk
+1229,1,2,4,High Value-Low Activity
+1230,3,4,3,Champion
+1232,3,4,3,Champion
+1233,3,4,4,Champion
+1234,3,4,4,Champion
+1235,1,2,1,Dormant Owner
+1236,3,4,4,Champion
+1237,3,3,1,Dormant Owner
+1239,1,1,1,Dormant Owner
+1240,3,3,3,Champion
+1241,3,3,3,Champion
+1242,3,4,3,Champion
+1243,2,3,3,Loyal Owner
+1244,3,4,3,Champion
+1246,2,1,3,High Value-Low Activity
+1247,3,2,4,Emerging Owne
+1248,3,4,4,Champion
+1249,1,2,3,High Value-Low Activity
+1251,1,1,1,Dormant Owner
+1253,1,2,1,Dormant Owner
+1255,1,2,1,Dormant Owner
+1256,1,2,1,Dormant Owner
+1257,1,2,4,High Value-Low Activity
+1258,2,2,3,Emerging Owne
+1259,3,4,2,Emerging Owne
+1260,1,1,3,High Value-Low Activity
+1261,3,4,4,Champion
+1263,2,2,2,Emerging Owne
+1264,1,2,3,High Value-Low Activity
+1265,1,1,2,Dormant Owner
+1266,1,1,2,Dormant Owner
+1267,3,4,3,Champion
+1268,1,3,3,At Risk
+1269,2,3,4,Loyal Owner
+1270,1,1,1,Dormant Owner
+1271,3,3,3,Champion
+1273,3,4,2,Emerging Owne
+1274,3,4,4,Champion
+1275,3,4,3,Champion
+1276,3,3,2,Emerging Owne
+1277,3,4,4,Champion
+1279,2,3,1,Dormant Owner
+1280,1,2,3,High Value-Low Activity
+1281,3,4,4,Champion
+1282,1,1,1,Dormant Owner
+1283,1,2,2,At Risk
+1284,3,3,4,Champion
+1285,3,4,4,Champion
+1287,2,1,1,Dormant Owner
+1288,2,2,4,Emerging Owne
+1290,3,1,2,Dormant Owner
+1291,3,2,1,Dormant Owner
+1292,1,2,1,Dormant Owner
+1293,3,3,3,Champion
+1295,1,1,1,Dormant Owner
+1296,1,2,3,High Value-Low Activity
+1297,2,1,4,High Value-Low Activity
+1298,1,2,2,At Risk
+1299,1,1,4,High Value-Low Activity
+1300,1,2,3,High Value-Low Activity
+1301,1,1,2,Dormant Owner
+1302,3,4,3,Champion
+1303,3,3,3,Champion
+1305,3,4,4,Champion
+1307,1,2,1,Dormant Owner
+1309,1,2,1,Dormant Owner
+1310,3,4,3,Champion
+1311,3,3,1,Dormant Owner
+1312,3,4,4,Champion
+1313,1,1,1,Dormant Owner
+1314,2,1,1,Dormant Owner
+1315,3,3,2,Emerging Owne
+1316,1,3,4,At Risk
+1317,3,3,3,Champion
+1318,1,2,2,At Risk
+1319,3,4,3,Champion
+1321,3,2,1,Dormant Owner
+1322,1,1,1,Dormant Owner
+1323,3,4,4,Champion
+1324,3,4,4,Champion
+1327,3,4,3,Champion
+1329,1,2,2,At Risk
+1330,1,1,1,Dormant Owner
+1332,3,4,3,Champion
+1334,3,4,4,Champion
+1335,3,3,2,Emerging Owne
+1336,3,3,4,Champion
+1337,3,3,4,Champion
+1338,2,3,4,Loyal Owner
+1339,1,1,1,Dormant Owner
+1341,1,1,3,High Value-Low Activity
+1342,1,1,2,Dormant Owner
+1343,3,4,1,Dormant Owner
+1344,3,2,1,Dormant Owner
+1345,1,3,3,At Risk
+1346,1,1,1,Dormant Owner
+1347,1,1,2,Dormant Owner
+1348,1,2,2,At Risk
+1349,3,1,2,Dormant Owner
+1350,3,3,4,Champion
+1351,1,1,3,High Value-Low Activity
+1352,3,4,4,Champion
+1353,3,4,4,Champion
+1354,2,1,1,Dormant Owner
+1355,1,2,1,Dormant Owner
+1356,1,2,2,At Risk
+1357,2,2,4,Emerging Owne
+1358,2,1,1,Dormant Owner
+1360,1,1,1,Dormant Owner
+1361,3,4,1,Dormant Owner
+1363,3,4,3,Champion
+1364,1,3,4,At Risk
+1365,3,4,4,Champion
+1366,3,3,3,Champion
+1367,3,3,4,Champion
+1368,1,1,1,Dormant Owner
+1369,3,4,4,Champion
+1371,1,1,1,Dormant Owner
+1373,3,4,3,Champion
+1374,3,4,2,Emerging Owne
+1376,1,1,1,Dormant Owner
+1378,3,4,4,Champion
+1379,2,1,1,Dormant Owner
+1380,1,1,2,Dormant Owner
+1381,3,4,4,Champion
+1382,1,3,4,At Risk
+1383,1,1,1,Dormant Owner
+1384,1,1,1,Dormant Owner
+1385,3,2,1,Dormant Owner
+1386,3,4,2,Emerging Owne
+1387,1,1,1,Dormant Owner
+1388,1,1,2,Dormant Owner
+1389,1,1,1,Dormant Owner
+1390,3,1,1,Dormant Owner
+1392,3,4,3,Champion
+1394,1,2,1,Dormant Owner
+1395,1,1,1,Dormant Owner
+1396,3,4,3,Champion
+1397,2,2,1,Dormant Owner
+1398,2,1,2,Dormant Owner
+1399,3,2,2,Emerging Owne
+1400,1,4,4,At Risk
+1403,3,3,4,Champion
+1404,3,4,4,Champion
+1405,2,2,3,Emerging Owne
+1406,3,4,4,Champion
+1407,1,1,2,Dormant Owner
+1408,3,4,3,Champion
+1409,3,4,3,Champion
+1410,1,3,3,At Risk
+1411,3,4,4,Champion
+1412,3,4,2,Emerging Owne
+1413,3,4,4,Champion
+1414,3,4,4,Champion
+1415,3,4,2,Emerging Owne
+1417,3,4,3,Champion
+1418,2,3,4,Loyal Owner
+1419,1,2,1,Dormant Owner
+1420,1,3,4,At Risk
+1421,3,4,3,Champion
+1422,3,4,4,Champion
+1423,2,4,3,Loyal Owner
+1424,3,4,1,Dormant Owner
+1425,3,4,2,Emerging Owne
+1426,3,1,1,Dormant Owner
+1427,1,3,3,At Risk
+1430,1,2,2,At Risk
+1431,3,4,3,Champion
+1432,1,3,3,At Risk
+1433,3,1,3,High Value-Low Activity
+1434,1,1,1,Dormant Owner
+1435,3,4,3,Champion
+1436,3,3,1,Dormant Owner
+1437,2,3,2,Emerging Owne
+1438,1,1,2,Dormant Owner
+1439,3,3,2,Emerging Owne
+1440,3,4,4,Champion
+1442,2,4,3,Loyal Owner
+1443,3,4,2,Emerging Owne
+1444,3,4,4,Champion
+1446,1,1,1,Dormant Owner
+1447,3,4,4,Champion
+1448,1,2,2,At Risk
+1449,1,1,1,Dormant Owner
+1450,3,4,4,Champion
+1452,3,4,4,Champion
+1453,3,4,4,Champion
+1456,3,4,3,Champion
+1457,3,3,3,Champion
+1458,2,1,1,Dormant Owner
+1459,1,1,1,Dormant Owner
+1460,3,4,2,Emerging Owne
+1461,2,3,2,Emerging Owne
+1462,3,4,2,Emerging Owne
+1463,1,1,2,Dormant Owner
+1466,3,4,4,Champion
+1467,1,1,3,High Value-Low Activity
+1468,3,4,1,Dormant Owner
+1469,2,4,4,Loyal Owner
+1471,3,2,3,Emerging Owne
+1472,3,4,4,Champion
+1473,3,3,3,Champion
+1475,1,1,3,High Value-Low Activity
+1476,1,1,3,High Value-Low Activity
+1477,3,4,2,Emerging Owne
+1478,3,4,3,Champion
+1479,3,3,2,Emerging Owne
+1480,3,2,2,Emerging Owne
+1481,3,4,3,Champion
+1482,2,4,3,Loyal Owner
+1483,1,1,1,Dormant Owner
+1484,3,2,3,Emerging Owne
+1485,1,1,2,Dormant Owner
+1487,1,1,1,Dormant Owner
+1488,1,1,3,High Value-Low Activity
+1489,3,4,3,Champion
+1490,3,4,3,Champion
+1491,1,1,1,Dormant Owner
+1492,2,1,1,Dormant Owner
+1494,3,3,2,Emerging Owne
+1495,3,4,2,Emerging Owne
+1496,3,3,2,Emerging Owne
+1497,1,2,1,Dormant Owner
+1499,3,3,3,Champion
+1500,3,4,4,Champion
+1501,1,1,1,Dormant Owner
+1502,3,4,4,Champion
+1503,3,3,4,Champion
+1504,1,1,1,Dormant Owner
+1508,3,3,1,Dormant Owner
+1509,2,2,2,Emerging Owne
+1511,3,4,4,Champion
+1512,1,1,1,Dormant Owner
+1513,1,1,2,Dormant Owner
+1515,3,4,3,Champion
+1516,3,4,3,Champion
+1517,1,1,1,Dormant Owner
+1520,2,1,1,Dormant Owner
+1521,3,3,2,Emerging Owne
+1522,3,4,1,Dormant Owner
+1523,1,4,4,At Risk
+1524,1,2,2,At Risk
+1525,3,2,3,Emerging Owne
+1526,2,3,2,Emerging Owne
+1527,3,4,4,Champion
+1529,1,1,1,Dormant Owner
+1530,2,2,4,Emerging Owne
+1531,3,2,4,Emerging Owne
+1532,1,1,1,Dormant Owner
+1533,1,1,3,High Value-Low Activity
+1534,3,4,2,Emerging Owne
+1538,3,4,4,Champion
+1539,3,4,3,Champion
+1540,1,2,4,High Value-Low Activity
+1541,2,3,4,Loyal Owner
+1542,1,3,3,At Risk
+1543,1,1,1,Dormant Owner
+1544,3,4,4,Champion
+1545,3,4,4,Champion
+1546,3,4,3,Champion
+1547,2,2,3,Emerging Owne
+1548,1,1,3,High Value-Low Activity
+1549,1,1,2,Dormant Owner
+1550,3,4,3,Champion
+1551,2,3,1,Dormant Owner
+1552,1,1,1,Dormant Owner
+1553,1,2,2,At Risk
+1554,3,4,2,Emerging Owne
+1555,3,2,2,Emerging Owne
+1556,2,1,1,Dormant Owner
+1557,2,2,2,Emerging Owne
+1558,3,4,4,Champion
+1560,1,1,2,Dormant Owner
+1561,1,1,1,Dormant Owner
+1562,3,4,4,Champion
+1564,1,1,4,High Value-Low Activity
+1565,2,3,4,Loyal Owner
+1567,3,3,3,Champion
+1568,3,4,3,Champion
+1569,3,4,2,Emerging Owne
+1570,1,2,2,At Risk
+1571,3,4,2,Emerging Owne
+1572,1,1,1,Dormant Owner
+1573,3,4,3,Champion
+1575,3,4,3,Champion
+1576,2,2,3,Emerging Owne
+1578,1,4,4,At Risk
+1582,3,4,4,Champion
+1583,1,3,2,At Risk
+1584,3,3,2,Emerging Owne
+1585,3,4,4,Champion
+1586,1,2,4,High Value-Low Activity
+1587,3,3,3,Champion
+1588,3,4,4,Champion
+1589,3,1,2,Dormant Owner
+1590,3,2,1,Dormant Owner
+1593,3,3,4,Champion
+1594,1,1,1,Dormant Owner
+1595,1,1,1,Dormant Owner
+1598,1,2,4,High Value-Low Activity
+1599,1,1,2,Dormant Owner
+1602,3,4,3,Champion
+1603,1,1,1,Dormant Owner
+1604,2,2,2,Emerging Owne
+1605,1,1,2,Dormant Owner
+1606,2,4,2,Emerging Owne
+1607,3,3,2,Emerging Owne
+1608,3,4,4,Champion
+1609,3,4,3,Champion
+1610,1,2,2,At Risk
+1611,1,1,1,Dormant Owner
+1612,1,1,4,High Value-Low Activity
+1613,1,1,3,High Value-Low Activity
+1614,1,2,1,Dormant Owner
+1615,1,2,2,At Risk
+1617,1,1,1,Dormant Owner
+1618,3,4,2,Emerging Owne
+1620,1,2,1,Dormant Owner
+1621,3,3,2,Emerging Owne
+1622,3,4,3,Champion
+1624,3,4,4,Champion
+1625,1,2,3,High Value-Low Activity
+1626,3,4,2,Emerging Owne
+1627,3,4,3,Champion
+1628,3,4,3,Champion
+1630,1,1,1,Dormant Owner
+1631,3,4,3,Champion
+1632,3,3,2,Emerging Owne
+1633,3,4,4,Champion
+1634,1,1,1,Dormant Owner
+1635,3,2,4,Emerging Owne
+1636,1,1,1,Dormant Owner
+1637,3,4,3,Champion
+1639,1,1,1,Dormant Owner
+1641,1,1,1,Dormant Owner
+1642,3,4,3,Champion
+1643,2,3,4,Loyal Owner
+1644,3,4,3,Champion
+1645,3,3,2,Emerging Owne
+1646,1,2,3,High Value-Low Activity
+1648,1,1,3,High Value-Low Activity
+1649,3,4,3,Champion
+1650,2,1,2,Dormant Owner
+1651,1,2,1,Dormant Owner
+1652,3,3,2,Emerging Owne
+1653,1,3,4,At Risk
+1654,3,4,1,Dormant Owner
+1655,1,2,1,Dormant Owner
+1656,3,4,4,Champion
+1658,3,4,3,Champion
+1660,3,3,2,Emerging Owne
+1662,2,4,4,Loyal Owner
+1663,3,2,1,Dormant Owner
+1664,1,4,4,At Risk
+1665,3,2,2,Emerging Owne
+1666,3,4,3,Champion
+1667,2,2,3,Emerging Owne
+1668,3,4,4,Champion
+1669,3,3,2,Emerging Owne
+1670,3,3,3,Champion
+1671,3,2,3,Emerging Owne
+1672,1,2,1,Dormant Owner
+1673,1,2,1,Dormant Owner
+1676,2,2,1,Dormant Owner
+1677,3,4,4,Champion
+1678,3,3,2,Emerging Owne
+1679,1,2,1,Dormant Owner
+1680,3,4,2,Emerging Owne
+1681,3,4,4,Champion
+1682,1,2,2,At Risk
+1684,3,4,3,Champion
+1685,2,3,2,Emerging Owne
+1686,2,4,2,Emerging Owne
+1687,1,2,2,At Risk
+1688,1,3,3,At Risk
+1689,1,2,2,At Risk
+1690,3,4,4,Champion
+1691,1,3,4,At Risk
+1692,3,3,2,Emerging Owne
+1694,3,3,1,Dormant Owner
+1695,2,3,4,Loyal Owner
+1696,3,3,4,Champion
+1697,1,2,1,Dormant Owner
+1698,1,2,2,At Risk
+1699,1,2,3,High Value-Low Activity
+1700,3,4,4,Champion
+1702,1,2,2,At Risk
+1703,3,4,1,Dormant Owner
+1704,3,4,4,Champion
+1705,1,3,2,At Risk
+1706,2,2,1,Dormant Owner
+1707,1,2,1,Dormant Owner
+1709,2,2,2,Emerging Owne
+1710,2,2,1,Dormant Owner
+1711,2,2,4,Emerging Owne
+1712,3,4,4,Champion
+1713,1,2,2,At Risk
+1714,1,2,2,At Risk
+1715,3,4,4,Champion
+1716,3,2,2,Emerging Owne
+1717,2,2,3,Emerging Owne
+1718,3,4,3,Champion
+1719,2,2,2,Emerging Owne
+1720,2,2,1,Dormant Owner
+1721,1,2,2,At Risk
+1722,3,4,4,Champion
+1723,1,2,1,Dormant Owner
+1724,3,4,4,Champion
+1725,1,3,4,At Risk
+1727,3,2,4,Emerging Owne
+1729,2,2,3,Emerging Owne
+1730,3,3,1,Dormant Owner
+1731,1,2,4,High Value-Low Activity
+1732,3,4,3,Champion
+1733,2,3,4,Loyal Owner
+1735,3,3,2,Emerging Owne
+1736,3,2,2,Emerging Owne
+1737,1,2,1,Dormant Owner
+1739,3,4,2,Emerging Owne
+1740,3,4,3,Champion
+1741,3,4,3,Champion
+1742,3,3,2,Emerging Owne
+1743,1,2,1,Dormant Owner
+1745,2,2,4,Emerging Owne
+1746,3,3,2,Emerging Owne
+1747,1,2,4,High Value-Low Activity
+1748,3,4,4,Champion
+1749,3,4,4,Champion
+1751,1,2,4,High Value-Low Activity
+1752,3,4,3,Champion
+1754,3,4,4,Champion
+1755,3,2,1,Dormant Owner

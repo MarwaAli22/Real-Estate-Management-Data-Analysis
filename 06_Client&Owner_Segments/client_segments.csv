@@ -1,0 +1,1828 @@
+client_id,R_Score,F_Score,M_Score,Segment
+1,3,1,1,Mid-Tier
+2,2,1,2,Mid-Tier
+3,3,1,1,Mid-Tier
+4,1,1,3,Big Spender
+5,1,1,1,Mid-Tier
+6,2,2,1,Mid-Tier
+7,3,4,4,VIP Clients
+8,3,2,1,Mid-Tier
+10,2,2,4,Potential Loyalist
+11,3,1,1,Mid-Tier
+12,3,1,1,Mid-Tier
+13,3,3,4,VIP Clients
+14,3,3,3,VIP Clients
+15,1,3,1,Mid-Tier
+16,1,1,2,Mid-Tier
+17,1,1,1,Mid-Tier
+19,1,1,2,Mid-Tier
+20,2,1,3,Big Spender
+21,3,3,3,VIP Clients
+22,1,3,4,At Risk
+23,3,2,3,Potential Loyalist
+25,2,2,4,Potential Loyalist
+26,3,3,2,Potential Loyalist
+27,1,2,4,Big Spender
+28,2,3,4,Regular High-Value
+29,3,3,4,VIP Clients
+30,1,1,1,Mid-Tier
+31,3,4,4,VIP Clients
+32,1,1,4,Big Spender
+34,3,2,2,Potential Loyalist
+35,3,2,2,Potential Loyalist
+36,2,2,2,Potential Loyalist
+37,2,4,4,Regular High-Value
+38,1,1,1,Mid-Tier
+39,3,1,1,Mid-Tier
+41,3,1,2,Mid-Tier
+42,3,4,3,VIP Clients
+43,2,3,3,Regular High-Value
+45,2,1,2,Mid-Tier
+46,3,2,3,Potential Loyalist
+47,2,2,1,Mid-Tier
+48,3,4,4,VIP Clients
+49,2,2,4,Potential Loyalist
+50,3,1,1,Mid-Tier
+51,3,4,3,VIP Clients
+52,3,3,3,VIP Clients
+53,3,3,4,VIP Clients
+54,2,1,1,Mid-Tier
+56,3,3,2,Potential Loyalist
+58,1,2,2,At Risk
+59,2,4,4,Regular High-Value
+60,3,2,3,Potential Loyalist
+61,2,3,3,Regular High-Value
+62,2,4,3,Regular High-Value
+63,2,1,3,Big Spender
+64,2,2,1,Mid-Tier
+65,2,1,1,Mid-Tier
+66,3,2,1,Mid-Tier
+67,3,1,1,Mid-Tier
+70,1,1,3,Big Spender
+71,3,2,2,Potential Loyalist
+72,3,3,2,Potential Loyalist
+73,3,2,2,Potential Loyalist
+74,3,4,4,VIP Clients
+76,3,2,1,Mid-Tier
+77,1,4,3,At Risk
+78,1,2,1,Mid-Tier
+79,3,3,3,VIP Clients
+80,3,1,1,Mid-Tier
+81,3,2,1,Mid-Tier
+83,3,4,4,VIP Clients
+85,1,1,2,Mid-Tier
+86,2,3,3,Regular High-Value
+87,3,2,1,Mid-Tier
+88,3,3,3,VIP Clients
+89,2,4,3,Regular High-Value
+90,1,3,4,At Risk
+91,3,1,2,Mid-Tier
+92,1,1,3,Big Spender
+93,2,4,4,Regular High-Value
+94,3,3,3,VIP Clients
+96,2,3,3,Regular High-Value
+97,3,2,3,Potential Loyalist
+98,1,2,2,At Risk
+99,3,4,4,VIP Clients
+101,3,4,3,VIP Clients
+102,2,3,4,Regular High-Value
+104,2,2,3,Potential Loyalist
+105,2,4,4,Regular High-Value
+106,3,4,4,VIP Clients
+107,1,1,3,Big Spender
+108,1,2,2,At Risk
+109,3,2,2,Potential Loyalist
+110,1,2,2,At Risk
+111,3,4,2,Potential Loyalist
+112,3,3,2,Potential Loyalist
+113,3,4,3,VIP Clients
+114,3,3,3,VIP Clients
+115,3,1,2,Mid-Tier
+116,3,3,4,VIP Clients
+117,3,2,2,Potential Loyalist
+118,3,4,2,Potential Loyalist
+119,3,4,3,VIP Clients
+120,3,4,4,VIP Clients
+121,3,2,1,Mid-Tier
+123,3,3,3,VIP Clients
+124,3,4,4,VIP Clients
+125,2,2,1,Mid-Tier
+126,3,4,4,VIP Clients
+127,1,1,1,Mid-Tier
+128,3,2,2,Potential Loyalist
+129,1,2,2,At Risk
+130,2,2,3,Potential Loyalist
+131,1,1,1,Mid-Tier
+132,3,2,2,Potential Loyalist
+133,3,1,1,Mid-Tier
+135,2,3,4,Regular High-Value
+136,1,1,1,Mid-Tier
+137,3,4,4,VIP Clients
+138,3,4,4,VIP Clients
+139,3,3,4,VIP Clients
+140,3,3,2,Potential Loyalist
+141,3,3,3,VIP Clients
+142,2,2,2,Potential Loyalist
+143,3,1,1,Mid-Tier
+144,1,2,2,At Risk
+145,3,3,4,VIP Clients
+146,1,1,4,Big Spender
+147,3,4,4,VIP Clients
+150,3,2,2,Potential Loyalist
+152,3,1,1,Mid-Tier
+153,1,1,2,Mid-Tier
+154,3,1,2,Mid-Tier
+155,3,2,3,Potential Loyalist
+156,3,1,1,Mid-Tier
+157,2,1,4,Big Spender
+158,1,1,3,Big Spender
+159,1,1,1,Mid-Tier
+160,3,3,3,VIP Clients
+161,2,1,4,Big Spender
+162,2,2,4,Potential Loyalist
+163,2,4,4,Regular High-Value
+164,2,2,2,Potential Loyalist
+165,3,2,3,Potential Loyalist
+166,3,3,2,Potential Loyalist
+167,2,2,4,Potential Loyalist
+168,3,4,2,Potential Loyalist
+169,1,1,1,Mid-Tier
+170,3,2,1,Mid-Tier
+171,3,4,3,VIP Clients
+172,3,3,4,VIP Clients
+175,2,1,2,Mid-Tier
+176,2,2,3,Potential Loyalist
+177,3,2,3,Potential Loyalist
+180,3,3,3,VIP Clients
+181,3,1,2,Mid-Tier
+182,2,2,3,Potential Loyalist
+183,1,1,3,Big Spender
+184,3,1,1,Mid-Tier
+185,3,1,1,Mid-Tier
+186,3,3,4,VIP Clients
+187,3,3,4,VIP Clients
+188,2,2,2,Potential Loyalist
+189,1,2,1,Mid-Tier
+190,2,4,4,Regular High-Value
+191,3,3,4,VIP Clients
+192,1,1,1,Mid-Tier
+193,2,1,4,Big Spender
+194,3,3,4,VIP Clients
+195,3,1,1,Mid-Tier
+196,3,3,4,VIP Clients
+197,1,1,1,Mid-Tier
+198,2,3,2,Potential Loyalist
+199,2,1,1,Mid-Tier
+200,3,1,1,Mid-Tier
+201,3,4,4,VIP Clients
+204,3,4,4,VIP Clients
+205,3,4,4,VIP Clients
+206,3,3,3,VIP Clients
+208,3,2,2,Potential Loyalist
+209,1,1,1,Mid-Tier
+210,3,4,3,VIP Clients
+211,3,3,3,VIP Clients
+212,3,1,1,Mid-Tier
+213,3,3,1,Mid-Tier
+214,2,1,1,Mid-Tier
+215,3,1,1,Mid-Tier
+216,1,1,3,Big Spender
+218,3,3,3,VIP Clients
+219,3,4,4,VIP Clients
+220,3,3,4,VIP Clients
+221,2,1,1,Mid-Tier
+222,3,4,3,VIP Clients
+223,3,1,1,Mid-Tier
+224,3,4,4,VIP Clients
+225,3,1,1,Mid-Tier
+226,3,1,1,Mid-Tier
+227,3,2,1,Mid-Tier
+228,1,1,1,Mid-Tier
+229,2,1,1,Mid-Tier
+231,3,1,3,Big Spender
+232,3,2,1,Mid-Tier
+233,2,2,3,Potential Loyalist
+235,3,2,2,Potential Loyalist
+237,2,3,3,Regular High-Value
+238,2,1,2,Mid-Tier
+239,3,3,3,VIP Clients
+240,3,3,4,VIP Clients
+241,2,1,1,Mid-Tier
+242,3,4,4,VIP Clients
+243,2,3,3,Regular High-Value
+244,1,2,2,At Risk
+245,3,4,4,VIP Clients
+246,2,1,2,Mid-Tier
+247,2,1,2,Mid-Tier
+248,3,3,4,VIP Clients
+250,3,4,4,VIP Clients
+251,3,4,4,VIP Clients
+252,3,4,2,Potential Loyalist
+253,3,4,4,VIP Clients
+255,3,2,2,Potential Loyalist
+256,1,1,2,Mid-Tier
+257,2,2,2,Potential Loyalist
+259,3,3,3,VIP Clients
+260,3,2,2,Potential Loyalist
+261,3,2,2,Potential Loyalist
+262,3,3,3,VIP Clients
+263,3,1,2,Mid-Tier
+264,1,1,3,Big Spender
+265,3,1,1,Mid-Tier
+266,3,2,3,Potential Loyalist
+267,1,2,2,At Risk
+268,3,1,3,Big Spender
+269,3,1,1,Mid-Tier
+270,1,1,1,Mid-Tier
+271,3,3,3,VIP Clients
+272,1,1,2,Mid-Tier
+273,1,2,2,At Risk
+274,3,1,4,Big Spender
+275,1,1,3,Big Spender
+276,1,1,2,Mid-Tier
+277,1,1,2,Mid-Tier
+278,3,1,1,Mid-Tier
+279,3,1,1,Mid-Tier
+281,2,3,4,Regular High-Value
+282,3,4,3,VIP Clients
+283,3,2,3,Potential Loyalist
+284,3,3,4,VIP Clients
+286,1,1,1,Mid-Tier
+287,1,2,3,Big Spender
+288,3,1,1,Mid-Tier
+289,2,1,1,Mid-Tier
+290,2,2,1,Mid-Tier
+292,2,2,4,Potential Loyalist
+293,3,2,3,Potential Loyalist
+294,2,2,4,Potential Loyalist
+295,3,2,1,Mid-Tier
+296,3,3,4,VIP Clients
+297,3,2,3,Potential Loyalist
+298,1,4,4,At Risk
+299,1,1,1,Mid-Tier
+300,1,1,4,Big Spender
+301,3,2,2,Potential Loyalist
+302,3,2,3,Potential Loyalist
+303,3,2,2,Potential Loyalist
+304,1,2,2,At Risk
+305,3,3,4,VIP Clients
+306,3,2,4,Potential Loyalist
+307,2,1,4,Big Spender
+308,3,3,3,VIP Clients
+309,2,2,4,Potential Loyalist
+310,3,3,4,VIP Clients
+311,3,4,3,VIP Clients
+312,2,2,3,Potential Loyalist
+313,1,1,1,Mid-Tier
+314,3,4,4,VIP Clients
+315,3,2,1,Mid-Tier
+316,3,2,2,Potential Loyalist
+317,2,1,3,Big Spender
+318,2,1,1,Mid-Tier
+319,2,1,1,Mid-Tier
+320,1,1,2,Mid-Tier
+322,3,4,4,VIP Clients
+323,2,2,3,Potential Loyalist
+324,1,1,1,Mid-Tier
+326,3,4,3,VIP Clients
+327,3,4,4,VIP Clients
+329,2,2,1,Mid-Tier
+330,1,2,2,At Risk
+331,3,3,3,VIP Clients
+332,3,2,3,Potential Loyalist
+334,1,1,2,Mid-Tier
+335,1,1,2,Mid-Tier
+337,3,1,2,Mid-Tier
+338,1,2,2,At Risk
+339,3,3,3,VIP Clients
+342,3,4,4,VIP Clients
+343,1,1,3,Big Spender
+344,1,1,4,Big Spender
+345,3,4,4,VIP Clients
+346,1,1,1,Mid-Tier
+347,2,1,1,Mid-Tier
+348,3,2,1,Mid-Tier
+349,3,4,4,VIP Clients
+350,3,3,1,Mid-Tier
+351,2,3,4,Regular High-Value
+352,2,1,1,Mid-Tier
+353,3,2,4,Potential Loyalist
+354,3,2,2,Potential Loyalist
+355,3,4,4,VIP Clients
+356,1,2,4,Big Spender
+358,2,2,3,Potential Loyalist
+359,2,2,4,Potential Loyalist
+360,3,2,2,Potential Loyalist
+361,3,4,3,VIP Clients
+362,2,1,2,Mid-Tier
+363,3,1,1,Mid-Tier
+364,3,4,2,Potential Loyalist
+365,3,4,4,VIP Clients
+366,3,2,2,Potential Loyalist
+367,2,1,2,Mid-Tier
+368,1,1,1,Mid-Tier
+369,3,2,2,Potential Loyalist
+371,3,3,2,Potential Loyalist
+372,2,1,1,Mid-Tier
+375,2,1,3,Big Spender
+376,3,2,1,Mid-Tier
+377,1,1,2,Mid-Tier
+378,3,2,2,Potential Loyalist
+379,2,4,4,Regular High-Value
+380,3,3,2,Potential Loyalist
+381,1,1,3,Big Spender
+382,3,1,1,Mid-Tier
+383,3,4,3,VIP Clients
+384,2,3,4,Regular High-Value
+385,3,4,3,VIP Clients
+386,3,2,1,Mid-Tier
+387,2,1,2,Mid-Tier
+388,3,1,1,Mid-Tier
+389,1,2,2,At Risk
+391,3,4,4,VIP Clients
+392,1,1,3,Big Spender
+393,3,4,4,VIP Clients
+394,3,4,3,VIP Clients
+395,2,3,4,Regular High-Value
+396,1,1,1,Mid-Tier
+397,2,1,1,Mid-Tier
+398,1,1,1,Mid-Tier
+399,2,2,2,Potential Loyalist
+401,2,2,2,Potential Loyalist
+402,3,1,1,Mid-Tier
+403,2,2,2,Potential Loyalist
+404,3,3,2,Potential Loyalist
+405,3,4,4,VIP Clients
+406,3,3,3,VIP Clients
+407,3,4,4,VIP Clients
+409,2,1,1,Mid-Tier
+410,3,3,1,Mid-Tier
+411,3,2,2,Potential Loyalist
+412,3,3,3,VIP Clients
+413,2,1,4,Big Spender
+414,3,3,2,Potential Loyalist
+415,1,1,2,Mid-Tier
+416,3,2,2,Potential Loyalist
+417,2,4,2,Potential Loyalist
+418,3,3,2,Potential Loyalist
+420,3,3,3,VIP Clients
+422,3,2,1,Mid-Tier
+423,3,2,3,Potential Loyalist
+424,3,2,2,Potential Loyalist
+425,2,2,3,Potential Loyalist
+426,2,1,1,Mid-Tier
+427,2,3,1,Mid-Tier
+428,1,1,1,Mid-Tier
+429,3,4,1,Mid-Tier
+430,3,2,2,Potential Loyalist
+431,2,2,3,Potential Loyalist
+432,2,2,4,Potential Loyalist
+433,2,2,3,Potential Loyalist
+434,2,1,2,Mid-Tier
+435,1,1,1,Mid-Tier
+436,2,2,2,Potential Loyalist
+437,2,2,2,Potential Loyalist
+438,2,2,3,Potential Loyalist
+439,3,1,1,Mid-Tier
+441,3,2,3,Potential Loyalist
+442,2,3,1,Mid-Tier
+443,1,1,3,Big Spender
+444,3,3,3,VIP Clients
+445,3,1,1,Mid-Tier
+446,2,2,3,Potential Loyalist
+448,2,2,3,Potential Loyalist
+449,3,3,4,VIP Clients
+450,3,2,1,Mid-Tier
+451,2,2,3,Potential Loyalist
+452,2,3,4,Regular High-Value
+453,3,2,2,Potential Loyalist
+454,3,3,2,Potential Loyalist
+455,3,4,2,Potential Loyalist
+456,3,2,3,Potential Loyalist
+457,2,2,3,Potential Loyalist
+458,2,2,3,Potential Loyalist
+459,3,2,1,Mid-Tier
+460,3,2,2,Potential Loyalist
+462,3,2,3,Potential Loyalist
+463,2,4,3,Regular High-Value
+464,3,2,2,Potential Loyalist
+465,3,4,4,VIP Clients
+466,3,4,4,VIP Clients
+467,3,4,4,VIP Clients
+468,2,1,2,Mid-Tier
+469,3,4,3,VIP Clients
+470,3,2,1,Mid-Tier
+471,3,2,2,Potential Loyalist
+472,3,2,4,Potential Loyalist
+473,2,4,4,Regular High-Value
+474,1,1,1,Mid-Tier
+475,3,2,1,Mid-Tier
+476,3,4,3,VIP Clients
+477,2,1,1,Mid-Tier
+478,3,1,1,Mid-Tier
+479,1,1,1,Mid-Tier
+480,3,4,4,VIP Clients
+481,3,2,3,Potential Loyalist
+482,2,1,1,Mid-Tier
+483,3,2,1,Mid-Tier
+484,3,2,4,Potential Loyalist
+485,2,3,3,Regular High-Value
+486,3,2,2,Potential Loyalist
+487,2,1,1,Mid-Tier
+488,2,2,1,Mid-Tier
+489,3,2,2,Potential Loyalist
+490,1,1,1,Mid-Tier
+491,2,2,4,Potential Loyalist
+492,3,3,2,Potential Loyalist
+493,1,1,4,Big Spender
+494,2,3,3,Regular High-Value
+495,3,4,4,VIP Clients
+496,3,3,2,Potential Loyalist
+497,3,3,1,Mid-Tier
+498,1,1,1,Mid-Tier
+500,2,2,3,Potential Loyalist
+501,1,2,3,Big Spender
+502,1,1,1,Mid-Tier
+504,1,1,2,Mid-Tier
+506,3,3,1,Mid-Tier
+507,3,3,3,VIP Clients
+508,3,3,4,VIP Clients
+511,1,3,2,At Risk
+512,3,1,1,Mid-Tier
+514,2,2,3,Potential Loyalist
+515,3,3,3,VIP Clients
+517,2,2,3,Potential Loyalist
+518,3,3,2,Potential Loyalist
+519,1,1,1,Mid-Tier
+520,3,4,4,VIP Clients
+521,3,2,2,Potential Loyalist
+522,2,1,2,Mid-Tier
+523,2,1,1,Mid-Tier
+524,3,2,4,Potential Loyalist
+525,2,3,4,Regular High-Value
+526,3,4,3,VIP Clients
+527,2,1,1,Mid-Tier
+528,2,1,1,Mid-Tier
+529,3,3,3,VIP Clients
+530,2,3,4,Regular High-Value
+531,3,4,3,VIP Clients
+532,2,3,4,Regular High-Value
+533,2,4,4,Regular High-Value
+534,3,2,1,Mid-Tier
+536,2,1,1,Mid-Tier
+537,2,1,1,Mid-Tier
+538,3,4,3,VIP Clients
+539,2,1,2,Mid-Tier
+540,3,3,2,Potential Loyalist
+542,1,1,1,Mid-Tier
+543,3,2,1,Mid-Tier
+544,3,1,1,Mid-Tier
+545,3,4,4,VIP Clients
+546,2,2,2,Potential Loyalist
+547,3,1,2,Mid-Tier
+548,3,2,4,Potential Loyalist
+549,3,1,2,Mid-Tier
+550,3,2,2,Potential Loyalist
+551,3,3,2,Potential Loyalist
+552,1,3,2,At Risk
+553,1,1,1,Mid-Tier
+554,2,1,1,Mid-Tier
+555,3,3,4,VIP Clients
+556,2,2,4,Potential Loyalist
+557,2,3,4,Regular High-Value
+558,3,4,4,VIP Clients
+559,2,1,2,Mid-Tier
+560,3,2,4,Potential Loyalist
+561,3,3,3,VIP Clients
+562,3,1,1,Mid-Tier
+563,1,2,4,Big Spender
+564,3,2,2,Potential Loyalist
+565,3,1,1,Mid-Tier
+566,1,2,4,Big Spender
+567,2,2,1,Mid-Tier
+568,2,1,1,Mid-Tier
+569,3,4,3,VIP Clients
+570,1,2,2,At Risk
+571,3,1,1,Mid-Tier
+572,3,4,3,VIP Clients
+573,3,3,3,VIP Clients
+574,3,4,3,VIP Clients
+576,2,3,2,Potential Loyalist
+578,3,4,3,VIP Clients
+579,3,3,3,VIP Clients
+580,3,2,2,Potential Loyalist
+581,1,1,1,Mid-Tier
+582,3,4,3,VIP Clients
+584,3,2,2,Potential Loyalist
+585,1,1,1,Mid-Tier
+586,3,2,2,Potential Loyalist
+587,3,2,3,Potential Loyalist
+589,3,4,3,VIP Clients
+590,2,3,3,Regular High-Value
+591,2,2,2,Potential Loyalist
+592,2,1,1,Mid-Tier
+593,3,4,4,VIP Clients
+594,2,4,4,Regular High-Value
+595,1,4,3,At Risk
+596,3,1,2,Mid-Tier
+597,3,2,1,Mid-Tier
+598,3,4,3,VIP Clients
+599,2,3,3,Regular High-Value
+600,2,2,4,Potential Loyalist
+601,1,1,1,Mid-Tier
+602,3,4,3,VIP Clients
+604,3,1,2,Mid-Tier
+605,2,4,4,Regular High-Value
+606,3,3,3,VIP Clients
+607,3,2,2,Potential Loyalist
+608,1,1,3,Big Spender
+609,3,2,2,Potential Loyalist
+611,3,4,4,VIP Clients
+612,1,1,1,Mid-Tier
+613,1,1,1,Mid-Tier
+614,1,2,2,At Risk
+615,1,1,4,Big Spender
+616,1,1,4,Big Spender
+617,3,3,2,Potential Loyalist
+618,3,2,3,Potential Loyalist
+621,1,2,3,Big Spender
+622,3,2,2,Potential Loyalist
+623,1,2,3,Big Spender
+624,2,2,2,Potential Loyalist
+625,1,1,3,Big Spender
+626,1,2,4,Big Spender
+627,3,3,2,Potential Loyalist
+628,1,1,1,Mid-Tier
+629,3,4,3,VIP Clients
+630,3,3,3,VIP Clients
+631,2,1,2,Mid-Tier
+632,3,1,1,Mid-Tier
+633,3,4,4,VIP Clients
+634,3,3,4,VIP Clients
+635,3,1,2,Mid-Tier
+636,3,3,3,VIP Clients
+637,2,3,3,Regular High-Value
+638,3,4,3,VIP Clients
+639,3,2,3,Potential Loyalist
+640,2,4,4,Regular High-Value
+641,3,1,1,Mid-Tier
+642,1,1,3,Big Spender
+643,1,2,3,Big Spender
+644,3,4,4,VIP Clients
+645,3,3,4,VIP Clients
+646,3,4,4,VIP Clients
+647,3,2,1,Mid-Tier
+648,2,2,4,Potential Loyalist
+649,2,3,2,Potential Loyalist
+651,3,3,3,VIP Clients
+652,2,3,3,Regular High-Value
+654,1,2,3,Big Spender
+655,3,3,4,VIP Clients
+656,2,4,4,Regular High-Value
+657,3,4,4,VIP Clients
+658,2,1,4,Big Spender
+660,3,3,4,VIP Clients
+662,3,2,3,Potential Loyalist
+663,3,2,2,Potential Loyalist
+665,3,1,1,Mid-Tier
+666,1,2,2,At Risk
+667,1,2,3,Big Spender
+668,3,2,2,Potential Loyalist
+669,3,3,4,VIP Clients
+670,1,1,2,Mid-Tier
+671,3,1,1,Mid-Tier
+672,3,1,2,Mid-Tier
+673,3,2,1,Mid-Tier
+674,3,4,4,VIP Clients
+675,3,3,1,Mid-Tier
+676,3,2,1,Mid-Tier
+677,3,4,3,VIP Clients
+678,1,1,4,Big Spender
+679,1,1,4,Big Spender
+680,3,4,4,VIP Clients
+682,2,1,2,Mid-Tier
+683,3,3,3,VIP Clients
+684,3,4,2,Potential Loyalist
+685,2,4,3,Regular High-Value
+686,2,1,3,Big Spender
+687,3,3,3,VIP Clients
+689,2,4,4,Regular High-Value
+690,3,3,4,VIP Clients
+691,3,2,3,Potential Loyalist
+692,3,3,3,VIP Clients
+693,3,2,2,Potential Loyalist
+694,1,2,1,Mid-Tier
+695,2,2,3,Potential Loyalist
+696,3,3,2,Potential Loyalist
+697,2,1,2,Mid-Tier
+698,2,3,1,Mid-Tier
+700,1,1,3,Big Spender
+701,3,3,4,VIP Clients
+702,3,1,3,Big Spender
+703,1,1,1,Mid-Tier
+704,3,3,3,VIP Clients
+706,3,3,3,VIP Clients
+707,1,2,1,Mid-Tier
+708,3,3,3,VIP Clients
+709,2,1,1,Mid-Tier
+710,3,3,3,VIP Clients
+711,3,2,3,Potential Loyalist
+712,3,3,4,VIP Clients
+713,3,1,4,Big Spender
+714,2,3,3,Regular High-Value
+715,3,4,4,VIP Clients
+716,3,4,4,VIP Clients
+717,3,3,2,Potential Loyalist
+718,2,2,3,Potential Loyalist
+719,1,1,1,Mid-Tier
+721,2,2,2,Potential Loyalist
+722,2,2,4,Potential Loyalist
+723,3,2,3,Potential Loyalist
+724,3,1,1,Mid-Tier
+725,3,3,2,Potential Loyalist
+726,3,1,1,Mid-Tier
+727,3,4,2,Potential Loyalist
+728,2,4,4,Regular High-Value
+729,1,2,2,At Risk
+732,2,4,3,Regular High-Value
+733,3,3,3,VIP Clients
+734,1,1,2,Mid-Tier
+735,3,4,4,VIP Clients
+736,3,3,2,Potential Loyalist
+737,3,2,4,Potential Loyalist
+738,3,2,2,Potential Loyalist
+739,1,1,2,Mid-Tier
+741,2,2,3,Potential Loyalist
+742,3,2,4,Potential Loyalist
+743,1,1,1,Mid-Tier
+744,1,1,1,Mid-Tier
+745,3,1,1,Mid-Tier
+746,1,1,1,Mid-Tier
+747,3,2,2,Potential Loyalist
+748,1,2,2,At Risk
+749,1,1,1,Mid-Tier
+751,3,4,4,VIP Clients
+752,2,1,1,Mid-Tier
+753,3,3,3,VIP Clients
+754,2,3,2,Potential Loyalist
+755,3,2,3,Potential Loyalist
+756,3,2,4,Potential Loyalist
+757,3,4,2,Potential Loyalist
+758,2,2,3,Potential Loyalist
+759,3,1,1,Mid-Tier
+760,2,1,3,Big Spender
+761,3,3,1,Mid-Tier
+762,1,1,1,Mid-Tier
+763,3,3,4,VIP Clients
+764,3,3,4,VIP Clients
+766,1,2,4,Big Spender
+767,2,1,1,Mid-Tier
+768,2,2,1,Mid-Tier
+769,1,1,2,Mid-Tier
+770,3,3,2,Potential Loyalist
+771,1,3,4,At Risk
+773,1,1,1,Mid-Tier
+774,3,2,2,Potential Loyalist
+775,2,4,4,Regular High-Value
+776,3,2,3,Potential Loyalist
+777,1,1,1,Mid-Tier
+778,3,2,1,Mid-Tier
+779,1,1,4,Big Spender
+780,1,1,1,Mid-Tier
+781,2,3,3,Regular High-Value
+782,3,3,3,VIP Clients
+783,3,4,4,VIP Clients
+784,3,2,1,Mid-Tier
+787,3,3,4,VIP Clients
+788,3,2,2,Potential Loyalist
+789,3,1,1,Mid-Tier
+790,3,3,3,VIP Clients
+791,3,3,3,VIP Clients
+792,1,2,2,At Risk
+793,3,4,4,VIP Clients
+794,2,3,3,Regular High-Value
+795,1,2,2,At Risk
+796,3,4,4,VIP Clients
+797,3,1,1,Mid-Tier
+798,3,4,3,VIP Clients
+799,1,1,2,Mid-Tier
+800,3,1,2,Mid-Tier
+801,3,4,3,VIP Clients
+802,3,4,3,VIP Clients
+803,3,2,1,Mid-Tier
+804,2,2,1,Mid-Tier
+805,2,2,3,Potential Loyalist
+806,3,2,3,Potential Loyalist
+808,3,3,3,VIP Clients
+809,3,4,4,VIP Clients
+810,1,1,4,Big Spender
+811,1,1,2,Mid-Tier
+812,3,1,1,Mid-Tier
+813,3,3,4,VIP Clients
+814,3,4,4,VIP Clients
+815,3,3,3,VIP Clients
+816,3,2,2,Potential Loyalist
+818,1,1,2,Mid-Tier
+819,3,2,2,Potential Loyalist
+820,2,2,3,Potential Loyalist
+821,3,4,4,VIP Clients
+822,1,1,3,Big Spender
+823,3,4,3,VIP Clients
+824,3,1,1,Mid-Tier
+826,1,1,3,Big Spender
+827,3,2,1,Mid-Tier
+828,3,1,1,Mid-Tier
+829,3,4,3,VIP Clients
+830,3,4,4,VIP Clients
+831,2,1,2,Mid-Tier
+832,3,3,3,VIP Clients
+833,2,2,3,Potential Loyalist
+834,3,4,4,VIP Clients
+835,3,4,4,VIP Clients
+836,2,1,1,Mid-Tier
+837,3,4,4,VIP Clients
+838,3,3,3,VIP Clients
+839,3,2,2,Potential Loyalist
+840,2,2,1,Mid-Tier
+841,1,3,2,At Risk
+843,3,4,4,VIP Clients
+844,1,1,1,Mid-Tier
+845,2,1,3,Big Spender
+846,2,1,1,Mid-Tier
+847,1,2,4,Big Spender
+848,3,1,1,Mid-Tier
+849,1,2,3,Big Spender
+850,3,3,2,Potential Loyalist
+851,1,3,3,At Risk
+852,3,3,2,Potential Loyalist
+853,2,2,3,Potential Loyalist
+854,3,2,1,Mid-Tier
+855,3,2,2,Potential Loyalist
+856,3,1,1,Mid-Tier
+857,2,3,2,Potential Loyalist
+858,3,1,1,Mid-Tier
+860,2,2,2,Potential Loyalist
+861,3,4,3,VIP Clients
+862,3,4,3,VIP Clients
+863,3,2,2,Potential Loyalist
+864,3,2,4,Potential Loyalist
+865,2,3,3,Regular High-Value
+866,3,1,1,Mid-Tier
+867,3,3,2,Potential Loyalist
+868,1,2,4,Big Spender
+869,3,3,2,Potential Loyalist
+870,2,2,3,Potential Loyalist
+871,2,2,2,Potential Loyalist
+872,3,4,4,VIP Clients
+874,1,1,2,Mid-Tier
+875,2,3,2,Potential Loyalist
+876,2,3,3,Regular High-Value
+877,1,1,1,Mid-Tier
+879,3,2,2,Potential Loyalist
+880,3,1,1,Mid-Tier
+881,2,4,4,Regular High-Value
+882,3,3,3,VIP Clients
+884,2,2,3,Potential Loyalist
+885,3,1,1,Mid-Tier
+886,1,1,1,Mid-Tier
+887,1,2,2,At Risk
+888,1,1,2,Mid-Tier
+889,1,2,4,Big Spender
+890,3,3,4,VIP Clients
+891,3,3,4,VIP Clients
+892,3,2,2,Potential Loyalist
+893,2,1,1,Mid-Tier
+894,3,2,2,Potential Loyalist
+895,3,3,4,VIP Clients
+896,2,4,4,Regular High-Value
+897,3,4,4,VIP Clients
+898,3,2,2,Potential Loyalist
+899,2,2,3,Potential Loyalist
+900,3,4,4,VIP Clients
+901,1,2,3,Big Spender
+902,3,2,3,Potential Loyalist
+903,3,1,1,Mid-Tier
+904,3,2,2,Potential Loyalist
+905,2,3,4,Regular High-Value
+906,3,1,1,Mid-Tier
+907,3,4,3,VIP Clients
+908,2,3,3,Regular High-Value
+909,3,2,2,Potential Loyalist
+910,2,2,3,Potential Loyalist
+911,3,3,2,Potential Loyalist
+912,3,2,3,Potential Loyalist
+913,3,2,3,Potential Loyalist
+914,1,2,4,Big Spender
+915,2,3,3,Regular High-Value
+917,3,2,1,Mid-Tier
+918,3,2,3,Potential Loyalist
+920,1,1,4,Big Spender
+922,1,2,4,Big Spender
+923,2,3,4,Regular High-Value
+924,3,3,2,Potential Loyalist
+926,2,1,4,Big Spender
+927,3,4,4,VIP Clients
+928,3,2,2,Potential Loyalist
+929,3,3,1,Mid-Tier
+930,3,1,1,Mid-Tier
+931,1,2,1,Mid-Tier
+932,3,4,3,VIP Clients
+933,2,4,4,Regular High-Value
+934,1,2,4,Big Spender
+935,3,2,1,Mid-Tier
+936,1,1,1,Mid-Tier
+937,1,1,1,Mid-Tier
+938,2,1,2,Mid-Tier
+939,1,1,2,Mid-Tier
+940,3,2,2,Potential Loyalist
+941,2,3,2,Potential Loyalist
+942,3,1,1,Mid-Tier
+943,2,2,2,Potential Loyalist
+944,1,1,1,Mid-Tier
+945,2,3,4,Regular High-Value
+947,3,2,3,Potential Loyalist
+948,2,2,3,Potential Loyalist
+950,1,1,1,Mid-Tier
+951,3,4,3,VIP Clients
+952,3,3,2,Potential Loyalist
+953,3,1,1,Mid-Tier
+954,3,1,1,Mid-Tier
+955,2,3,3,Regular High-Value
+956,3,3,3,VIP Clients
+957,3,2,3,Potential Loyalist
+958,3,2,3,Potential Loyalist
+959,2,3,3,Regular High-Value
+960,3,2,1,Mid-Tier
+961,1,1,1,Mid-Tier
+962,1,1,2,Mid-Tier
+963,2,1,1,Mid-Tier
+964,3,2,3,Potential Loyalist
+965,3,2,2,Potential Loyalist
+966,3,4,3,VIP Clients
+967,2,1,3,Big Spender
+968,2,1,1,Mid-Tier
+969,2,1,3,Big Spender
+970,3,4,4,VIP Clients
+971,3,2,1,Mid-Tier
+972,1,2,3,Big Spender
+973,3,4,4,VIP Clients
+974,1,3,4,At Risk
+975,3,4,3,VIP Clients
+976,3,1,3,Big Spender
+977,1,1,2,Mid-Tier
+980,2,2,1,Mid-Tier
+981,2,2,2,Potential Loyalist
+983,3,4,4,VIP Clients
+984,3,3,2,Potential Loyalist
+985,3,4,4,VIP Clients
+987,2,3,3,Regular High-Value
+988,2,1,2,Mid-Tier
+989,1,3,3,At Risk
+990,3,1,1,Mid-Tier
+991,1,1,1,Mid-Tier
+992,1,1,1,Mid-Tier
+993,3,4,4,VIP Clients
+994,3,4,4,VIP Clients
+995,3,3,2,Potential Loyalist
+996,3,3,2,Potential Loyalist
+997,2,1,1,Mid-Tier
+998,3,4,3,VIP Clients
+999,1,1,1,Mid-Tier
+1000,3,3,4,VIP Clients
+1001,1,1,2,Mid-Tier
+1002,1,4,4,At Risk
+1004,2,3,4,Regular High-Value
+1005,3,2,1,Mid-Tier
+1006,3,4,4,VIP Clients
+1007,1,1,3,Big Spender
+1008,2,1,1,Mid-Tier
+1009,3,1,1,Mid-Tier
+1010,3,3,2,Potential Loyalist
+1011,3,1,1,Mid-Tier
+1012,3,3,4,VIP Clients
+1013,2,3,3,Regular High-Value
+1014,2,2,1,Mid-Tier
+1015,3,4,3,VIP Clients
+1016,3,2,2,Potential Loyalist
+1017,3,2,4,Potential Loyalist
+1018,2,2,4,Potential Loyalist
+1019,3,4,4,VIP Clients
+1020,3,3,2,Potential Loyalist
+1021,2,2,3,Potential Loyalist
+1022,2,1,2,Mid-Tier
+1023,1,1,1,Mid-Tier
+1024,3,1,1,Mid-Tier
+1025,3,4,2,Potential Loyalist
+1026,1,1,1,Mid-Tier
+1027,3,2,1,Mid-Tier
+1029,3,4,4,VIP Clients
+1030,3,4,3,VIP Clients
+1031,2,4,4,Regular High-Value
+1032,3,1,1,Mid-Tier
+1033,3,1,1,Mid-Tier
+1034,3,2,2,Potential Loyalist
+1035,3,4,4,VIP Clients
+1036,2,1,4,Big Spender
+1037,3,2,1,Mid-Tier
+1038,3,1,1,Mid-Tier
+1039,3,3,3,VIP Clients
+1040,3,2,3,Potential Loyalist
+1042,2,3,2,Potential Loyalist
+1043,1,2,4,Big Spender
+1044,3,4,4,VIP Clients
+1045,3,3,2,Potential Loyalist
+1046,3,2,1,Mid-Tier
+1048,2,2,4,Potential Loyalist
+1049,2,1,1,Mid-Tier
+1050,3,3,2,Potential Loyalist
+1051,3,3,2,Potential Loyalist
+1052,3,2,4,Potential Loyalist
+1053,3,1,3,Big Spender
+1054,3,2,1,Mid-Tier
+1055,3,1,1,Mid-Tier
+1056,3,2,2,Potential Loyalist
+1057,1,2,2,At Risk
+1058,3,4,4,VIP Clients
+1059,3,1,1,Mid-Tier
+1060,1,4,4,At Risk
+1061,3,4,4,VIP Clients
+1062,2,2,2,Potential Loyalist
+1063,3,4,3,VIP Clients
+1064,3,4,4,VIP Clients
+1065,3,2,1,Mid-Tier
+1066,2,2,3,Potential Loyalist
+1067,3,4,4,VIP Clients
+1068,2,1,1,Mid-Tier
+1069,1,1,1,Mid-Tier
+1070,3,1,1,Mid-Tier
+1071,1,1,2,Mid-Tier
+1072,3,3,3,VIP Clients
+1073,1,1,1,Mid-Tier
+1074,3,3,2,Potential Loyalist
+1075,3,4,3,VIP Clients
+1076,1,2,2,At Risk
+1077,1,1,1,Mid-Tier
+1078,1,3,4,At Risk
+1079,3,3,2,Potential Loyalist
+1081,1,1,3,Big Spender
+1082,3,4,3,VIP Clients
+1083,3,4,3,VIP Clients
+1085,3,3,4,VIP Clients
+1086,3,3,4,VIP Clients
+1087,1,3,4,At Risk
+1088,2,2,2,Potential Loyalist
+1089,3,3,4,VIP Clients
+1090,2,4,3,Regular High-Value
+1091,3,3,3,VIP Clients
+1092,3,1,1,Mid-Tier
+1093,2,1,3,Big Spender
+1094,3,3,3,VIP Clients
+1095,3,4,3,VIP Clients
+1097,3,2,1,Mid-Tier
+1098,2,2,4,Potential Loyalist
+1099,3,2,3,Potential Loyalist
+1100,3,3,2,Potential Loyalist
+1104,1,2,2,At Risk
+1105,3,4,4,VIP Clients
+1106,2,2,1,Mid-Tier
+1107,1,1,2,Mid-Tier
+1108,2,3,4,Regular High-Value
+1110,2,2,2,Potential Loyalist
+1111,3,1,1,Mid-Tier
+1112,1,3,4,At Risk
+1113,2,3,3,Regular High-Value
+1114,3,2,2,Potential Loyalist
+1115,3,2,1,Mid-Tier
+1117,1,2,1,Mid-Tier
+1118,1,1,2,Mid-Tier
+1119,3,1,1,Mid-Tier
+1120,3,4,4,VIP Clients
+1121,3,1,1,Mid-Tier
+1122,2,4,4,Regular High-Value
+1124,1,1,1,Mid-Tier
+1125,3,3,2,Potential Loyalist
+1126,2,3,3,Regular High-Value
+1127,1,1,1,Mid-Tier
+1128,3,4,4,VIP Clients
+1129,1,1,2,Mid-Tier
+1131,2,2,4,Potential Loyalist
+1132,1,2,4,Big Spender
+1133,3,3,3,VIP Clients
+1134,3,3,2,Potential Loyalist
+1135,3,3,4,VIP Clients
+1136,3,3,2,Potential Loyalist
+1137,1,2,2,At Risk
+1138,3,2,2,Potential Loyalist
+1139,3,3,4,VIP Clients
+1140,3,4,4,VIP Clients
+1141,2,3,3,Regular High-Value
+1142,3,4,4,VIP Clients
+1143,1,2,1,Mid-Tier
+1144,3,4,4,VIP Clients
+1145,1,1,3,Big Spender
+1146,3,4,4,VIP Clients
+1147,1,2,2,At Risk
+1148,3,3,2,Potential Loyalist
+1149,2,4,4,Regular High-Value
+1150,3,2,2,Potential Loyalist
+1151,3,4,3,VIP Clients
+1152,1,3,4,At Risk
+1153,1,1,3,Big Spender
+1154,3,4,4,VIP Clients
+1156,3,3,2,Potential Loyalist
+1157,3,3,3,VIP Clients
+1158,1,1,3,Big Spender
+1159,3,3,4,VIP Clients
+1160,3,3,2,Potential Loyalist
+1161,3,4,3,VIP Clients
+1162,1,1,3,Big Spender
+1163,3,4,3,VIP Clients
+1164,1,3,4,At Risk
+1165,3,1,1,Mid-Tier
+1167,1,2,3,Big Spender
+1168,3,3,3,VIP Clients
+1169,3,2,3,Potential Loyalist
+1170,3,4,4,VIP Clients
+1171,3,4,4,VIP Clients
+1172,3,2,2,Potential Loyalist
+1173,1,3,3,At Risk
+1174,3,4,4,VIP Clients
+1175,3,1,1,Mid-Tier
+1176,2,3,3,Regular High-Value
+1177,2,2,2,Potential Loyalist
+1178,3,4,4,VIP Clients
+1179,1,2,2,At Risk
+1180,3,3,3,VIP Clients
+1181,2,4,4,Regular High-Value
+1182,3,4,3,VIP Clients
+1183,3,4,4,VIP Clients
+1184,3,4,3,VIP Clients
+1185,3,3,2,Potential Loyalist
+1186,1,2,3,Big Spender
+1187,3,4,4,VIP Clients
+1188,1,1,2,Mid-Tier
+1189,3,1,2,Mid-Tier
+1190,3,2,4,Potential Loyalist
+1192,3,2,1,Mid-Tier
+1193,3,2,2,Potential Loyalist
+1194,3,4,1,Mid-Tier
+1195,3,2,3,Potential Loyalist
+1196,2,1,3,Big Spender
+1197,3,2,2,Potential Loyalist
+1199,3,3,2,Potential Loyalist
+1200,2,3,2,Potential Loyalist
+1201,3,4,4,VIP Clients
+1202,3,4,4,VIP Clients
+1204,1,1,1,Mid-Tier
+1205,2,2,2,Potential Loyalist
+1206,3,2,1,Mid-Tier
+1207,1,2,2,At Risk
+1208,1,1,2,Mid-Tier
+1210,1,3,4,At Risk
+1211,3,2,2,Potential Loyalist
+1212,3,3,1,Mid-Tier
+1213,1,2,2,At Risk
+1215,3,2,1,Mid-Tier
+1216,2,2,4,Potential Loyalist
+1217,2,4,3,Regular High-Value
+1218,1,1,1,Mid-Tier
+1219,2,1,1,Mid-Tier
+1221,3,4,2,Potential Loyalist
+1222,2,4,4,Regular High-Value
+1223,3,3,4,VIP Clients
+1224,3,4,3,VIP Clients
+1225,3,3,2,Potential Loyalist
+1226,2,2,1,Mid-Tier
+1227,3,4,3,VIP Clients
+1228,2,2,3,Potential Loyalist
+1230,2,1,1,Mid-Tier
+1231,3,4,3,VIP Clients
+1233,1,2,4,Big Spender
+1235,1,2,2,At Risk
+1236,1,1,1,Mid-Tier
+1237,3,2,4,Potential Loyalist
+1238,2,1,4,Big Spender
+1239,3,2,2,Potential Loyalist
+1241,3,2,1,Mid-Tier
+1242,1,1,2,Mid-Tier
+1243,2,2,1,Mid-Tier
+1244,3,1,2,Mid-Tier
+1246,3,4,4,VIP Clients
+1247,2,1,2,Mid-Tier
+1248,3,2,1,Mid-Tier
+1249,3,4,4,VIP Clients
+1250,3,3,3,VIP Clients
+1251,3,2,1,Mid-Tier
+1252,3,2,2,Potential Loyalist
+1253,3,4,4,VIP Clients
+1254,3,2,3,Potential Loyalist
+1255,3,2,3,Potential Loyalist
+1256,3,2,2,Potential Loyalist
+1257,3,2,2,Potential Loyalist
+1258,3,2,3,Potential Loyalist
+1259,2,1,1,Mid-Tier
+1260,3,3,2,Potential Loyalist
+1261,1,1,3,Big Spender
+1262,3,2,2,Potential Loyalist
+1264,3,3,2,Potential Loyalist
+1265,3,2,2,Potential Loyalist
+1266,1,1,4,Big Spender
+1267,2,2,4,Potential Loyalist
+1268,3,4,3,VIP Clients
+1269,3,2,2,Potential Loyalist
+1270,3,4,4,VIP Clients
+1271,3,4,4,VIP Clients
+1272,3,3,3,VIP Clients
+1273,1,3,2,At Risk
+1274,1,1,1,Mid-Tier
+1275,3,3,2,Potential Loyalist
+1276,3,3,3,VIP Clients
+1277,1,3,4,At Risk
+1278,3,2,4,Potential Loyalist
+1279,1,1,2,Mid-Tier
+1280,3,2,2,Potential Loyalist
+1281,1,1,3,Big Spender
+1282,3,4,2,Potential Loyalist
+1283,2,2,4,Potential Loyalist
+1285,2,3,2,Potential Loyalist
+1286,3,2,2,Potential Loyalist
+1287,3,3,3,VIP Clients
+1288,3,1,1,Mid-Tier
+1289,1,1,1,Mid-Tier
+1293,2,1,1,Mid-Tier
+1294,2,1,1,Mid-Tier
+1295,3,3,4,VIP Clients
+1296,3,1,2,Mid-Tier
+1297,2,2,2,Potential Loyalist
+1298,3,1,1,Mid-Tier
+1299,3,1,1,Mid-Tier
+1300,3,1,1,Mid-Tier
+1301,2,2,3,Potential Loyalist
+1302,1,2,2,At Risk
+1304,3,3,3,VIP Clients
+1305,3,3,1,Mid-Tier
+1306,3,4,2,Potential Loyalist
+1308,3,1,1,Mid-Tier
+1309,3,1,1,Mid-Tier
+1310,3,3,4,VIP Clients
+1311,2,2,3,Potential Loyalist
+1312,3,2,1,Mid-Tier
+1313,2,2,1,Mid-Tier
+1314,3,4,4,VIP Clients
+1315,3,3,3,VIP Clients
+1316,3,2,3,Potential Loyalist
+1319,3,3,4,VIP Clients
+1320,2,1,2,Mid-Tier
+1321,1,1,3,Big Spender
+1322,2,2,1,Mid-Tier
+1324,3,3,3,VIP Clients
+1325,3,2,2,Potential Loyalist
+1326,1,2,2,At Risk
+1327,1,1,1,Mid-Tier
+1328,3,2,1,Mid-Tier
+1329,3,4,3,VIP Clients
+1330,3,3,4,VIP Clients
+1332,1,2,3,Big Spender
+1333,2,3,4,Regular High-Value
+1335,2,4,4,Regular High-Value
+1336,1,2,4,Big Spender
+1337,3,3,2,Potential Loyalist
+1338,3,1,1,Mid-Tier
+1339,3,2,4,Potential Loyalist
+1340,3,1,1,Mid-Tier
+1341,2,2,4,Potential Loyalist
+1342,1,1,1,Mid-Tier
+1343,3,2,3,Potential Loyalist
+1344,3,2,2,Potential Loyalist
+1345,2,2,1,Mid-Tier
+1346,3,3,3,VIP Clients
+1347,3,4,4,VIP Clients
+1349,3,3,2,Potential Loyalist
+1350,3,4,4,VIP Clients
+1352,2,1,1,Mid-Tier
+1354,3,4,3,VIP Clients
+1356,1,1,1,Mid-Tier
+1357,3,2,3,Potential Loyalist
+1358,3,3,4,VIP Clients
+1359,3,3,3,VIP Clients
+1360,3,4,3,VIP Clients
+1361,3,2,2,Potential Loyalist
+1362,3,1,1,Mid-Tier
+1363,1,1,1,Mid-Tier
+1364,3,2,3,Potential Loyalist
+1365,3,3,2,Potential Loyalist
+1366,3,1,2,Mid-Tier
+1367,3,4,4,VIP Clients
+1368,1,1,1,Mid-Tier
+1369,3,2,1,Mid-Tier
+1370,1,1,1,Mid-Tier
+1371,1,1,4,Big Spender
+1372,3,3,3,VIP Clients
+1373,2,4,3,Regular High-Value
+1374,3,3,1,Mid-Tier
+1375,2,1,1,Mid-Tier
+1376,3,4,3,VIP Clients
+1377,3,1,1,Mid-Tier
+1379,1,2,3,Big Spender
+1380,3,2,1,Mid-Tier
+1381,3,2,1,Mid-Tier
+1382,3,2,2,Potential Loyalist
+1383,2,1,2,Mid-Tier
+1384,2,2,3,Potential Loyalist
+1385,3,2,3,Potential Loyalist
+1386,3,2,2,Potential Loyalist
+1387,3,2,2,Potential Loyalist
+1388,2,2,1,Mid-Tier
+1390,3,2,2,Potential Loyalist
+1392,2,2,1,Mid-Tier
+1393,3,4,4,VIP Clients
+1394,1,1,2,Mid-Tier
+1395,1,1,1,Mid-Tier
+1396,2,2,4,Potential Loyalist
+1397,3,4,4,VIP Clients
+1398,2,1,1,Mid-Tier
+1399,1,1,4,Big Spender
+1400,2,2,2,Potential Loyalist
+1401,2,3,3,Regular High-Value
+1402,2,4,4,Regular High-Value
+1403,1,1,3,Big Spender
+1404,3,3,4,VIP Clients
+1406,3,2,2,Potential Loyalist
+1407,3,2,2,Potential Loyalist
+1408,1,1,1,Mid-Tier
+1409,3,3,3,VIP Clients
+1410,3,4,3,VIP Clients
+1411,1,1,3,Big Spender
+1412,3,3,2,Potential Loyalist
+1413,3,3,4,VIP Clients
+1414,1,1,1,Mid-Tier
+1416,3,2,4,Potential Loyalist
+1417,3,1,1,Mid-Tier
+1418,3,2,2,Potential Loyalist
+1419,3,4,3,VIP Clients
+1420,3,3,4,VIP Clients
+1421,3,3,2,Potential Loyalist
+1422,3,2,1,Mid-Tier
+1423,1,1,2,Mid-Tier
+1424,3,4,3,VIP Clients
+1425,1,2,2,At Risk
+1426,3,3,4,VIP Clients
+1427,3,2,3,Potential Loyalist
+1428,1,1,2,Mid-Tier
+1429,2,2,2,Potential Loyalist
+1431,3,3,4,VIP Clients
+1432,3,4,3,VIP Clients
+1433,2,2,3,Potential Loyalist
+1434,1,1,2,Mid-Tier
+1435,2,1,1,Mid-Tier
+1436,1,3,2,At Risk
+1437,2,3,4,Regular High-Value
+1438,2,3,4,Regular High-Value
+1439,3,4,3,VIP Clients
+1440,2,1,2,Mid-Tier
+1441,1,1,1,Mid-Tier
+1442,1,2,4,Big Spender
+1443,3,1,1,Mid-Tier
+1444,1,4,2,At Risk
+1445,3,3,2,Potential Loyalist
+1446,3,4,4,VIP Clients
+1447,2,3,2,Potential Loyalist
+1448,3,3,2,Potential Loyalist
+1449,2,1,3,Big Spender
+1450,1,1,1,Mid-Tier
+1451,1,1,1,Mid-Tier
+1452,3,3,3,VIP Clients
+1453,2,1,1,Mid-Tier
+1454,3,4,4,VIP Clients
+1455,3,3,4,VIP Clients
+1456,3,3,3,VIP Clients
+1457,3,3,2,Potential Loyalist
+1458,3,4,4,VIP Clients
+1459,3,1,1,Mid-Tier
+1461,3,3,4,VIP Clients
+1462,3,3,3,VIP Clients
+1463,3,3,3,VIP Clients
+1464,1,3,4,At Risk
+1465,3,3,2,Potential Loyalist
+1466,2,3,2,Potential Loyalist
+1467,3,3,1,Mid-Tier
+1468,3,3,2,Potential Loyalist
+1469,2,3,2,Potential Loyalist
+1470,3,4,4,VIP Clients
+1471,1,1,3,Big Spender
+1472,3,3,1,Mid-Tier
+1473,3,3,2,Potential Loyalist
+1474,1,3,1,Mid-Tier
+1475,3,3,3,VIP Clients
+1476,2,4,4,Regular High-Value
+1477,3,3,3,VIP Clients
+1478,3,3,1,Mid-Tier
+1479,3,4,4,VIP Clients
+1480,2,3,3,Regular High-Value
+1481,3,3,2,Potential Loyalist
+1482,2,4,3,Regular High-Value
+1484,3,4,4,VIP Clients
+1485,3,3,2,Potential Loyalist
+1486,3,4,3,VIP Clients
+1487,2,4,4,Regular High-Value
+1488,1,3,1,Mid-Tier
+1489,3,4,2,Potential Loyalist
+1490,3,3,3,VIP Clients
+1491,3,4,4,VIP Clients
+1492,2,4,4,Regular High-Value
+1493,2,3,1,Mid-Tier
+1494,2,4,4,Regular High-Value
+1495,3,4,1,Mid-Tier
+1496,2,4,2,Potential Loyalist
+1499,2,3,4,Regular High-Value
+1500,3,4,4,VIP Clients
+1501,1,1,2,Mid-Tier
+1502,3,4,4,VIP Clients
+1504,3,4,4,VIP Clients
+1505,3,4,4,VIP Clients
+1506,2,4,3,Regular High-Value
+1507,2,1,1,Mid-Tier
+1508,3,4,4,VIP Clients
+1510,1,1,2,Mid-Tier
+1511,3,3,3,VIP Clients
+1513,3,3,4,VIP Clients
+1514,3,4,2,Potential Loyalist
+1515,3,4,3,VIP Clients
+1516,3,4,3,VIP Clients
+1517,2,1,1,Mid-Tier
+1518,1,1,3,Big Spender
+1519,3,4,2,Potential Loyalist
+1520,3,3,3,VIP Clients
+1522,3,3,1,Mid-Tier
+1523,3,3,2,Potential Loyalist
+1524,1,1,2,Mid-Tier
+1525,1,3,3,At Risk
+1526,3,1,4,Big Spender
+1527,3,1,1,Mid-Tier
+1528,1,1,1,Mid-Tier
+1529,3,4,2,Potential Loyalist
+1530,2,1,2,Mid-Tier
+1531,3,4,3,VIP Clients
+1532,1,1,1,Mid-Tier
+1533,3,3,2,Potential Loyalist
+1534,2,1,3,Big Spender
+1535,3,4,3,VIP Clients
+1537,3,4,3,VIP Clients
+1538,3,4,3,VIP Clients
+1539,1,1,2,Mid-Tier
+1540,3,1,1,Mid-Tier
+1541,2,1,1,Mid-Tier
+1542,2,3,4,Regular High-Value
+1543,1,1,1,Mid-Tier
+1544,1,1,1,Mid-Tier
+1545,1,3,2,At Risk
+1546,2,4,4,Regular High-Value
+1547,3,4,4,VIP Clients
+1549,1,1,1,Mid-Tier
+1550,2,4,3,Regular High-Value
+1551,3,4,2,Potential Loyalist
+1552,1,1,1,Mid-Tier
+1554,3,4,3,VIP Clients
+1555,3,4,4,VIP Clients
+1556,3,4,4,VIP Clients
+1557,3,3,1,Mid-Tier
+1558,2,4,3,Regular High-Value
+1559,3,3,1,Mid-Tier
+1560,1,3,3,At Risk
+1561,3,1,3,Big Spender
+1562,1,1,1,Mid-Tier
+1563,3,3,2,Potential Loyalist
+1564,3,4,3,VIP Clients
+1565,3,4,4,VIP Clients
+1566,2,3,2,Potential Loyalist
+1567,3,3,2,Potential Loyalist
+1568,3,4,4,VIP Clients
+1569,3,1,1,Mid-Tier
+1570,3,3,2,Potential Loyalist
+1571,1,3,2,At Risk
+1572,2,1,4,Big Spender
+1573,3,4,2,Potential Loyalist
+1574,2,4,3,Regular High-Value
+1575,3,1,1,Mid-Tier
+1576,3,1,1,Mid-Tier
+1579,1,1,2,Mid-Tier
+1580,3,1,2,Mid-Tier
+1581,2,4,4,Regular High-Value
+1582,1,4,4,At Risk
+1583,3,3,2,Potential Loyalist
+1584,3,3,2,Potential Loyalist
+1585,3,4,4,VIP Clients
+1586,3,4,3,VIP Clients
+1587,3,4,4,VIP Clients
+1588,1,1,1,Mid-Tier
+1589,1,3,2,At Risk
+1590,3,3,1,Mid-Tier
+1591,3,3,4,VIP Clients
+1592,1,3,3,At Risk
+1593,1,3,4,At Risk
+1594,1,3,4,At Risk
+1595,3,4,3,VIP Clients
+1596,3,4,2,Potential Loyalist
+1597,1,1,1,Mid-Tier
+1600,3,3,3,VIP Clients
+1601,3,3,3,VIP Clients
+1602,3,4,4,VIP Clients
+1603,3,3,3,VIP Clients
+1604,3,4,4,VIP Clients
+1605,2,4,4,Regular High-Value
+1606,2,1,4,Big Spender
+1607,2,1,2,Mid-Tier
+1608,3,4,4,VIP Clients
+1609,3,1,1,Mid-Tier
+1610,3,4,4,VIP Clients
+1611,3,4,4,VIP Clients
+1612,3,1,1,Mid-Tier
+1613,3,4,3,VIP Clients
+1614,1,4,2,At Risk
+1615,2,3,2,Potential Loyalist
+1616,3,4,3,VIP Clients
+1617,1,3,3,At Risk
+1618,1,3,2,At Risk
+1619,3,3,2,Potential Loyalist
+1620,2,3,2,Potential Loyalist
+1621,2,3,2,Potential Loyalist
+1622,3,1,1,Mid-Tier
+1624,1,4,4,At Risk
+1625,2,1,1,Mid-Tier
+1626,1,4,2,At Risk
+1627,3,4,3,VIP Clients
+1628,1,1,2,Mid-Tier
+1629,2,3,2,Potential Loyalist
+1631,2,4,4,Regular High-Value
+1633,1,1,3,Big Spender
+1634,3,1,1,Mid-Tier
+1635,3,3,4,VIP Clients
+1636,1,3,3,At Risk
+1637,3,4,2,Potential Loyalist
+1638,3,4,4,VIP Clients
+1639,3,3,1,Mid-Tier
+1640,2,4,3,Regular High-Value
+1641,3,3,1,Mid-Tier
+1642,3,4,4,VIP Clients
+1643,2,1,4,Big Spender
+1644,1,1,1,Mid-Tier
+1645,3,4,4,VIP Clients
+1646,3,4,4,VIP Clients
+1647,3,4,2,Potential Loyalist
+1648,1,1,1,Mid-Tier
+1649,3,3,1,Mid-Tier
+1650,3,1,1,Mid-Tier
+1651,2,3,3,Regular High-Value
+1652,3,1,1,Mid-Tier
+1653,3,3,3,VIP Clients
+1654,3,4,3,VIP Clients
+1655,3,1,1,Mid-Tier
+1656,3,4,4,VIP Clients
+1657,3,3,4,VIP Clients
+1658,3,1,2,Mid-Tier
+1659,3,4,3,VIP Clients
+1660,1,1,2,Mid-Tier
+1661,3,1,1,Mid-Tier
+1662,3,4,2,Potential Loyalist
+1664,3,1,1,Mid-Tier
+1665,2,1,2,Mid-Tier
+1666,2,3,1,Mid-Tier
+1667,3,4,4,VIP Clients
+1668,2,4,3,Regular High-Value
+1669,2,3,1,Mid-Tier
+1670,3,4,4,VIP Clients
+1671,1,3,3,At Risk
+1672,3,3,1,Mid-Tier
+1673,3,1,4,Big Spender
+1674,3,4,4,VIP Clients
+1675,3,3,3,VIP Clients
+1676,2,1,2,Mid-Tier
+1677,3,1,1,Mid-Tier
+1679,2,3,2,Potential Loyalist
+1680,3,4,4,VIP Clients
+1682,1,1,3,Big Spender
+1683,3,4,4,VIP Clients
+1684,1,1,1,Mid-Tier
+1685,3,4,2,Potential Loyalist
+1686,1,3,4,At Risk
+1687,3,4,4,VIP Clients
+1688,3,4,2,Potential Loyalist
+1689,1,1,1,Mid-Tier
+1690,1,1,2,Mid-Tier
+1691,1,1,3,Big Spender
+1695,3,3,1,Mid-Tier
+1696,3,4,4,VIP Clients
+1697,2,4,4,Regular High-Value
+1699,3,1,1,Mid-Tier
+1700,2,4,3,Regular High-Value
+1701,2,1,2,Mid-Tier
+1702,3,3,4,VIP Clients
+1703,3,4,4,VIP Clients
+1705,1,1,2,Mid-Tier
+1706,3,4,4,VIP Clients
+1707,3,4,4,VIP Clients
+1708,2,4,2,Potential Loyalist
+1709,3,4,4,VIP Clients
+1710,3,4,3,VIP Clients
+1711,1,1,1,Mid-Tier
+1712,3,4,4,VIP Clients
+1713,2,1,4,Big Spender
+1714,3,4,4,VIP Clients
+1715,2,4,3,Regular High-Value
+1716,1,1,4,Big Spender
+1717,3,3,4,VIP Clients
+1718,3,3,2,Potential Loyalist
+1719,3,4,3,VIP Clients
+1720,3,3,2,Potential Loyalist
+1721,3,4,4,VIP Clients
+1722,1,1,2,Mid-Tier
+1723,3,1,1,Mid-Tier
+1724,2,4,3,Regular High-Value
+1725,3,3,2,Potential Loyalist
+1726,3,3,3,VIP Clients
+1727,1,3,1,Mid-Tier
+1728,1,3,3,At Risk
+1729,3,1,1,Mid-Tier
+1730,3,4,4,VIP Clients
+1731,2,4,2,Potential Loyalist
+1733,3,4,4,VIP Clients
+1735,3,4,2,Potential Loyalist
+1736,2,3,2,Potential Loyalist
+1737,3,4,4,VIP Clients
+1738,1,1,1,Mid-Tier
+1739,3,4,2,Potential Loyalist
+1740,3,4,4,VIP Clients
+1742,3,4,4,VIP Clients
+1744,3,4,4,VIP Clients
+1745,2,4,4,Regular High-Value
+1746,2,3,3,Regular High-Value
+1747,3,4,2,Potential Loyalist
+1748,3,3,2,Potential Loyalist
+1749,2,3,1,Mid-Tier
+1750,1,3,2,At Risk
+1751,2,4,1,Mid-Tier
+1752,3,4,3,VIP Clients
+1753,2,1,1,Mid-Tier
+1755,3,4,2,Potential Loyalist
+1756,3,4,3,VIP Clients
+1757,2,3,4,Regular High-Value
+1759,3,4,1,Mid-Tier
+1760,3,1,2,Mid-Tier
+1762,3,3,1,Mid-Tier
+1763,3,4,3,VIP Clients
+1764,2,3,3,Regular High-Value
+1765,2,1,1,Mid-Tier
+1767,3,1,1,Mid-Tier
+1768,3,4,2,Potential Loyalist
+1770,3,3,2,Potential Loyalist
+1772,1,1,1,Mid-Tier
+1773,2,3,2,Potential Loyalist
+1774,3,4,4,VIP Clients
+1777,3,1,1,Mid-Tier
+1778,3,3,2,Potential Loyalist
+1780,3,4,4,VIP Clients
+1781,3,3,1,Mid-Tier
+1782,1,1,3,Big Spender
+1783,3,1,1,Mid-Tier
+1784,2,4,3,Regular High-Value
+1785,3,4,2,Potential Loyalist
+1786,1,1,2,Mid-Tier
+1787,1,1,1,Mid-Tier
+1788,3,4,3,VIP Clients
+1789,2,4,3,Regular High-Value
+1790,3,4,3,VIP Clients
+1791,2,2,1,Mid-Tier
+1792,2,4,3,Regular High-Value
+1793,3,4,4,VIP Clients
+1794,3,4,3,VIP Clients
+1795,1,3,1,Mid-Tier
+1796,2,3,4,Regular High-Value
+1798,3,2,1,Mid-Tier
+1799,3,4,1,Mid-Tier
+1800,3,3,2,Potential Loyalist
+1801,3,2,2,Potential Loyalist
+1802,3,4,2,Potential Loyalist
+1803,2,2,2,Potential Loyalist
+1805,3,4,3,VIP Clients
+1806,3,4,2,Potential Loyalist
+1807,3,4,4,VIP Clients
+1808,1,2,1,Mid-Tier
+1809,3,3,1,Mid-Tier
+1810,1,2,2,At Risk
+1811,1,2,4,Big Spender
+1812,1,3,2,At Risk
+1813,3,4,4,VIP Clients
+1814,3,4,4,VIP Clients
+1815,3,3,2,Potential Loyalist
+1817,3,4,3,VIP Clients
+1818,2,4,4,Regular High-Value
+1819,1,2,1,Mid-Tier
+1820,2,3,4,Regular High-Value
+1821,3,4,4,VIP Clients
+1822,3,2,1,Mid-Tier
+1824,3,4,3,VIP Clients
+1826,2,3,3,Regular High-Value
+1828,1,3,4,At Risk
+1829,2,3,2,Potential Loyalist
+1830,1,3,4,At Risk
+1831,2,4,2,Potential Loyalist
+1832,2,2,1,Mid-Tier
+1833,3,4,2,Potential Loyalist
+1835,2,4,3,Regular High-Value
+1836,1,2,1,Mid-Tier
+1837,2,4,3,Regular High-Value
+1838,1,2,1,Mid-Tier
+1839,2,4,4,Regular High-Value
+1840,3,2,1,Mid-Tier
+1841,1,2,3,Big Spender
+1842,2,2,2,Potential Loyalist
+1843,3,4,4,VIP Clients
+1846,3,4,3,VIP Clients
+1847,3,3,2,Potential Loyalist
+1848,3,3,1,Mid-Tier
+1849,2,3,2,Potential Loyalist
+1850,1,3,1,Mid-Tier
+1851,3,4,2,Potential Loyalist
+1852,2,4,4,Regular High-Value
+1853,3,2,1,Mid-Tier
+1854,1,2,3,Big Spender
+1855,3,3,4,VIP Clients
+1856,3,4,2,Potential Loyalist
+1857,2,3,1,Mid-Tier
+1858,1,2,1,Mid-Tier
+1861,1,2,1,Mid-Tier
+1862,2,4,3,Regular High-Value
+1863,2,4,2,Potential Loyalist
+1864,3,3,1,Mid-Tier
+1865,3,4,2,Potential Loyalist
+1866,2,3,3,Regular High-Value
+1867,3,3,1,Mid-Tier
+1869,2,4,3,Regular High-Value
+1870,3,3,1,Mid-Tier
+1871,3,2,2,Potential Loyalist
+1872,2,4,3,Regular High-Value
+1873,3,3,2,Potential Loyalist
+1875,3,4,3,VIP Clients
+1876,3,4,3,VIP Clients
+1877,2,3,1,Mid-Tier
+1878,1,4,4,At Risk
+1879,3,4,1,Mid-Tier
+1880,1,2,1,Mid-Tier
+1881,1,3,4,At Risk
+1882,2,3,3,Regular High-Value
+1883,2,2,1,Mid-Tier
+1884,3,4,4,VIP Clients
+1885,1,3,4,At Risk
+1886,3,4,3,VIP Clients
+1887,1,2,1,Mid-Tier
+1888,3,3,1,Mid-Tier
+1889,3,4,4,VIP Clients
+1890,2,4,3,Regular High-Value
+1891,1,2,2,At Risk
+1892,3,4,3,VIP Clients
+1893,2,2,3,Potential Loyalist
+1894,1,2,2,At Risk
+1896,2,3,2,Potential Loyalist
+1897,3,3,3,VIP Clients
+1898,1,2,1,Mid-Tier
+1899,2,3,1,Mid-Tier
+1900,3,4,4,VIP Clients
+1901,3,4,4,VIP Clients
+1902,3,3,3,VIP Clients
+1903,3,4,3,VIP Clients
+1904,2,3,2,Potential Loyalist
+1905,1,2,2,At Risk
+1907,3,4,4,VIP Clients
+1908,2,2,1,Mid-Tier
+1909,1,2,4,Big Spender
+1910,2,3,3,Regular High-Value
+1911,3,2,2,Potential Loyalist
+1912,3,4,3,VIP Clients
+1913,3,4,4,VIP Clients
+1914,3,4,4,VIP Clients
+1915,3,3,1,Mid-Tier
+1916,3,2,1,Mid-Tier
+1917,1,2,2,At Risk
+1918,3,4,4,VIP Clients
+1920,3,4,4,VIP Clients
+1921,1,2,3,Big Spender
+1922,3,3,3,VIP Clients
+1924,3,2,1,Mid-Tier
+1925,3,3,2,Potential Loyalist
+1926,2,3,4,Regular High-Value
+1927,3,3,1,Mid-Tier
+1928,2,3,2,Potential Loyalist
+1929,3,4,4,VIP Clients
+1930,3,4,4,VIP Clients
+1931,3,3,4,VIP Clients
+1932,3,4,4,VIP Clients
+1934,3,4,3,VIP Clients
+1935,1,3,3,At Risk
+1936,1,2,2,At Risk
+1937,3,4,3,VIP Clients
+1939,3,3,3,VIP Clients
+1940,3,4,4,VIP Clients
+1941,1,4,2,At Risk
+1942,2,2,1,Mid-Tier
+1943,3,3,1,Mid-Tier
+1944,3,3,2,Potential Loyalist
+1945,1,2,1,Mid-Tier
+1946,3,2,1,Mid-Tier
+1947,2,2,1,Mid-Tier
+1948,3,3,1,Mid-Tier
+1949,2,2,1,Mid-Tier
+1950,2,2,2,Potential Loyalist
+1951,3,4,2,Potential Loyalist
+1952,3,4,4,VIP Clients
+1953,2,4,4,Regular High-Value
+1954,2,4,3,Regular High-Value
+1955,3,4,2,Potential Loyalist
+1956,3,4,2,Potential Loyalist
+1957,3,4,4,VIP Clients
+1958,3,4,3,VIP Clients
+1959,3,4,2,Potential Loyalist
+1960,2,3,1,Mid-Tier
+1961,3,3,1,Mid-Tier
+1962,2,4,3,Regular High-Value
+1963,2,3,1,Mid-Tier
+1964,2,4,3,Regular High-Value
+1965,2,3,4,Regular High-Value
+1966,3,4,2,Potential Loyalist
+1967,2,2,1,Mid-Tier
+1968,3,4,4,VIP Clients
+1969,1,2,1,Mid-Tier
+1970,2,3,2,Potential Loyalist
+1972,1,2,2,At Risk
+1973,3,3,3,VIP Clients
+1974,1,2,2,At Risk
+1975,3,3,1,Mid-Tier
+1976,2,4,2,Potential Loyalist
+1977,2,4,4,Regular High-Value
+1978,2,2,1,Mid-Tier
+1979,3,4,4,VIP Clients
+1980,3,3,2,Potential Loyalist
+1981,2,3,3,Regular High-Value
+1982,2,3,3,Regular High-Value
+1984,3,4,3,VIP Clients
+1986,3,4,4,VIP Clients
+1987,3,4,3,VIP Clients
+1988,3,4,4,VIP Clients
+1989,3,4,3,VIP Clients
+1992,3,4,3,VIP Clients
+1993,3,4,3,VIP Clients
+1994,2,2,1,Mid-Tier
+1995,3,4,4,VIP Clients
+1996,3,4,2,Potential Loyalist
+1997,3,4,4,VIP Clients
+1998,3,2,1,Mid-Tier
+1999,3,2,2,Potential Loyalist
+2000,3,4,4,VIP Clients
+2001,3,3,4,VIP Clients
+2002,3,3,1,Mid-Tier
+2003,2,2,1,Mid-Tier
+2004,3,4,1,Mid-Tier
+2006,3,3,3,VIP Clients
+2007,1,4,4,At Risk
+2008,3,3,2,Potential Loyalist
+2009,3,3,1,Mid-Tier
+2010,2,3,1,Mid-Tier
+2011,2,3,2,Potential Loyalist
+2014,1,2,1,Mid-Tier
+2015,2,3,1,Mid-Tier
+2016,1,3,1,Mid-Tier
+2018,1,2,2,At Risk
+2019,3,4,2,Potential Loyalist
+2020,1,3,4,At Risk
+2021,1,3,4,At Risk
+2022,2,3,4,Regular High-Value
+2024,2,4,4,Regular High-Value
+2025,3,4,4,VIP Clients
+2026,3,2,1,Mid-Tier
+2027,2,2,1,Mid-Tier
+2028,3,4,3,VIP Clients
+2029,1,3,2,At Risk
+2030,2,4,3,Regular High-Value
+2032,3,2,1,Mid-Tier
+2033,3,4,4,VIP Clients
+2034,3,4,3,VIP Clients
+2035,1,2,2,At Risk
+2036,1,3,2,At Risk
+2039,3,3,1,Mid-Tier
+2040,2,4,3,Regular High-Value
+2041,2,3,1,Mid-Tier
+2043,3,3,2,Potential Loyalist
+2044,3,2,3,Potential Loyalist
+2045,3,3,3,VIP Clients
+2046,2,2,2,Potential Loyalist
+2047,3,3,3,VIP Clients
+2048,2,4,4,Regular High-Value
+2050,1,2,2,At Risk
+2051,2,3,4,Regular High-Value
+2052,3,4,2,Potential Loyalist
+2053,2,3,4,Regular High-Value
+2054,3,4,3,VIP Clients
+2055,3,4,4,VIP Clients
+2056,3,2,1,Mid-Tier
+2057,2,3,3,Regular High-Value
+2059,1,2,4,Big Spender
+2060,3,4,1,Mid-Tier
