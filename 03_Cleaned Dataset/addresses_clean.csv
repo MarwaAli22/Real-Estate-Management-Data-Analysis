@@ -1,0 +1,3001 @@
+address_id,street,city,state,latitude,longitude
+1,5545 Maxwell Springs,Joliet,IL,41.59586,-88.086585
+2,9774 Nicole Greens,Springfield,IL,39.784853,-89.655079
+3,13699 Baldwin Wells,Elgin,IL,42.014133,-88.22813
+4,5822 Kane Plaza,Chicago,IL,41.953988,-87.677038
+5,710 Jesus Lakes,Tallahassee,FL,30.419741,-84.260663
+6,8393 David Expressway,Fresno,CA,36.896877,-119.726253
+7,498 Davis Key,Peoria,IL,40.747035,-89.505273
+8,03792 Larry Landing,Rochester,NY,43.138903,-77.691527
+9,6776 Michael Bridge,Aurora,IL,41.700845,-88.265462
+10,199 Vincent Rapids,Yonkers,NY,40.928033,-73.898543
+11,254 Stacy Mount,Chicago,IL,41.955388,-87.554782
+12,525 Webb Summit,Rochester,NY,43.189467,-77.673833
+13,4388 Matthew Cliff,Naperville,IL,41.726375,-88.15904
+14,1968 Campbell Union,San Jose,CA,37.255371,-121.957117
+15,134 House Plains,San Diego,CA,32.745227,-117.01304
+16,783 Hunt Parkways,Houston,TX,29.830627,-95.220129
+17,8891 Jeremy Dale,St. Petersburg,FL,27.799603,-82.682419
+18,718 Gonzalez Freeway,Elgin,IL,42.046818,-88.261019
+19,3126 Jasmine Tunnel,Sacramento,CA,38.666955,-121.466107
+20,22921 Larry Cove,Joliet,IL,41.521215,-88.050082
+21,1185 John Harbors,Dallas,TX,32.852686,-96.730317
+22,0217 Destiny Course,Buffalo,NY,42.866028,-78.800197
+23,6924 Fernandez Plains,San Francisco,CA,37.799135,-122.471595
+24,9693 Grant Springs,Syracuse,NY,43.024818,-76.194799
+25,2866 Griffin Canyon,San Francisco,CA,37.745273,-122.371852
+26,875 Tracey Wall,Springfield,IL,39.7095,-89.656891
+27,5247 Andrews Groves,Springfield,IL,39.722573,-89.667559
+28,874 Shannon Knoll,Rochester,NY,43.149117,-77.699709
+29,351 Bolton Ferry,Springfield,IL,39.787444,-89.63281
+30,0247 Julie Lakes,San Jose,CA,37.399631,-121.815687
+31,9573 Tracy Plain,Albany,NY,42.651286,-73.775969
+32,555 James Fort,Tallahassee,FL,30.494931,-84.273826
+33,260 David Parkway,New York,NY,40.734002,-73.914386
+34,27014 Kelly Pike,New Rochelle,NY,40.904009,-73.752352
+35,2415 Justin Wells,Fort Lauderdale,FL,26.191342,-80.169271
+36,57973 Jennifer Passage,Aurora,IL,41.732238,-88.258755
+37,338 Andres Underpass,Buffalo,NY,42.850833,-78.896609
+38,093 Jeremy Crescent,Springfield,IL,39.74804,-89.628334
+39,6888 Michelle Glens,Yonkers,NY,40.90321,-73.884778
+40,99130 Le Island,Rochester,NY,43.138563,-77.655619
+41,3428 Brittany Flats,Orlando,FL,28.557558,-81.361924
+42,4924 Bowman Island,Mount Vernon,NY,40.906588,-73.82133
+43,9905 Bailey Village,Albany,NY,42.638621,-73.754307
+44,11858 Park Islands,Albany,NY,42.63738,-73.787937
+45,574 Weber Place,Los Angeles,CA,34.037544,-118.659767
+46,6617 Michael Throughway,Elgin,IL,42.017165,-88.218544
+47,34290 Randall Rapids,Fort Worth,TX,32.773123,-97.319426
+48,553 Goodman Forges,Corpus Christi,TX,27.762785,-97.350502
+49,764 Victoria Streets,Yonkers,NY,40.921201,-73.855101
+50,797 Jason Spurs,Peoria,IL,40.705477,-89.580239
+51,9650 Debra Light,Los Angeles,CA,33.995584,-118.266814
+52,2309 Barbara Meadows,Syracuse,NY,43.076952,-76.18314
+53,302 Darren Landing,Peoria,IL,40.70289,-89.590488
+54,000 Rebecca Cliffs,Naperville,IL,41.755058,-88.10314
+55,4763 Stevenson Mountain,Rochester,NY,43.132024,-77.687996
+56,4679 Diana Island,Tampa,FL,27.946534,-82.498717
+57,11382 Yvonne Extension,Peoria,IL,40.781127,-89.592976
+58,34148 Tom Centers,Oakland,CA,37.847848,-122.23059
+59,310 Scott Via,Springfield,IL,39.785317,-89.693308
+60,872 Sanchez Avenue,Peoria,IL,40.703783,-89.503637
+61,401 Lara Bridge,St. Petersburg,FL,27.791515,-82.611389
+62,48273 Anthony Causeway,Naperville,IL,41.714389,-88.189551
+63,59275 Brittany Freeway,Rockford,IL,42.255997,-89.090192
+64,710 Valerie Track,Springfield,IL,39.730442,-89.684202
+65,453 Brown Ways,San Jose,CA,37.206504,-122.074477
+66,063 Galloway Harbors,Rochester,NY,43.13976,-77.698953
+67,307 Schneider Court,Rochester,NY,43.106453,-77.692621
+68,3193 Burton Greens,St. Petersburg,FL,27.783067,-82.621598
+69,34845 Roberts Flats,San Jose,CA,37.223235,-121.976679
+70,29235 Erika Ranch,San Diego,CA,32.736705,-116.92006
+71,97119 Hoover Dam,Tallahassee,FL,30.436976,-84.219971
+72,21213 Berry Ferry,Springfield,IL,39.79429,-89.608454
+73,0499 Leonard Brooks,Tampa,FL,27.909205,-82.42766
+74,958 Ruiz Squares,Sacramento,CA,38.578869,-121.528389
+75,7319 Johnson Passage,Syracuse,NY,43.088429,-76.119076
+76,55302 Omar Ports,Houston,TX,29.806473,-95.147029
+77,9673 Hubbard Summit,Fresno,CA,36.754212,-119.852778
+78,608 Jessica Squares,Sacramento,CA,38.555118,-121.54211
+79,2715 Shepard Oval,Rockford,IL,42.27956,-89.092304
+80,53644 Pacheco Causeway,Fresno,CA,36.738115,-119.76539
+81,11818 Nicole Fort,Orlando,FL,28.583195,-81.323063
+82,7453 Kevin Port,Peoria,IL,40.725249,-89.501803
+83,91500 Stone Junction,Aurora,IL,41.77496,-88.291948
+84,62841 Spence Trace,Orlando,FL,28.456253,-81.49594
+85,0009 Summer Islands,Orlando,FL,28.464862,-81.359994
+86,271 Moss Lake,Corpus Christi,TX,27.838009,-97.352778
+87,0640 Alan Light,Sacramento,CA,38.514669,-121.449203
+88,120 Patricia Mills,Albany,NY,42.636069,-73.777113
+89,395 Glenn Coves,Rochester,NY,43.144108,-77.697003
+90,270 Wilson Mountain,Aurora,IL,41.744017,-88.297076
+91,1587 Allen Point,Jacksonville,FL,30.340394,-81.65205
+92,33827 Lisa Mountains,Buffalo,NY,42.910184,-78.840151
+93,5008 Quinn Mills,Fort Lauderdale,FL,26.141019,-80.146804
+94,46141 Cooley Bridge,Yonkers,NY,40.932361,-73.8833
+95,535 Kimberly Trafficway,Albany,NY,42.640279,-73.758671
+96,7477 Sarah Trafficway,Miami,FL,25.834514,-80.193382
+97,060 Schmitt Street,Dallas,TX,32.732713,-96.799717
+98,51163 Luis Turnpike,Syracuse,NY,43.009796,-76.126329
+99,16268 Wilkins Ports,Syracuse,NY,43.053883,-76.151023
+100,12086 Kathy Rue,Houston,TX,29.772702,-95.192663
+101,21993 Karen Groves,San Jose,CA,37.244842,-121.949562
+102,2505 Katherine Club,Tampa,FL,27.957041,-82.468951
+103,86212 Reginald Trafficway,Orlando,FL,28.532652,-81.430266
+104,6808 Jason Squares,Tampa,FL,27.976463,-82.447024
+105,834 Tara Viaduct,Aurora,IL,41.739565,-88.20644
+106,17967 Kathryn Trace,Chicago,IL,41.89444,-87.681163
+107,7060 Hall Harbors,Fort Worth,TX,32.747722,-97.312287
+108,1265 Matthew Mountains,New York,NY,40.723864,-73.96017
+109,80144 Griffin Lodge,Rochester,NY,43.113006,-77.637706
+110,07750 Sarah Burg,Springfield,IL,39.723443,-89.666546
+111,18899 Larsen Expressway,San Diego,CA,33.02566,-117.111101
+112,179 Gray Lights,Oakland,CA,37.7248,-122.247957
+113,450 Lauren Street,Albany,NY,42.655733,-73.799516
+114,178 King Lock,Long Beach,CA,33.795523,-118.158405
+115,8899 Patterson Stream,San Diego,CA,32.716894,-117.082644
+116,0561 Cox Greens,San Antonio,TX,29.414489,-98.532051
+117,41788 Phillips Manors,Rochester,NY,43.185704,-77.607664
+118,973 Jones Crossroad,Sacramento,CA,38.603892,-121.40634
+119,1071 Reynolds Mountain,Miami,FL,25.778417,-80.107669
+120,795 Veronica Street,Springfield,IL,39.769851,-89.699703
+121,9861 Allen Estates,Sacramento,CA,38.571057,-121.430471
+122,68833 Conrad Views,Buffalo,NY,42.911727,-78.865818
+123,923 Brewer Mission,Peoria,IL,40.73498,-89.571548
+124,0760 Wendy Via,Houston,TX,29.975326,-95.24576
+125,9267 Norris Forest,Dallas,TX,32.841709,-96.842582
+126,4144 James Flats,San Antonio,TX,29.522138,-98.458052
+127,48523 Ramirez Circles,Corpus Christi,TX,27.886442,-97.321373
+128,8260 Frazier Tunnel,Dallas,TX,32.764719,-96.7581
+129,39916 Bennett Harbor,Rockford,IL,42.244576,-89.01674
+130,7348 Matthews Locks,Orlando,FL,28.54865,-81.389087
+131,90886 Byrd Pine,Tampa,FL,27.932765,-82.403108
+132,6988 Parker Cliffs,Mount Vernon,NY,40.904451,-73.821967
+133,02889 Henderson Parkways,Buffalo,NY,42.927129,-78.807001
+134,892 John Fords,San Diego,CA,32.8484,-116.984913
+135,8753 Thomas Ports,Austin,TX,30.383175,-97.669465
+136,0262 Chapman Pass,Fort Lauderdale,FL,26.106628,-80.159296
+137,6754 Chung Hollow,Elgin,IL,42.049765,-88.225633
+138,64472 Bowman Mountains,Jacksonville,FL,30.303121,-81.689831
+139,1074 Eric Forest,Long Beach,CA,33.776445,-118.100766
+140,626 Kayla Skyway,New Rochelle,NY,40.910313,-73.758088
+141,7062 Jackson Mountains,Arlington,TX,32.73831,-97.118388
+142,05056 Susan Island,Corpus Christi,TX,27.879608,-97.396375
+143,8514 Angela Harbors,St. Petersburg,FL,27.785536,-82.682412
+144,3068 Rogers Isle,Fort Lauderdale,FL,26.129819,-80.102505
+145,844 Delgado Rue,Los Angeles,CA,33.971896,-118.273227
+146,87257 Hart Crest,San Jose,CA,37.282232,-122.017451
+147,778 Bryant Plains,Aurora,IL,41.787498,-88.249189
+148,820 William Land,Oakland,CA,37.77618,-122.255477
+149,92105 Suarez Unions,Fort Worth,TX,32.882773,-97.385803
+150,39642 Briggs Shoal,Rochester,NY,43.12924,-77.649868
+151,4849 Rivera Plaza,Springfield,IL,39.712764,-89.662005
+152,65762 David Pass,Buffalo,NY,42.925717,-78.817224
+153,674 Daniel Ranch,Tampa,FL,27.974353,-82.459709
+154,13838 Smith Springs,Peoria,IL,40.742092,-89.526857
+155,47496 Smith Lane,San Francisco,CA,37.70778,-122.388827
+156,54657 Leonard Mews,Oakland,CA,37.841908,-122.221624
+157,135 Heath Union,San Antonio,TX,29.453129,-98.407163
+158,0207 Jones Station,Tampa,FL,27.904635,-82.478308
+159,60530 Devin Hills,Orlando,FL,28.555664,-81.478115
+160,345 Christopher Freeway,Fort Worth,TX,32.757561,-97.342449
+161,7642 Robert Forks,Dallas,TX,32.749637,-96.838741
+162,84327 Randall Square,Oakland,CA,37.846276,-122.272137
+163,207 Jeffery Tunnel,Mount Vernon,NY,40.918972,-73.822969
+164,987 Haas Mountain,Austin,TX,30.237222,-97.615567
+165,81919 Thomas Drive,El Paso,TX,31.824538,-106.468765
+166,070 Adam Curve,Rockford,IL,42.273236,-89.076713
+167,6960 Cook Camp,Mount Vernon,NY,40.905845,-73.822405
+168,43627 Monroe Pass,Naperville,IL,41.758059,-88.186256
+169,41835 Hess Skyway,St. Petersburg,FL,27.721205,-82.692286
+170,95134 Andrew Road,Austin,TX,30.350754,-97.634486
+171,90416 Howell Brooks,San Francisco,CA,37.744638,-122.492503
+172,6943 Kim Pines,Yonkers,NY,40.936622,-73.850694
+173,09444 Copeland Coves,Chicago,IL,41.864731,-87.628713
+174,281 Lowery Oval,Sacramento,CA,38.613167,-121.459152
+175,5077 Lewis Squares,Jacksonville,FL,30.334894,-81.60352
+176,7286 Michele Bypass,Mount Vernon,NY,40.906963,-73.824417
+177,9387 Tara Row,Los Angeles,CA,34.054248,-118.653758
+178,9600 Vanessa Path,Chicago,IL,41.980609,-87.601074
+179,29174 Martin Row,Fort Worth,TX,32.735499,-97.347305
+180,457 Harrington Overpass,Albany,NY,42.63447,-73.78095
+181,9949 Smith Corners,El Paso,TX,31.744187,-106.407902
+182,0367 Williams Walk,Mount Vernon,NY,40.906919,-73.823411
+183,4739 Michael Villages,Rockford,IL,42.247211,-89.082924
+184,953 Brandon Overpass,San Antonio,TX,29.583172,-98.593768
+185,3771 Montgomery Expressway,Jacksonville,FL,30.334271,-81.698288
+186,3049 Hernandez Glens,New York,NY,40.772264,-73.998655
+187,598 Anderson Hill,Naperville,IL,41.767492,-88.13761
+188,205 Bell Village,Naperville,IL,41.729015,-88.196543
+189,25160 Hall Valleys,Yonkers,NY,40.923532,-73.858524
+190,05134 Christine Land,Aurora,IL,41.756665,-88.292673
+191,6700 Smith Haven,Joliet,IL,41.542304,-88.056249
+192,594 Michael Run,Arlington,TX,32.765734,-97.130923
+193,4745 Bonilla Forges,Chicago,IL,41.938637,-87.546591
+194,935 Jessica Knolls,Corpus Christi,TX,27.89537,-97.361838
+195,49526 David Villages,El Paso,TX,31.721884,-106.479455
+196,39908 Hunter Way,Rochester,NY,43.173724,-77.609759
+197,578 Fitzgerald Branch,Chicago,IL,41.804946,-87.562026
+198,10178 Allison Point,Rockford,IL,42.213788,-89.017615
+199,23393 Lee Loop,Rockford,IL,42.211058,-89.037106
+200,8669 Best Grove,Long Beach,CA,33.759193,-118.190376
+201,305 Mcclure Shoals,San Diego,CA,32.875895,-117.179114
+202,60056 Ray Valley,San Diego,CA,32.79301,-116.900149
+203,0340 Barbara Flats,Rochester,NY,43.198019,-77.608798
+204,067 Miller Plains,Fort Worth,TX,32.757429,-97.334557
+205,727 Michael Inlet,Jacksonville,FL,30.316217,-81.633476
+206,25671 Lisa Grove,San Antonio,TX,29.374072,-98.430973
+207,6369 Kevin Plains,Elgin,IL,42.044905,-88.209178
+208,95815 Karen Row,Austin,TX,30.367901,-97.60255
+209,7238 Jessica Rapid,Joliet,IL,41.565923,-88.059149
+210,37507 Dawson Falls,Rockford,IL,42.212631,-89.044876
+211,88036 Fernandez Green,Hialeah,FL,25.89803,-80.290902
+212,4386 Heather Mountain,San Francisco,CA,37.782999,-122.31008
+213,10103 Alan Summit,Oakland,CA,37.822988,-122.264828
+214,56338 Brown Via,Syracuse,NY,43.068698,-76.136461
+215,09918 Samantha Loaf,San Jose,CA,37.214138,-121.935584
+216,2711 Summers Courts,Austin,TX,30.231857,-97.723034
+217,6549 Smith Summit,Arlington,TX,32.744102,-97.11628
+218,12129 Laura Common,San Antonio,TX,29.332531,-98.409913
+219,1553 Edward Knoll,Houston,TX,30.062212,-95.200943
+220,7819 Mckenzie Gateway,New Rochelle,NY,40.912299,-73.775782
+221,4103 Patricia Junctions,Los Angeles,CA,33.965893,-118.668021
+222,69351 Sarah Inlet,San Antonio,TX,29.33711,-98.450862
+223,5569 Dickerson Mountains,Jacksonville,FL,30.308332,-81.636122
+224,524 Laurie Stream,Rochester,NY,43.123775,-77.69566
+225,9842 Garza Roads,Joliet,IL,41.569166,-88.019936
+226,46026 Deborah Roads,Albany,NY,42.636172,-73.793718
+227,3945 Anderson Rapids,Naperville,IL,41.789602,-88.111543
+228,111 White Estates,Tampa,FL,27.9128,-82.423522
+229,9769 Russell Ports,Oakland,CA,37.846794,-122.261708
+230,28334 Delgado Roads,Springfield,IL,39.746108,-89.603688
+231,4839 Moses Rest,Syracuse,NY,43.04322,-76.130003
+232,5857 Norman Mountain,El Paso,TX,31.818231,-106.344064
+233,14922 Robinson Ports,Houston,TX,30.00218,-95.339843
+234,9656 Albert Alley,Miami,FL,25.897415,-80.121211
+235,8888 Olivia Hill,Syracuse,NY,43.024511,-76.104122
+236,59344 Amanda Turnpike,Sacramento,CA,38.650216,-121.439564
+237,860 Vang Gateway,Tampa,FL,27.914387,-82.484189
+238,45371 Solomon Light,Peoria,IL,40.737409,-89.555372
+239,82803 Cochran Harbor,Arlington,TX,32.710702,-97.171959
+240,2195 Bell Forest,Naperville,IL,41.724433,-88.199947
+241,243 Fuller Vista,Aurora,IL,41.702248,-88.241197
+242,225 Wu Orchard,San Jose,CA,37.367638,-121.967689
+243,607 Mark Ways,Arlington,TX,32.761653,-97.176403
+244,78215 Heather Square,Syracuse,NY,43.073876,-76.171907
+245,6603 Krista Junction,Joliet,IL,41.522184,-88.077891
+246,901 Anne Isle,San Jose,CA,37.246059,-121.914652
+247,807 Chan Greens,Long Beach,CA,33.78233,-118.197496
+248,8666 Debra Trail,Miami,FL,25.744375,-80.108563
+249,966 Price Route,Rockford,IL,42.289656,-89.075371
+250,3922 Zhang Mall,Rockford,IL,42.240647,-89.072154
+251,50914 Paul Circle,Syracuse,NY,43.033525,-76.160107
+252,87944 John Junction,Naperville,IL,41.72718,-88.149438
+253,7662 Patrick Land,Joliet,IL,41.564901,-88.00858
+254,206 Rodriguez Parks,Oakland,CA,37.759579,-122.285159
+255,53746 Michelle Loaf,Arlington,TX,32.722041,-97.112511
+256,70204 Shannon Lock,Albany,NY,42.652715,-73.750788
+257,301 Bridges Island,Chicago,IL,41.979726,-87.536245
+258,512 Brittany Prairie,Mount Vernon,NY,40.917541,-73.826361
+259,6025 Davenport Rapid,Orlando,FL,28.488164,-81.432767
+260,921 Luke Divide,Yonkers,NY,40.929735,-73.892591
+261,1863 Tina Ferry,Houston,TX,29.843755,-95.30393
+262,280 Barajas Orchard,San Jose,CA,37.371998,-121.912049
+263,62232 Mendoza Street,St. Petersburg,FL,27.7256,-82.673977
+264,99771 Hernandez Plaza,San Diego,CA,33.002094,-117.193406
+265,079 Julie Alley,Springfield,IL,39.711457,-89.630017
+266,6638 Travis Lane,Orlando,FL,28.468205,-81.478692
+267,250 Sweeney Village,San Jose,CA,37.315039,-122.023997
+268,452 Ethan Square,Houston,TX,29.983306,-95.441153
+269,38056 Michael Roads,Rockford,IL,42.200919,-89.048295
+270,040 Brandon Roads,Fresno,CA,36.864448,-119.7319
+271,15972 Jodi Coves,Tallahassee,FL,30.409245,-84.264233
+272,97735 Tina Corners,Rockford,IL,42.233663,-89.049911
+273,8064 Jim Meadow,Hialeah,FL,25.867172,-80.258189
+274,45297 Stacie Junctions,Corpus Christi,TX,27.731804,-97.32599
+275,986 Bryan Landing,Albany,NY,42.636112,-73.79143
+276,89826 Reeves Loaf,El Paso,TX,31.85649,-106.305343
+277,0992 Raymond Mountains,New York,NY,40.770232,-73.942723
+278,6005 Brian Forks,El Paso,TX,31.864299,-106.325469
+279,56549 Freeman Knolls,San Antonio,TX,29.515342,-98.482112
+280,740 Kathy Fork,Long Beach,CA,33.776726,-118.154556
+281,427 Joseph Plaza,New Rochelle,NY,40.91612,-73.756738
+282,03267 Kathleen Forest,New Rochelle,NY,40.90865,-73.751781
+283,976 Livingston Underpass,Long Beach,CA,33.774454,-118.118873
+284,4651 Alyssa Bridge,Tampa,FL,27.979884,-82.437365
+285,30129 Sandoval Key,Oakland,CA,37.838284,-122.278228
+286,358 Nelson Crest,Syracuse,NY,43.083843,-76.127155
+287,0943 Mathis River,Springfield,IL,39.711084,-89.636665
+288,2166 Phillips Land,New Rochelle,NY,40.902656,-73.766042
+289,166 Lindsey Track,Arlington,TX,32.70068,-97.196928
+290,8844 Jacob Flat,Jacksonville,FL,30.328526,-81.697849
+291,95235 Michael Mountains,New Rochelle,NY,40.907498,-73.759313
+292,892 Morgan Manors,San Jose,CA,37.206123,-122.045774
+293,6454 Reynolds Center,Buffalo,NY,42.855343,-78.838046
+294,21648 Martha Oval,San Jose,CA,37.356255,-121.833763
+295,0066 Frank Ports,Oakland,CA,37.82193,-122.243715
+296,17474 Tony Brooks,Aurora,IL,41.794266,-88.208409
+297,63111 Bruce Spring,Miami,FL,25.834691,-80.217482
+298,963 Little Wells,Mount Vernon,NY,40.912248,-73.821677
+299,164 Frazier Keys,Albany,NY,42.642602,-73.75756
+300,32298 Wolfe Rue,Fort Worth,TX,32.771579,-97.339733
+301,2598 Nancy Centers,Chicago,IL,41.989095,-87.650908
+302,38049 Carl Track,Peoria,IL,40.751208,-89.579827
+303,86684 Brian Crossroad,El Paso,TX,31.895667,-106.464019
+304,041 Ryan Lake,Oakland,CA,37.709879,-122.225773
+305,65267 Katrina Dam,Arlington,TX,32.792431,-97.115312
+306,7194 Peter Flats,Sacramento,CA,38.612147,-121.561926
+307,67104 Michelle Gardens,Tampa,FL,27.934732,-82.495304
+308,6436 Alexander Mission,Orlando,FL,28.497497,-81.3778
+309,8263 Turner Prairie,Chicago,IL,41.845661,-87.582311
+310,982 Bolton Center,St. Petersburg,FL,27.773875,-82.662729
+311,3813 Brown Square,Tampa,FL,27.992543,-82.445026
+312,89273 Christopher Causeway,Fort Lauderdale,FL,26.190491,-80.134787
+313,1751 Jeff Estate,Sacramento,CA,38.510597,-121.448705
+314,70661 Garcia Pike,Peoria,IL,40.713244,-89.5437
+315,547 Jacob Throughway,Corpus Christi,TX,27.895737,-97.330974
+316,62242 Kenneth Canyon,Fort Worth,TX,32.817735,-97.342175
+317,47580 Todd Shores,Syracuse,NY,43.088503,-76.111311
+318,9506 Gonzales Forks,Houston,TX,30.003217,-95.283437
+319,041 Rodriguez Cliff,Miami,FL,25.780167,-80.135278
+320,9962 Carol Tunnel,El Paso,TX,31.72818,-106.411398
+321,467 York Junction,Miami,FL,25.859597,-80.276341
+322,5408 Johnson Motorway,Oakland,CA,37.822215,-122.20336
+323,242 Richard Brooks,Hialeah,FL,25.859378,-80.271295
+324,99089 Troy Forges,San Diego,CA,32.86189,-116.982847
+325,0494 Deborah Flats,Yonkers,NY,40.935734,-73.893375
+326,79047 Ronald Vista,San Diego,CA,32.768808,-117.162961
+327,2642 Laura Club,Austin,TX,30.330135,-97.663819
+328,18916 Smith Roads,Peoria,IL,40.793234,-89.532163
+329,55350 Browning Place,Los Angeles,CA,33.913136,-118.315875
+330,782 Campos Ville,Aurora,IL,41.746401,-88.257618
+331,510 Erin Summit,Tampa,FL,27.950413,-82.416984
+332,2469 Ricky Estate,Hialeah,FL,25.892256,-80.267954
+333,0624 Victoria Estates,Los Angeles,CA,33.912169,-118.675416
+334,52693 Anna Tunnel,Buffalo,NY,42.864903,-78.898687
+335,749 Wagner Lodge,Albany,NY,42.659274,-73.751911
+336,219 Luna Terrace,Arlington,TX,32.780685,-97.124012
+337,7494 Benjamin Cape,Arlington,TX,32.750123,-97.154892
+338,51682 Phillips Lodge,San Antonio,TX,29.460584,-98.54825
+339,23672 Hernandez Overpass,San Jose,CA,37.245172,-122.018718
+340,4609 Soto Hill,Austin,TX,30.361776,-97.756688
+341,8394 Moore Garden,Arlington,TX,32.719925,-97.141087
+342,367 Alyssa Loop,Syracuse,NY,43.090552,-76.166475
+343,999 Rachel Locks,Joliet,IL,41.564386,-88.032498
+344,0329 Baker Rapids,St. Petersburg,FL,27.76518,-82.64104
+345,486 Heather Mountains,Tallahassee,FL,30.449726,-84.221851
+346,1758 Roberson Fall,San Francisco,CA,37.717791,-122.490011
+347,1605 Jones Locks,Austin,TX,30.325057,-97.6054
+348,2191 Timothy Well,Hialeah,FL,25.892396,-80.278589
+349,4077 Sandra Knoll,San Antonio,TX,29.339992,-98.578611
+350,590 Rojas Village,San Antonio,TX,29.535035,-98.597714
+351,71148 Powell Gardens,Fort Lauderdale,FL,26.189614,-80.131399
+352,6163 Carter Groves,Austin,TX,30.386663,-97.771629
+353,2349 Deborah Trail,Arlington,TX,32.719549,-97.155431
+354,2462 Angela Court,Hialeah,FL,25.87469,-80.28848
+355,18265 Joseph Row,Mount Vernon,NY,40.913197,-73.822972
+356,57042 Powell Station,Aurora,IL,41.718236,-88.247442
+357,740 Michael Parkways,Aurora,IL,41.712929,-88.250324
+358,4809 Evan Points,Corpus Christi,TX,27.802106,-97.428014
+359,51194 John Brooks,Buffalo,NY,42.853928,-78.804772
+360,8480 Moody Loop,Austin,TX,30.243406,-97.69141
+361,7941 Johnny Glens,New Rochelle,NY,40.915479,-73.77868
+362,2759 Vincent Ferry,Syracuse,NY,43.015486,-76.186271
+363,806 Baldwin Well,Peoria,IL,40.792734,-89.58635
+364,10967 Julie Common,Jacksonville,FL,30.336523,-81.6723
+365,1156 Rickey Summit,Albany,NY,42.64806,-73.761592
+366,531 Mitchell Circles,Tampa,FL,27.915562,-82.478673
+367,029 Young Station,Yonkers,NY,40.928688,-73.89988
+368,506 Crawford Shores,Fort Worth,TX,32.719557,-97.341746
+369,187 Melissa Pass,New York,NY,40.731679,-73.928367
+370,2806 Johnson Falls,Syracuse,NY,43.014149,-76.187395
+371,63972 Shaffer Isle,Austin,TX,30.394162,-97.722346
+372,067 Murray Gateway,San Antonio,TX,29.349909,-98.476162
+373,64016 Patrick Villages,Elgin,IL,42.004171,-88.264546
+374,804 Barry Plaza,Corpus Christi,TX,27.727955,-97.304474
+375,3941 Murray Walk,Fort Lauderdale,FL,26.177329,-80.194763
+376,659 Cordova Divide,Fort Lauderdale,FL,26.166594,-80.186797
+377,15760 Samantha Summit,Orlando,FL,28.591601,-81.462047
+378,55808 Sandra Corners,Mount Vernon,NY,40.906439,-73.826974
+379,9586 Anita Lakes,Tampa,FL,27.955928,-82.497963
+380,0647 Melody Islands,Joliet,IL,41.517796,-88.035213
+381,5303 Holmes Expressway,Syracuse,NY,43.084179,-76.14505
+382,232 Philip Estate,Rockford,IL,42.224766,-89.080335
+383,076 Jason Summit,Rockford,IL,42.230713,-89.083923
+384,394 Joseph Mission,Corpus Christi,TX,27.86207,-97.419268
+385,89989 Rogers Valley,Rochester,NY,43.175412,-77.688646
+386,06713 Smith Lock,Los Angeles,CA,33.984605,-118.490066
+387,495 Anna Views,Austin,TX,30.265818,-97.769627
+388,64179 Michael Way,Rochester,NY,43.187654,-77.658876
+389,52648 Gilbert Rapids,Joliet,IL,41.547211,-88.079704
+390,374 Jennifer Tunnel,Rockford,IL,42.21829,-89.086449
+391,92212 Patricia Valleys,Springfield,IL,39.706368,-89.678739
+392,92028 Thomas Terrace,Miami,FL,25.875614,-80.29212
+393,903 Warren Canyon,Tallahassee,FL,30.455798,-84.295383
+394,404 Alyssa Course,Oakland,CA,37.74625,-122.232512
+395,969 Russell Islands,New York,NY,40.749401,-73.942818
+396,773 Kelly Crossing,Austin,TX,30.244182,-97.731137
+397,9865 David Throughway,Chicago,IL,41.878476,-87.620497
+398,4634 Bethany Place,Sacramento,CA,38.558234,-121.456729
+399,1085 Wise Roads,Corpus Christi,TX,27.82418,-97.321084
+400,361 Williams Path,Springfield,IL,39.718044,-89.673823
+401,6865 Matthew Mews,Peoria,IL,40.721736,-89.522454
+402,8482 Joyce Pines,Naperville,IL,41.758278,-88.159731
+403,369 Eric Lock,Aurora,IL,41.725369,-88.211825
+404,8768 Mckenzie Cape,Albany,NY,42.641229,-73.792683
+405,334 Brown Springs,San Diego,CA,33.081402,-117.131745
+406,120 Denise Street,Aurora,IL,41.779462,-88.251231
+407,18185 Robert Prairie,Yonkers,NY,40.921974,-73.860808
+408,075 Johnathan Centers,Springfield,IL,39.73071,-89.620931
+409,61598 Cunningham Ports,Los Angeles,CA,33.965513,-118.501127
+410,05372 Emily Point,Rockford,IL,42.20265,-89.0443
+411,485 Melendez Corners,Corpus Christi,TX,27.86667,-97.346403
+412,98097 Thompson Heights,Tallahassee,FL,30.424995,-84.217295
+413,2799 Donaldson Lights,Houston,TX,29.823651,-95.381063
+414,705 Hayes Freeway,Austin,TX,30.374107,-97.698084
+415,26662 Anderson Ridges,Aurora,IL,41.732311,-88.236937
+416,17521 Rivera Light,Orlando,FL,28.462285,-81.345706
+417,91126 Jacqueline Alley,Fort Lauderdale,FL,26.146857,-80.139708
+418,1385 Huber Course,Syracuse,NY,43.0447,-76.141555
+419,457 Megan Wall,Corpus Christi,TX,27.850009,-97.465848
+420,13289 Anderson Key,Hialeah,FL,25.858819,-80.29186
+421,3226 Brown Track,San Diego,CA,32.968671,-116.914113
+422,9025 Wallace Points,Aurora,IL,41.766652,-88.229333
+423,85235 Ryan Lodge,New Rochelle,NY,40.902664,-73.770071
+424,710 Davenport Mountain,San Diego,CA,33.011049,-117.087676
+425,759 Justin Land,Tampa,FL,27.931829,-82.450987
+426,10758 Nathan Knoll,Joliet,IL,41.560753,-88.045511
+427,94067 Kaitlyn Mills,Fort Worth,TX,32.782135,-97.302785
+428,1665 Julia Views,Sacramento,CA,38.528791,-121.472064
+429,5631 Mcintyre Roads,Sacramento,CA,38.522141,-121.475129
+430,630 Kaiser Track,San Antonio,TX,29.541834,-98.400956
+431,66458 Hanson Land,Orlando,FL,28.495921,-81.427482
+432,34761 Baker Orchard,Oakland,CA,37.828835,-122.217111
+433,64471 Sandra Highway,Fresno,CA,36.862613,-119.7762
+434,46411 Baker Club,Chicago,IL,41.869431,-87.650752
+435,242 Ruben Springs,St. Petersburg,FL,27.718726,-82.676429
+436,35393 Rachel Shoals,Long Beach,CA,33.778175,-118.112866
+437,3804 Krueger Rest,Chicago,IL,41.871497,-87.513491
+438,24310 Adam River,Peoria,IL,40.763088,-89.550469
+439,8351 Justin Mills,Mount Vernon,NY,40.914878,-73.828667
+440,824 John Points,Peoria,IL,40.767719,-89.546969
+441,71783 Adams Plains,Mount Vernon,NY,40.914629,-73.824118
+442,98903 Smith Shore,Mount Vernon,NY,40.902551,-73.827766
+443,6702 Heather Mount,Miami,FL,25.729131,-80.240515
+444,7528 Henderson Overpass,Tampa,FL,27.904468,-82.411647
+445,47262 Williams Vista,Dallas,TX,32.791367,-96.719803
+446,439 Jacob Mall,San Antonio,TX,29.319384,-98.536324
+447,88944 Glover Overpass,Corpus Christi,TX,27.833727,-97.34534
+448,1394 Randy Lights,Joliet,IL,41.514476,-88.021031
+449,2177 Ray Streets,Los Angeles,CA,34.190214,-118.279318
+450,9881 Jensen Wells,Los Angeles,CA,34.207387,-118.508069
+451,61411 Kimberly Fords,Arlington,TX,32.769655,-97.119998
+452,24643 Cain Well,Hialeah,FL,25.857347,-80.252331
+453,97964 Tiffany Lodge,Fort Worth,TX,32.781436,-97.32907
+454,94771 Justin Hollow,New Rochelle,NY,40.91249,-73.760982
+455,87440 Vanessa Crossing,San Antonio,TX,29.528361,-98.554568
+456,78854 Natasha Pine,Yonkers,NY,40.900605,-73.890248
+457,05853 Taylor Lake,Sacramento,CA,38.556548,-121.565594
+458,1263 Rachel Isle,El Paso,TX,31.782982,-106.324068
+459,94501 Randall Walks,Los Angeles,CA,34.126045,-118.348401
+460,68477 Barnett Prairie,El Paso,TX,31.791596,-106.35208
+461,009 Carlos Row,St. Petersburg,FL,27.702753,-82.66601
+462,93293 Judith Divide,Fort Lauderdale,FL,26.149879,-80.190273
+463,22302 Sharp Cove,Rochester,NY,43.138599,-77.681746
+464,39459 Nicole Prairie,Chicago,IL,41.924561,-87.547781
+465,48568 Rebecca Meadow,Los Angeles,CA,34.069374,-118.142246
+466,572 James Cove,Hialeah,FL,25.882487,-80.295595
+467,819 Bobby Drives,Tallahassee,FL,30.401674,-84.273387
+468,6693 Alexis Pike,Corpus Christi,TX,27.86508,-97.381326
+469,7451 Miller Port,Buffalo,NY,42.942696,-78.832098
+470,0913 Tracy Mountains,New York,NY,40.738638,-73.903023
+471,456 Johnson Freeway,Rochester,NY,43.150322,-77.637772
+472,07490 Brian Drive,Tampa,FL,27.981926,-82.451117
+473,288 Jonathan Road,St. Petersburg,FL,27.761074,-82.619188
+474,3941 Sydney Landing,Rochester,NY,43.181402,-77.663248
+475,50860 David Expressway,Yonkers,NY,40.945713,-73.878379
+476,006 Carrie Cliff,Springfield,IL,39.71564,-89.637735
+477,7137 King Squares,Jacksonville,FL,30.361763,-81.600471
+478,97127 Lisa Haven,El Paso,TX,31.816638,-106.341037
+479,97120 Clark Land,Dallas,TX,32.77397,-96.844399
+480,8927 House Track,Los Angeles,CA,34.065646,-118.285102
+481,8387 Williams Haven,Aurora,IL,41.739449,-88.293498
+482,288 Laurie Mews,Sacramento,CA,38.631646,-121.401753
+483,9020 Cathy Turnpike,Fresno,CA,36.753994,-119.713741
+484,491 Thompson Dale,Elgin,IL,42.004089,-88.203783
+485,225 Love Drives,Yonkers,NY,40.94642,-73.857538
+486,04996 Wendy Heights,Long Beach,CA,33.781626,-118.165079
+487,5973 Tasha Villages,Houston,TX,29.908152,-95.460402
+488,934 Harrison Green,Dallas,TX,32.889487,-96.893111
+489,2212 Rita Unions,Elgin,IL,42.048244,-88.27963
+490,9830 Dodson Square,Aurora,IL,41.759688,-88.283713
+491,7008 Cohen Spur,Naperville,IL,41.741703,-88.151249
+492,41882 Warner Green,Fresno,CA,36.778814,-119.837598
+493,77680 Gonzalez Island,Austin,TX,30.277001,-97.768294
+494,55068 Vasquez Lights,San Jose,CA,37.261226,-121.818091
+495,239 Kimberly Harbor,Joliet,IL,41.538689,-88.071084
+496,6103 Stephenson Route,Long Beach,CA,33.788682,-118.14214
+497,287 Valerie Viaduct,Peoria,IL,40.756009,-89.508937
+498,60528 Rollins Forest,Rockford,IL,42.249026,-89.036782
+499,799 Mary Divide,Fort Worth,TX,32.812235,-97.327321
+500,32577 Tammy Ports,Miami,FL,25.868508,-80.182968
+501,05014 Donna Isle,Syracuse,NY,43.082536,-76.128135
+502,0700 Harrington Row,Fresno,CA,36.782042,-119.867568
+503,642 Alvarez Manors,Orlando,FL,28.473748,-81.330323
+504,6132 Henderson Mission,Buffalo,NY,42.933425,-78.838959
+505,762 Zachary Square,Long Beach,CA,33.753679,-118.123464
+506,8412 Charles Street,Fort Worth,TX,32.749114,-97.39818
+507,046 Joseph Divide,Peoria,IL,40.701358,-89.564515
+508,812 Emma Terrace,Tallahassee,FL,30.451676,-84.262014
+509,4868 Samantha Path,Austin,TX,30.215518,-97.667657
+510,101 Sullivan Locks,Hialeah,FL,25.891984,-80.260321
+511,0888 Marshall Falls,Rockford,IL,42.208658,-89.015659
+512,789 Reid Spurs,Orlando,FL,28.413287,-81.457113
+513,1721 Anna Court,Buffalo,NY,42.851637,-78.881914
+514,9652 John Islands,Arlington,TX,32.788427,-97.108745
+515,3102 Donna Land,Hialeah,FL,25.876355,-80.257183
+516,95752 Andrew Street,Joliet,IL,41.522837,-88.028287
+517,15631 Angela Hill,Peoria,IL,40.755874,-89.599576
+518,85534 Linda Locks,San Antonio,TX,29.30625,-98.468176
+519,556 Randy Isle,Fresno,CA,36.84996,-119.84469
+520,884 Hunter Isle,Syracuse,NY,43.050273,-76.125312
+521,4454 Sharon Port,Arlington,TX,32.788888,-97.153752
+522,822 Owen Plains,New York,NY,40.708712,-73.912363
+523,30418 Donna Alley,Rochester,NY,43.149505,-77.620751
+524,6565 Taylor Valleys,Rockford,IL,42.257683,-89.032751
+525,23006 Robin Fields,Aurora,IL,41.772483,-88.232979
+526,255 Abbott Hill,Mount Vernon,NY,40.917949,-73.824235
+527,281 Leblanc Points,Dallas,TX,32.725013,-96.783036
+528,0680 Herring Knolls,Miami,FL,25.87,-80.268676
+529,1082 Baker Views,Naperville,IL,41.705966,-88.10318
+530,659 Jon Camp,San Antonio,TX,29.35616,-98.402765
+531,241 Gonzalez Pass,Buffalo,NY,42.915022,-78.852126
+532,680 James Road,Fort Lauderdale,FL,26.158562,-80.104779
+533,4417 Jones Lakes,Springfield,IL,39.74657,-89.656381
+534,0131 Davidson Springs,Peoria,IL,40.717143,-89.504634
+535,35242 Hickman Crest,Fort Worth,TX,32.741265,-97.308577
+536,768 John Courts,Corpus Christi,TX,27.856196,-97.330723
+537,07824 Jason Underpass,New York,NY,40.738716,-73.913558
+538,870 Cline Junction,San Diego,CA,32.809245,-117.069417
+539,3004 Bailey Ville,Elgin,IL,42.004809,-88.240278
+540,5159 Patricia Mount,Albany,NY,42.638876,-73.750745
+541,954 Cox Mountains,Houston,TX,30.023791,-95.476689
+542,4151 Alyssa Vista,Rochester,NY,43.173704,-77.61483
+543,790 Thompson Lodge,Yonkers,NY,40.907352,-73.896823
+544,040 Danielle Well,Albany,NY,42.640874,-73.758671
+545,145 Michelle Common,Joliet,IL,41.548614,-88.05709
+546,30097 Turner Run,Miami,FL,25.773878,-80.178386
+547,66869 Cynthia Ferry,El Paso,TX,31.85429,-106.370275
+548,138 Garrett Divide,Joliet,IL,41.546145,-88.09379
+549,48494 William Common,Syracuse,NY,43.045652,-76.101238
+550,617 Andrew Streets,Long Beach,CA,33.785179,-118.135084
+551,32574 Anderson Port,Houston,TX,29.785439,-95.175786
+552,97847 Michael Passage,Fresno,CA,36.823657,-119.879516
+553,948 Kirk Branch,San Francisco,CA,37.76066,-122.44539
+554,249 Juarez Flats,Rockford,IL,42.251837,-89.047882
+555,48656 Alec Field,Fort Lauderdale,FL,26.109784,-80.131507
+556,60728 Sally Roads,San Jose,CA,37.237495,-122.089953
+557,8411 Stein Roads,Aurora,IL,41.756615,-88.293764
+558,70112 Jennifer Club,Aurora,IL,41.723021,-88.252122
+559,0889 Coleman Rapids,Fort Worth,TX,32.805633,-97.368804
+560,1767 Summers Haven,Peoria,IL,40.745125,-89.531246
+561,44799 Douglas Glens,Sacramento,CA,38.639766,-121.422767
+562,5144 Charles Course,New York,NY,40.731353,-73.917763
+563,698 Gina Neck,Sacramento,CA,38.628755,-121.431751
+564,188 David Skyway,Albany,NY,42.640285,-73.770266
+565,82929 Jones Ridge,Elgin,IL,42.041496,-88.232181
+566,761 Tyler Mission,Dallas,TX,32.896501,-96.86645
+567,2656 Cordova Track,Fort Worth,TX,32.819332,-97.331357
+568,92551 John Squares,Long Beach,CA,33.754867,-118.182898
+569,940 Smith Brooks,Aurora,IL,41.748107,-88.228568
+570,8145 Morales Mission,Buffalo,NY,42.852377,-78.807531
+571,1648 Ashley Bridge,Fort Worth,TX,32.85274,-97.366263
+572,019 Sharon Meadows,Los Angeles,CA,34.130515,-118.29072
+573,4456 Christopher Inlet,Naperville,IL,41.762504,-88.107041
+574,8814 Matthew Station,Springfield,IL,39.792787,-89.615282
+575,22265 Rosales Cliff,Oakland,CA,37.708927,-122.227956
+576,70127 Walker Lane,Joliet,IL,41.505196,-88.001231
+577,5089 Andrew Haven,Rochester,NY,43.168028,-77.601834
+578,09886 Michael Village,Fort Lauderdale,FL,26.117857,-80.119502
+579,909 Scott Isle,New Rochelle,NY,40.908636,-73.764086
+580,9192 Jason Dale,Dallas,TX,32.803431,-96.881433
+581,494 Johnson Village,Fort Worth,TX,32.808388,-97.319357
+582,014 Alexander Plaza,Tallahassee,FL,30.442334,-84.295451
+583,610 Cory Rapid,Oakland,CA,37.723944,-122.258253
+584,746 Fernandez Mountains,Rochester,NY,43.131917,-77.621944
+585,653 Steven Forest,Yonkers,NY,40.939996,-73.850867
+586,464 Stacy Mission,Austin,TX,30.220254,-97.608855
+587,9160 Valdez Throughway,Syracuse,NY,43.087135,-76.146219
+588,64419 Gary Forest,El Paso,TX,31.804439,-106.367831
+589,669 Gonzalez Spur,Corpus Christi,TX,27.746109,-97.489852
+590,6994 Boyd Forge,St. Petersburg,FL,27.792755,-82.690126
+591,0399 Murray Meadow,Oakland,CA,37.802584,-122.296041
+592,37762 Christopher Spring,San Antonio,TX,29.418578,-98.426107
+593,147 Ramirez Ports,Fort Lauderdale,FL,26.173343,-80.104983
+594,6035 Joseph Mountain,Jacksonville,FL,30.329762,-81.663936
+595,577 Cook Shoal,Rockford,IL,42.287208,-89.020865
+596,6762 Anderson Common,Tallahassee,FL,30.475701,-84.24704
+597,5423 Flores Vista,Springfield,IL,39.74521,-89.651989
+598,6008 Maddox Brooks,Long Beach,CA,33.782856,-118.144605
+599,2625 Michael Dale,Sacramento,CA,38.639754,-121.496416
+600,933 Tamara Ways,Corpus Christi,TX,27.729129,-97.334159
+601,0961 Dennis Manor,Sacramento,CA,38.662497,-121.476962
+602,23280 Luna Stravenue,Rochester,NY,43.16369,-77.674831
+603,320 Parrish Field,Elgin,IL,42.014986,-88.28315
+604,1567 Lopez Wells,Joliet,IL,41.538583,-88.046901
+605,67632 Harris Throughway,Miami,FL,25.819012,-80.195029
+606,408 David Land,St. Petersburg,FL,27.751596,-82.687798
+607,46940 David Squares,San Francisco,CA,37.76716,-122.322788
+608,1516 Reynolds Shore,Chicago,IL,41.999415,-87.663526
+609,455 Brandy Inlet,Dallas,TX,32.857369,-96.707201
+610,9444 James Valley,Houston,TX,30.052772,-95.225059
+611,994 Joshua Ports,Mount Vernon,NY,40.918204,-73.821981
+612,3206 Chandler Fork,El Paso,TX,31.835342,-106.33022
+613,8429 Dana Ranch,Naperville,IL,41.76775,-88.180198
+614,70176 Johnson Station,Jacksonville,FL,30.313472,-81.6023
+615,0441 Melissa Green,Miami,FL,25.721488,-80.245956
+616,46603 Richard Flat,Elgin,IL,42.036275,-88.225576
+617,28219 Flores Crescent,Joliet,IL,41.558028,-88.086334
+618,890 Ronald Union,Rochester,NY,43.135791,-77.643603
+619,852 Diaz Summit,Fort Lauderdale,FL,26.176976,-80.19317
+620,107 Glover Wells,Dallas,TX,32.895219,-96.856855
+621,862 Ayala Field,San Diego,CA,32.822477,-116.958066
+622,8223 Goodwin Springs,Tampa,FL,27.951252,-82.429819
+623,7711 Paul Village,Springfield,IL,39.766976,-89.690949
+624,60895 Hill Spur,San Antonio,TX,29.303149,-98.541111
+625,56612 Gregory Summit,San Antonio,TX,29.349493,-98.434622
+626,5848 Nicholas Park,Rochester,NY,43.118225,-77.602924
+627,83178 Stephanie Ridge,Tallahassee,FL,30.487001,-84.268926
+628,35140 Moran Cliffs,Houston,TX,29.869484,-95.200501
+629,113 Michelle Park,Fresno,CA,36.74069,-119.876802
+630,491 Matthew Roads,Arlington,TX,32.731059,-97.17507
+631,3445 Hudson Pass,Orlando,FL,28.452275,-81.306753
+632,408 Cole Summit,Tampa,FL,27.992272,-82.449863
+633,379 Murray Run,Fresno,CA,36.863384,-119.874193
+634,812 Bryan Rapid,Long Beach,CA,33.799167,-118.108758
+635,3318 Bennett Row,Buffalo,NY,42.865435,-78.882263
+636,8938 Gwendolyn Land,Miami,FL,25.843408,-80.22176
+637,32245 Jocelyn Road,St. Petersburg,FL,27.790691,-82.684938
+638,127 Belinda Row,San Jose,CA,37.216779,-121.894031
+639,167 Maldonado Plaza,Long Beach,CA,33.795065,-118.153449
+640,97274 James Station,Jacksonville,FL,30.320235,-81.640493
+641,18150 Robin Drives,San Diego,CA,32.720816,-117.052005
+642,3047 Collier Crescent,Syracuse,NY,43.061057,-76.140679
+643,55657 Christina Cliffs,Aurora,IL,41.746717,-88.237265
+644,51607 Brandon Ville,Houston,TX,29.928881,-95.367304
+645,503 Moore Crossroad,Yonkers,NY,40.936069,-73.884776
+646,559 Tara Burgs,San Antonio,TX,29.370534,-98.444024
+647,701 Mark Prairie,Houston,TX,29.733987,-95.04772
+648,62962 Misty Greens,Tallahassee,FL,30.415343,-84.262731
+649,59318 Michael Tunnel,Mount Vernon,NY,40.90388,-73.821026
+650,9125 Chloe Union,San Antonio,TX,29.352851,-98.544312
+651,7274 Shane Glen,Miami,FL,25.775263,-80.16033
+652,11056 Andrea Coves,Peoria,IL,40.708384,-89.581025
+653,688 Amanda Crossing,Fort Lauderdale,FL,26.141432,-80.188912
+654,8872 Sharon Cliff,Buffalo,NY,42.868426,-78.849268
+655,216 Garcia Field,Chicago,IL,41.953337,-87.589192
+656,793 Robinson Plain,St. Petersburg,FL,27.78581,-82.612325
+657,41857 Zachary Mountain,Buffalo,NY,42.887736,-78.847809
+658,433 Bush Unions,St. Petersburg,FL,27.708326,-82.645914
+659,3903 James Estates,Miami,FL,25.724848,-80.285095
+660,4245 Wolfe Curve,Arlington,TX,32.71506,-97.150123
+661,62904 Phillips Knolls,Rockford,IL,42.261866,-89.0798
+662,6421 Alejandro Land,Dallas,TX,32.862906,-96.724077
+663,5311 John Manor,Rochester,NY,43.152022,-77.630392
+664,224 Holmes Ranch,Fort Worth,TX,32.803514,-97.353358
+665,63717 Wright Streets,San Diego,CA,33.000031,-117.176952
+666,42911 Katherine Mission,San Antonio,TX,29.558857,-98.47371
+667,69317 Adkins Plains,Rochester,NY,43.121505,-77.656432
+668,9890 James Plaza,Houston,TX,30.041473,-95.010774
+669,877 Simmons Loaf,New Rochelle,NY,40.903079,-73.772913
+670,0348 Patricia Springs,Albany,NY,42.632271,-73.761001
+671,670 Aguilar Square,Dallas,TX,32.796115,-96.867403
+672,9661 Danielle Orchard,San Francisco,CA,37.718166,-122.395087
+673,4420 Anthony Meadows,Fort Worth,TX,32.875848,-97.32627
+674,771 Susan Neck,Rockford,IL,42.247839,-89.038947
+675,779 Adam Squares,Peoria,IL,40.783565,-89.52698
+676,145 Danielle Junction,New Rochelle,NY,40.907666,-73.777753
+677,330 Richard Forks,Miami,FL,25.793532,-80.289138
+678,325 James Stravenue,San Diego,CA,33.091007,-117.016121
+679,87432 Armstrong Mountains,New Rochelle,NY,40.90965,-73.760078
+680,1078 Dorsey Gardens,Aurora,IL,41.73574,-88.259934
+681,6958 Smith Walk,Rockford,IL,42.278281,-89.021335
+682,9898 Green Field,San Jose,CA,37.307035,-121.864932
+683,9333 Ward Skyway,Naperville,IL,41.770548,-88.103724
+684,350 Susan Camp,Corpus Christi,TX,27.790617,-97.483785
+685,8079 Jay Fall,Peoria,IL,40.760776,-89.551303
+686,87296 Haynes Circle,San Antonio,TX,29.553915,-98.57546
+687,28058 Morales Islands,Tallahassee,FL,30.404068,-84.268638
+688,5138 Roberts Trace,Orlando,FL,28.510084,-81.39564
+689,085 Gomez Islands,Elgin,IL,42.01463,-88.220328
+690,2250 Tammy Fort,Rochester,NY,43.197456,-77.652806
+691,912 Woodward Extensions,Austin,TX,30.397495,-97.728719
+692,045 Julie Hills,San Jose,CA,37.388426,-122.077499
+693,277 Copeland Pines,Fresno,CA,36.844969,-119.895556
+694,5477 Christopher Passage,Long Beach,CA,33.783037,-118.131397
+695,38100 Michelle Alley,Yonkers,NY,40.939225,-73.894422
+696,52326 Thornton Valley,Jacksonville,FL,30.324326,-81.615788
+697,34476 Julie Springs,Tampa,FL,27.966527,-82.415801
+698,14060 Ruiz Parkway,Arlington,TX,32.799837,-97.153874
+699,78199 Davis Orchard,Buffalo,NY,42.865192,-78.869869
+700,060 Morris Ramp,Rockford,IL,42.291311,-89.014406
+701,6097 Michael Crest,El Paso,TX,31.773679,-106.350845
+702,29410 Rogers Square,Dallas,TX,32.706243,-96.867331
+703,88545 Long Row,Long Beach,CA,33.776458,-118.165089
+704,610 Donna Squares,Springfield,IL,39.755565,-89.668733
+705,62937 Gonzales Underpass,Arlington,TX,32.799283,-97.122491
+706,79489 Mia Loaf,Miami,FL,25.812543,-80.259875
+707,667 Owen Views,Albany,NY,42.632022,-73.798866
+708,805 Gary Glens,Hialeah,FL,25.890377,-80.265943
+709,394 Kenneth Viaduct,Buffalo,NY,42.901793,-78.896816
+710,731 Christopher Underpass,San Diego,CA,32.992462,-116.922721
+711,5617 Marks Ramp,Houston,TX,29.747104,-95.220095
+712,34347 Jeremy Vista,Springfield,IL,39.780305,-89.676817
+713,294 Pamela Islands,Fort Worth,TX,32.814545,-97.397397
+714,5411 Wilkinson Greens,New Rochelle,NY,40.907679,-73.773355
+715,4695 Christine Forks,Sacramento,CA,38.564086,-121.429513
+716,44379 Adam Junction,San Jose,CA,37.260755,-121.946315
+717,7450 Shelton Locks,Tampa,FL,27.960172,-82.400826
+718,31580 Shaw Station,Fresno,CA,36.734877,-119.758581
+719,146 Curtis Islands,Syracuse,NY,43.078747,-76.157645
+720,300 Gonzalez Springs,Springfield,IL,39.797626,-89.68089
+721,490 Williams Ville,Springfield,IL,39.732746,-89.629831
+722,147 Cruz Landing,Albany,NY,42.648301,-73.777436
+723,94645 Edwin Unions,Houston,TX,29.746677,-95.20526
+724,5782 George Pike,Naperville,IL,41.770412,-88.163585
+725,239 Brown Lake,Miami,FL,25.864736,-80.203855
+726,7233 Peterson Lights,Buffalo,NY,42.865903,-78.809702
+727,24724 Davis Unions,Dallas,TX,32.796504,-96.783247
+728,485 Benjamin Landing,Los Angeles,CA,34.156636,-118.204881
+729,31562 Antonio Glens,Aurora,IL,41.784038,-88.297609
+730,1282 Faulkner Manor,Jacksonville,FL,30.304447,-81.665101
+731,12226 Reed Tunnel,St. Petersburg,FL,27.716056,-82.66215
+732,108 Aguilar Camp,Naperville,IL,41.794431,-88.110074
+733,0808 Guzman Ridge,Rochester,NY,43.112617,-77.612642
+734,229 Valerie Crossing,Elgin,IL,42.005907,-88.248976
+735,1268 Douglas Tunnel,New Rochelle,NY,40.911017,-73.764237
+736,36172 Oneal Forest,Elgin,IL,42.010732,-88.232997
+737,954 Amber Junction,Springfield,IL,39.754447,-89.624285
+738,2045 Bobby Ferry,Tampa,FL,27.969046,-82.446834
+739,8302 Simmons Creek,Mount Vernon,NY,40.903602,-73.820203
+740,27033 Timothy Walk,Houston,TX,30.000264,-95.163306
+741,78053 Kimberly Station,Austin,TX,30.241976,-97.776919
+742,8617 Nelson Lodge,San Jose,CA,37.377345,-122.041697
+743,8729 Abbott Lake,Austin,TX,30.385749,-97.679665
+744,60002 Christine Common,Albany,NY,42.651309,-73.762099
+745,212 Elizabeth Pines,Oakland,CA,37.714833,-122.223415
+746,62442 Goodman Shoals,Albany,NY,42.643787,-73.781436
+747,8428 Oliver Squares,Houston,TX,29.771643,-95.323005
+748,564 Kent Cliffs,Mount Vernon,NY,40.908762,-73.825911
+749,203 Monica Harbor,Long Beach,CA,33.77698,-118.105499
+750,3971 Noah Rue,Rochester,NY,43.187288,-77.677988
+751,53875 Hansen Course,Joliet,IL,41.547047,-88.097259
+752,24822 Adkins Fall,St. Petersburg,FL,27.72843,-82.614232
+753,35708 Samuel Valley,Chicago,IL,41.956803,-87.646799
+754,35216 Derek Plains,Dallas,TX,32.890215,-96.732734
+755,31511 Gomez Landing,Chicago,IL,41.900543,-87.569026
+756,48841 Smith Underpass,San Diego,CA,32.891857,-117.185716
+757,810 Williams Gardens,El Paso,TX,31.895939,-106.314759
+758,61587 Joshua Ridge,Syracuse,NY,43.015402,-76.156689
+759,6525 Conley Rue,Peoria,IL,40.700439,-89.590354
+760,77409 Phillips Ports,Rockford,IL,42.225084,-89.043044
+761,197 William Heights,Dallas,TX,32.790015,-96.827397
+762,36714 Raymond Glens,Springfield,IL,39.711772,-89.695756
+763,09400 Brown Islands,San Francisco,CA,37.71231,-122.497436
+764,701 Paige Mews,Fresno,CA,36.815646,-119.846308
+765,510 Flores Park,Chicago,IL,41.827344,-87.63988
+766,3158 Sergio Stravenue,Peoria,IL,40.77935,-89.553129
+767,218 Amy Circles,Houston,TX,29.943187,-95.236571
+768,538 Simmons Extensions,Tallahassee,FL,30.430267,-84.275483
+769,79046 Gordon Avenue,Orlando,FL,28.490102,-81.310084
+770,7294 Chase Lake,Naperville,IL,41.706563,-88.187677
+771,998 Morgan Throughway,Naperville,IL,41.770654,-88.10867
+772,79245 Sanders Prairie,Jacksonville,FL,30.306193,-81.697004
+773,92526 Bruce Avenue,Corpus Christi,TX,27.755584,-97.34628
+774,7922 Mitchell Radial,Chicago,IL,41.829346,-87.54077
+775,122 Brown Oval,Corpus Christi,TX,27.888837,-97.336892
+776,50806 Stevens Causeway,Miami,FL,25.830894,-80.1447
+777,3061 Nelson Flats,Joliet,IL,41.515292,-88.003575
+778,802 Jennifer Groves,San Jose,CA,37.243976,-121.951231
+779,30413 Wilson Dam,Arlington,TX,32.754896,-97.101053
+780,221 Maurice Overpass,Tallahassee,FL,30.430272,-84.267397
+781,1233 Tyler Isle,Naperville,IL,41.712578,-88.145537
+782,833 Shelton Mall,Fresno,CA,36.778813,-119.791858
+783,7389 Mcdonald Station,Houston,TX,29.872933,-95.002724
+784,439 Nguyen Glen,Joliet,IL,41.554924,-88.087783
+785,19392 Anderson Pine,St. Petersburg,FL,27.736628,-82.686695
+786,4081 Amy Mission,Albany,NY,42.633147,-73.761361
+787,706 Sanchez Mission,Yonkers,NY,40.900521,-73.874272
+788,7984 Cameron Landing,El Paso,TX,31.795557,-106.379741
+789,946 Hall Cape,Mount Vernon,NY,40.908281,-73.828954
+790,64719 Hopkins Freeway,Joliet,IL,41.506324,-88.088995
+791,642 Alexandra Club,Buffalo,NY,42.929015,-78.897224
+792,29740 Green Field,Syracuse,NY,43.023589,-76.129886
+793,324 Ashley Inlet,Jacksonville,FL,30.390973,-81.60071
+794,546 Angela Ranch,Arlington,TX,32.756815,-97.113681
+795,0617 Christian Skyway,San Antonio,TX,29.383007,-98.510216
+796,2872 David Lake,St. Petersburg,FL,27.758473,-82.669022
+797,7812 William Motorway,Fort Lauderdale,FL,26.13147,-80.128304
+798,4760 Karen Path,San Diego,CA,32.845076,-117.14153
+799,29354 Waller Plaza,Fort Worth,TX,32.798053,-97.328808
+800,118 Patrick Pine,Rockford,IL,42.299383,-89.088721
+801,73293 Jason Heights,Fresno,CA,36.880058,-119.716963
+802,1617 Matthew Crescent,San Antonio,TX,29.339809,-98.596948
+803,880 Mendoza Plain,San Diego,CA,33.000458,-117.167807
+804,1882 David Ville,Aurora,IL,41.778159,-88.264461
+805,5038 Riddle Neck,Elgin,IL,42.006356,-88.23477
+806,355 Ellis Run,Fresno,CA,36.74941,-119.831242
+807,54329 Alexandria Stream,Elgin,IL,42.044778,-88.25594
+808,890 Schwartz Run,Springfield,IL,39.72912,-89.621814
+809,5504 Shirley Centers,Springfield,IL,39.702535,-89.630924
+810,81046 Harvey Island,Miami,FL,25.782329,-80.192649
+811,0434 Laurie Roads,Corpus Christi,TX,27.86933,-97.389987
+812,015 Kelly Glen,Joliet,IL,41.580743,-88.099413
+813,79053 Williams Rapids,Dallas,TX,32.808307,-96.739939
+814,1276 Darren Locks,Mount Vernon,NY,40.905581,-73.825869
+815,182 Sara Trail,Buffalo,NY,42.946523,-78.871852
+816,12306 Tracy Green,Aurora,IL,41.729007,-88.212023
+817,483 Alexander Station,Oakland,CA,37.749186,-122.264196
+818,002 Yang Lake,Sacramento,CA,38.653331,-121.501795
+819,298 Jacobs Trail,Jacksonville,FL,30.356633,-81.685351
+820,3941 Chad Mills,Naperville,IL,41.742197,-88.195188
+821,44256 Adams Run,Long Beach,CA,33.778653,-118.162361
+822,08521 Cox Run,Aurora,IL,41.710361,-88.20733
+823,7868 Sarah Greens,El Paso,TX,31.780958,-106.322109
+824,3598 Daniel Key,Dallas,TX,32.737209,-96.877716
+825,96817 Wright Ramp,Tallahassee,FL,30.486007,-84.284338
+826,542 Jacob Ports,Arlington,TX,32.786343,-97.187561
+827,5242 Steven Mountain,New Rochelle,NY,40.907543,-73.775534
+828,8020 Austin Greens,Aurora,IL,41.757534,-88.295813
+829,80675 Jacqueline Junctions,Arlington,TX,32.75062,-97.190681
+830,4965 Kevin Bridge,Los Angeles,CA,34.050473,-118.678106
+831,45789 Debra Tunnel,Houston,TX,29.986022,-95.368009
+832,642 Salazar Cape,Fresno,CA,36.793978,-119.775492
+833,93908 Matthew Ferry,New York,NY,40.707343,-73.925442
+834,932 Stanley Pine,Dallas,TX,32.862637,-96.852708
+835,368 Hernandez Ville,Springfield,IL,39.795293,-89.664256
+836,71279 Dan Locks,Yonkers,NY,40.908057,-73.885597
+837,32525 Julie Fields,Springfield,IL,39.741193,-89.664257
+838,05743 George Meadow,San Francisco,CA,37.787549,-122.376517
+839,85600 Ramirez Camp,Fort Worth,TX,32.8309,-97.30155
+840,863 Bautista Village,Fort Worth,TX,32.703114,-97.36769
+841,031 Vanessa Gardens,New Rochelle,NY,40.917607,-73.774661
+842,29166 Nunez Light,Hialeah,FL,25.877607,-80.267294
+843,6867 Beck Fort,Chicago,IL,41.95321,-87.548663
+844,957 Daniels Ways,San Diego,CA,32.900984,-117.192867
+845,9363 Carolyn Land,Jacksonville,FL,30.332434,-81.661069
+846,2961 Virginia Harbors,San Diego,CA,32.717763,-117.185409
+847,45537 Benjamin Squares,Rochester,NY,43.130019,-77.658585
+848,74471 Anthony Highway,Aurora,IL,41.707056,-88.226993
+849,2845 Dennis Ports,Los Angeles,CA,34.163371,-118.230426
+850,535 Maldonado Parkway,Rockford,IL,42.215835,-89.004731
+851,24513 Moss Terrace,Naperville,IL,41.797144,-88.160051
+852,7490 Murray Valleys,Rochester,NY,43.116587,-77.627906
+853,5843 Patrick Square,Fort Worth,TX,32.726869,-97.309742
+854,76338 Eaton Hill,Chicago,IL,41.903424,-87.603381
+855,511 Sanders Pine,Fort Lauderdale,FL,26.17879,-80.148094
+856,012 Miller Rapid,Peoria,IL,40.747977,-89.589812
+857,71235 Brown Rest,Dallas,TX,32.896341,-96.843582
+858,46849 Amber Route,Albany,NY,42.640878,-73.7606
+859,997 Ortiz Field,Aurora,IL,41.702341,-88.252798
+860,1737 Pittman Fork,Joliet,IL,41.586905,-88.054778
+861,39533 King Lodge,Los Angeles,CA,34.092145,-118.223749
+862,369 Taylor Dam,Oakland,CA,37.748097,-122.252619
+863,208 Derrick Points,Rochester,NY,43.197127,-77.646817
+864,90883 Dennis Court,Tallahassee,FL,30.486703,-84.218221
+865,507 Tina Valleys,Joliet,IL,41.563709,-88.073075
+866,546 Jennings Extensions,San Antonio,TX,29.48754,-98.51689
+867,07500 Gail Viaduct,Yonkers,NY,40.911666,-73.88636
+868,92362 Copeland Islands,Los Angeles,CA,34.227955,-118.668215
+869,4235 Daniel Mission,Albany,NY,42.656033,-73.766161
+870,63712 Gonzales Port,Elgin,IL,42.031228,-88.273905
+871,209 Ross Fords,Sacramento,CA,38.534256,-121.589061
+872,21217 Erika Loop,Rockford,IL,42.222338,-89.004033
+873,5636 Lori Motorway,Naperville,IL,41.761768,-88.135908
+874,4530 Susan Lakes,Springfield,IL,39.778175,-89.687596
+875,925 Alexander Glens,Los Angeles,CA,34.069471,-118.580758
+876,042 Michelle Vista,Hialeah,FL,25.884338,-80.270868
+877,386 Dean Shore,Albany,NY,42.641135,-73.772776
+878,4436 Kenneth Point,Houston,TX,29.891721,-95.288101
+879,40151 Martin Flat,Orlando,FL,28.427277,-81.476852
+880,15388 Jeffrey Course,Aurora,IL,41.730167,-88.212169
+881,1443 Monique Heights,Peoria,IL,40.76742,-89.543714
+882,0464 Kyle Meadows,New Rochelle,NY,40.910259,-73.772686
+883,93644 Ann Curve,Jacksonville,FL,30.308594,-81.645666
+884,0658 Yvonne Greens,Elgin,IL,42.034349,-88.28793
+885,2223 Connie Hollow,Fort Worth,TX,32.889447,-97.348525
+886,282 Terri Passage,San Antonio,TX,29.540572,-98.564942
+887,926 Burke Trace,Peoria,IL,40.704462,-89.542136
+888,48323 Wanda Drive,Peoria,IL,40.706011,-89.581192
+889,483 Hannah Square,Yonkers,NY,40.916325,-73.852226
+890,12912 Andrea Ridges,Yonkers,NY,40.928487,-73.888849
+891,37354 Kimberly Street,San Diego,CA,33.001051,-116.994723
+892,38702 Khan Wells,Elgin,IL,42.030566,-88.200236
+893,81749 Jennifer Valley,Arlington,TX,32.764791,-97.170941
+894,7085 Duarte Villages,San Diego,CA,33.027574,-117.039513
+895,57245 Mary Station,Chicago,IL,41.965964,-87.654885
+896,45747 Ellis Hills,San Antonio,TX,29.54865,-98.430816
+897,000 Brian Hollow,Naperville,IL,41.710003,-88.140309
+898,072 King Light,Rochester,NY,43.113856,-77.635461
+899,573 Tyler Ports,Peoria,IL,40.768279,-89.57635
+900,559 Charles Springs,Hialeah,FL,25.890259,-80.275082
+901,155 Hill Key,Arlington,TX,32.731181,-97.197748
+902,89123 Kyle Inlet,Fresno,CA,36.828543,-119.730551
+903,66388 Carroll Loop,Tampa,FL,27.985511,-82.44619
+904,58454 Andrew Mountain,Arlington,TX,32.782701,-97.114776
+905,9461 Carol Fort,Tallahassee,FL,30.411004,-84.26922
+906,7519 Kelley Walks,Miami,FL,25.803142,-80.148568
+907,8366 Hicks Mountain,Fort Lauderdale,FL,26.173513,-80.180276
+908,30000 Hall Tunnel,Albany,NY,42.63339,-73.799268
+909,56353 Jennifer Vista,Yonkers,NY,40.906009,-73.892461
+910,820 Johnny Pines,El Paso,TX,31.893664,-106.342782
+911,3171 Diane Rapid,Peoria,IL,40.740415,-89.520351
+912,2388 Fleming Forest,New Rochelle,NY,40.904177,-73.756558
+913,18914 Katie Islands,Orlando,FL,28.493327,-81.467412
+914,8775 Kiara Streets,Houston,TX,29.993963,-95.427843
+915,876 Barbara Villages,Joliet,IL,41.526288,-88.029402
+916,8224 Brett Ports,Naperville,IL,41.774224,-88.169726
+917,369 Wilkinson Fort,Naperville,IL,41.78122,-88.19291
+918,5555 Harper Corners,Rockford,IL,42.284196,-89.006855
+919,0075 Weiss Circle,Springfield,IL,39.732494,-89.66926
+920,4715 Walker Estates,San Francisco,CA,37.72665,-122.378062
+921,63033 Sharon Corners,Fort Worth,TX,32.704746,-97.399252
+922,795 Smith Locks,Elgin,IL,42.03063,-88.208127
+923,46771 Murphy Locks,San Francisco,CA,37.712096,-122.390023
+924,45690 James Via,Mount Vernon,NY,40.902409,-73.822093
+925,45102 Mary Harbor,New Rochelle,NY,40.900669,-73.754916
+926,714 Day Keys,Albany,NY,42.647001,-73.788093
+927,47257 Raymond Unions,Rochester,NY,43.11424,-77.652186
+928,4657 Adam Courts,Aurora,IL,41.790552,-88.245577
+929,7830 Donald Rapids,San Francisco,CA,37.711016,-122.483388
+930,73537 Casey Walks,Long Beach,CA,33.772869,-118.1866
+931,5337 Hodges Plain,Yonkers,NY,40.913002,-73.897851
+932,384 Rivera Orchard,Albany,NY,42.645725,-73.782823
+933,015 Sutton Lodge,Houston,TX,29.825306,-95.349708
+934,5519 Patricia Estates,Sacramento,CA,38.511024,-121.425303
+935,75666 Rebecca Ford,Miami,FL,25.897213,-80.258511
+936,94980 Phillips Crescent,Yonkers,NY,40.924361,-73.890511
+937,694 Vanessa Turnpike,Springfield,IL,39.723381,-89.699139
+938,44184 Juarez Mill,Oakland,CA,37.728943,-122.284101
+939,58422 John Trail,Hialeah,FL,25.867852,-80.278513
+940,06876 Angelica Lodge,Miami,FL,25.809162,-80.277008
+941,94473 Rodriguez Locks,Tallahassee,FL,30.401775,-84.289672
+942,362 Kelly Lakes,Peoria,IL,40.783774,-89.59867
+943,974 Booth Ridges,Fort Worth,TX,32.846932,-97.390087
+944,5408 White Coves,Elgin,IL,42.010422,-88.201853
+945,964 Karen Dam,Mount Vernon,NY,40.912595,-73.827262
+946,02422 Harris Spring,Elgin,IL,42.000196,-88.215626
+947,51567 Brown Branch,Miami,FL,25.756103,-80.115985
+948,8308 Ortiz Shoals,Arlington,TX,32.76504,-97.187785
+949,367 Bryan Court,Yonkers,NY,40.945475,-73.876989
+950,32338 Jones Alley,Orlando,FL,28.447056,-81.344681
+951,914 Clark Trail,Fresno,CA,36.883539,-119.709367
+952,62913 Corey Via,Joliet,IL,41.528452,-88.091787
+953,04598 Murphy Center,Dallas,TX,32.861584,-96.838836
+954,38901 Jessica Tunnel,Buffalo,NY,42.917217,-78.837658
+955,7772 Smith Ports,Hialeah,FL,25.885267,-80.28382
+956,3554 Shirley Summit,Sacramento,CA,38.52326,-121.559484
+957,933 Cole Estate,Corpus Christi,TX,27.714925,-97.33572
+958,1932 Ferguson Light,Fort Worth,TX,32.893051,-97.333406
+959,587 Bruce Passage,Aurora,IL,41.736479,-88.296731
+960,113 Jenkins Summit,Yonkers,NY,40.945372,-73.859547
+961,5070 Barnes Streets,Fort Lauderdale,FL,26.132005,-80.143113
+962,011 Donald Walk,Fresno,CA,36.750354,-119.703847
+963,14925 Jessica Stravenue,Buffalo,NY,42.855719,-78.826927
+964,6094 Tyler Stravenue,Chicago,IL,41.962401,-87.518087
+965,96138 Harper Pine,Tampa,FL,27.983069,-82.411499
+966,36702 James Curve,Jacksonville,FL,30.335003,-81.685799
+967,60992 Sergio Isle,Corpus Christi,TX,27.746226,-97.364417
+968,5383 Davis Isle,Tampa,FL,27.978462,-82.405819
+969,491 Joseph Plain,Rochester,NY,43.134758,-77.681728
+970,761 Hubbard View,Syracuse,NY,43.05542,-76.106644
+971,0271 Marcus Ridge,Houston,TX,30.076586,-95.460736
+972,126 Craig Ranch,Aurora,IL,41.73104,-88.229861
+973,1425 Kelley Loop,Mount Vernon,NY,40.917067,-73.825806
+974,132 Samuel Club,New York,NY,40.728639,-73.991745
+975,487 Sanchez Point,Rochester,NY,43.190374,-77.638054
+976,124 Benjamin Meadow,St. Petersburg,FL,27.731922,-82.675861
+977,414 Blake Streets,San Antonio,TX,29.582885,-98.468429
+978,09026 Sheila Roads,Tallahassee,FL,30.460779,-84.289022
+979,552 Theresa Skyway,Oakland,CA,37.818757,-122.253323
+980,46808 Wheeler Springs,Tampa,FL,27.907489,-82.47212
+981,972 Glenn Spurs,Mount Vernon,NY,40.913229,-73.825206
+982,2330 Price Meadows,San Diego,CA,32.894572,-117.089754
+983,960 Owen Estate,Tallahassee,FL,30.475779,-84.271697
+984,132 Samuel Islands,Yonkers,NY,40.936926,-73.882682
+985,543 Allen Heights,Oakland,CA,37.704267,-122.258555
+986,6063 Miller Overpass,Fresno,CA,36.804304,-119.830689
+987,99077 Jorge Road,Hialeah,FL,25.892502,-80.279733
+988,789 Mckenzie Plain,St. Petersburg,FL,27.781838,-82.607357
+989,5667 Peters Row,Corpus Christi,TX,27.814558,-97.341394
+990,33941 Scott Prairie,Long Beach,CA,33.752585,-118.19599
+991,21314 Porter Course,New York,NY,40.782755,-73.954685
+992,0250 Douglas Prairie,Hialeah,FL,25.863598,-80.29313
+993,4876 Stevens Plaza,Buffalo,NY,42.884103,-78.823799
+994,71414 Kelly Wall,Houston,TX,29.737533,-95.375272
+995,704 Orozco Fork,Syracuse,NY,43.056781,-76.186926
+996,387 Smith Square,El Paso,TX,31.801017,-106.376491
+997,5321 Johnson Prairie,Mount Vernon,NY,40.914255,-73.828883
+998,14817 Katrina Trail,San Antonio,TX,29.459128,-98.450775
+999,431 Rebecca Hill,Yonkers,NY,40.919617,-73.861504
+1000,57221 Washington Points,San Francisco,CA,37.74301,-122.402743
+1001,222 Elizabeth Freeway,Syracuse,NY,43.060274,-76.175134
+1002,6656 Juarez Plains,Elgin,IL,42.035755,-88.216552
+1003,995 Robert Lock,Fresno,CA,36.748676,-119.872491
+1004,11137 Denise Pike,Fort Worth,TX,32.707897,-97.302555
+1005,81323 Phillips Divide,Rockford,IL,42.282497,-89.090699
+1006,70959 William Lights,Hialeah,FL,25.888604,-80.285105
+1007,6329 Gonzalez Flats,Fort Lauderdale,FL,26.171376,-80.150078
+1008,269 Lewis Field,Hialeah,FL,25.889792,-80.265048
+1009,869 Peggy Mission,Long Beach,CA,33.752932,-118.16361
+1010,9464 Rodney Garden,Albany,NY,42.642775,-73.794295
+1011,6719 Gregg Run,Buffalo,NY,42.909281,-78.84838
+1012,5045 Bruce Crossing,Rockford,IL,42.245489,-89.096959
+1013,688 Nancy Mews,El Paso,TX,31.773789,-106.330204
+1014,63105 Moyer Parks,Oakland,CA,37.765881,-122.231597
+1015,295 Daniel Cliff,Orlando,FL,28.525066,-81.329687
+1016,17159 Daniel Path,Hialeah,FL,25.889597,-80.254557
+1017,00870 Anderson Junction,Fort Worth,TX,32.799089,-97.390586
+1018,181 Smith Crossing,Chicago,IL,41.968974,-87.692329
+1019,132 Herring Burgs,Springfield,IL,39.744888,-89.615321
+1020,216 Austin Rue,St. Petersburg,FL,27.725906,-82.652435
+1021,18541 Tiffany Plains,Arlington,TX,32.775021,-97.105403
+1022,61630 Warner Mission,San Jose,CA,37.308954,-121.904411
+1023,7151 Kennedy Turnpike,St. Petersburg,FL,27.760795,-82.600869
+1024,79662 Calvin Loop,Rochester,NY,43.155504,-77.627213
+1025,929 Wheeler Points,Fort Worth,TX,32.736053,-97.303642
+1026,7136 Martinez Branch,Houston,TX,29.761848,-95.422089
+1027,102 Payne Vista,Syracuse,NY,43.093043,-76.138695
+1028,782 Clark Route,Oakland,CA,37.812997,-122.280216
+1029,7049 Geoffrey Glen,Tampa,FL,27.941692,-82.422622
+1030,44870 Blackburn Streets,El Paso,TX,31.805335,-106.492499
+1031,0255 Julia Valleys,Tampa,FL,27.953376,-82.407608
+1032,891 Martin Spring,Aurora,IL,41.772091,-88.294105
+1033,95686 Brown Knoll,San Antonio,TX,29.440919,-98.427635
+1034,23249 Matthews Bypass,Fort Lauderdale,FL,26.138541,-80.153288
+1035,067 Hernandez Lock,Sacramento,CA,38.678123,-121.58975
+1036,377 Erica Port,El Paso,TX,31.782678,-106.385
+1037,325 Sara Hills,Sacramento,CA,38.536825,-121.403268
+1038,7521 Johnson Vista,New York,NY,40.788371,-73.911833
+1039,48990 Watson Green,Albany,NY,42.638501,-73.778218
+1040,2363 Jennifer Crest,San Diego,CA,32.952733,-116.921325
+1041,0599 Brian Ramp,El Paso,TX,31.754724,-106.368945
+1042,74855 Casey Branch,Tampa,FL,27.965661,-82.405451
+1043,799 Thompson Keys,Dallas,TX,32.741424,-96.797978
+1044,157 Daniel Highway,Orlando,FL,28.471445,-81.360519
+1045,84207 Campos Trail,Albany,NY,42.656911,-73.779448
+1046,287 Rasmussen Plaza,Tampa,FL,27.907888,-82.407529
+1047,93144 Hunt Hills,Fort Worth,TX,32.830689,-97.353967
+1048,9800 Anderson Port,St. Petersburg,FL,27.784021,-82.645942
+1049,14161 Curtis Junctions,Rockford,IL,42.244234,-89.002425
+1050,05544 Ramirez Alley,New Rochelle,NY,40.916932,-73.760096
+1051,4027 Christopher Row,Yonkers,NY,40.900974,-73.852953
+1052,723 Alan Gateway,El Paso,TX,31.832678,-106.434045
+1053,872 Anthony Glen,Peoria,IL,40.70008,-89.516825
+1054,93534 Foley Square,Rochester,NY,43.143526,-77.641608
+1055,9530 Perez Drive,Mount Vernon,NY,40.912055,-73.825253
+1056,666 Lamb Mount,Syracuse,NY,43.015093,-76.175632
+1057,1792 Erin Road,Arlington,TX,32.71596,-97.136596
+1058,85988 Michelle Falls,Rockford,IL,42.244814,-89.076126
+1059,339 Michael Well,San Francisco,CA,37.7111,-122.356074
+1060,8800 Jonathon Via,Orlando,FL,28.599327,-81.492093
+1061,4451 Thomas Run,Fort Worth,TX,32.766113,-97.306388
+1062,254 Zachary Parkways,Miami,FL,25.799134,-80.143401
+1063,798 Tonya Passage,Yonkers,NY,40.909592,-73.898898
+1064,252 Morales Road,San Jose,CA,37.310342,-121.895083
+1065,18974 Turner Lock,Aurora,IL,41.726816,-88.232438
+1066,7294 Jones Stravenue,San Jose,CA,37.251048,-121.977691
+1067,91936 Andrew Port,Peoria,IL,40.790919,-89.557025
+1068,72770 Collins Street,Houston,TX,30.014809,-95.077819
+1069,396 Green Haven,New York,NY,40.716661,-73.944254
+1070,74418 Noah Extension,St. Petersburg,FL,27.716753,-82.619642
+1071,517 Holt Shoal,Houston,TX,29.788157,-95.366181
+1072,1694 Roy Knolls,El Paso,TX,31.804405,-106.471541
+1073,5570 Patrick Manor,El Paso,TX,31.744336,-106.323831
+1074,3106 Wilson Garden,Fresno,CA,36.705901,-119.863315
+1075,15814 Chung Hills,Dallas,TX,32.895601,-96.834929
+1076,9381 Kennedy Lake,New York,NY,40.711855,-73.932888
+1077,8774 Hobbs Mill,Rockford,IL,42.276656,-89.022933
+1078,3714 Schmidt Port,Fort Lauderdale,FL,26.19812,-80.149355
+1079,216 Hayes Pine,El Paso,TX,31.750814,-106.36923
+1080,6527 Adam Track,El Paso,TX,31.705668,-106.455549
+1081,64636 Larry Port,Arlington,TX,32.733224,-97.170854
+1082,5345 Steven Mount,Austin,TX,30.39656,-97.728697
+1083,437 William Branch,Springfield,IL,39.776013,-89.614748
+1084,167 Danielle Flat,Miami,FL,25.838723,-80.209151
+1085,8089 Matthew Neck,Austin,TX,30.315435,-97.741389
+1086,868 Shane Throughway,Buffalo,NY,42.907123,-78.816545
+1087,819 Alexander Islands,Arlington,TX,32.76112,-97.102572
+1088,0519 Rhodes Road,Los Angeles,CA,34.287438,-118.265463
+1089,386 Wood Village,Fort Worth,TX,32.793221,-97.34228
+1090,38644 Steven Isle,Naperville,IL,41.70252,-88.157688
+1091,38949 Key Squares,San Jose,CA,37.216576,-121.907753
+1092,310 Dean Spring,Miami,FL,25.756587,-80.291479
+1093,6220 Diana Forest,Buffalo,NY,42.934069,-78.856042
+1094,56357 Stark Mountain,Miami,FL,25.877825,-80.239807
+1095,232 Amy Ranch,Joliet,IL,41.546428,-88.024276
+1096,1065 Andrew Flat,Rochester,NY,43.166898,-77.685593
+1097,6637 Alvarez Vista,Dallas,TX,32.841934,-96.838558
+1098,5533 Jennifer Loaf,Fort Lauderdale,FL,26.164446,-80.148428
+1099,9972 Paul Wall,Los Angeles,CA,33.954091,-118.474708
+1100,448 Jeffrey Island,Mount Vernon,NY,40.919662,-73.821571
+1101,41110 Daniel Centers,El Paso,TX,31.776343,-106.379761
+1102,427 Acosta Courts,Elgin,IL,42.016093,-88.217025
+1103,797 Julie Terrace,Arlington,TX,32.728731,-97.192241
+1104,69489 Scott Mission,New Rochelle,NY,40.91769,-73.758486
+1105,2550 Johnston Circles,Springfield,IL,39.783346,-89.618049
+1106,4917 Paula Extensions,Yonkers,NY,40.920128,-73.893949
+1107,608 Fletcher Villages,Dallas,TX,32.831791,-96.788535
+1108,7044 Sanchez Canyon,Tallahassee,FL,30.403535,-84.230996
+1109,799 Maddox Mill,New Rochelle,NY,40.910325,-73.75879
+1110,565 Hunter Ville,San Antonio,TX,29.579845,-98.445921
+1111,67888 Bray Junctions,New Rochelle,NY,40.905913,-73.767143
+1112,839 King Port,San Antonio,TX,29.515418,-98.558311
+1113,03634 Kevin Brook,Jacksonville,FL,30.338446,-81.614764
+1114,9318 Carroll Squares,Elgin,IL,42.001527,-88.233697
+1115,923 David Village,Fort Worth,TX,32.848335,-97.339267
+1116,26546 Horton Shores,St. Petersburg,FL,27.784471,-82.682182
+1117,900 Simmons Glen,Syracuse,NY,43.071142,-76.114459
+1118,904 Morris Street,Chicago,IL,41.976987,-87.552778
+1119,281 Mark Park,Corpus Christi,TX,27.760311,-97.464964
+1120,1247 Sloan Track,Corpus Christi,TX,27.837807,-97.312587
+1121,121 Dunlap Port,Tallahassee,FL,30.439394,-84.273144
+1122,4955 Wilkinson Place,Elgin,IL,42.042177,-88.258816
+1123,1977 Holden Estates,Houston,TX,29.784513,-95.109249
+1124,53201 Thompson Ramp,Peoria,IL,40.731031,-89.50526
+1125,312 Jordan Coves,New York,NY,40.797957,-73.940045
+1126,271 Jennifer Run,Elgin,IL,42.035673,-88.221939
+1127,8031 Smith Causeway,Tampa,FL,27.954283,-82.425504
+1128,183 Foster Extensions,Dallas,TX,32.846287,-96.801737
+1129,118 Mary Plaza,Rockford,IL,42.213382,-89.058109
+1130,23180 Jacob Road,Mount Vernon,NY,40.902321,-73.82146
+1131,8520 Mason Village,Rochester,NY,43.136257,-77.613365
+1132,7167 Raymond Fort,Rockford,IL,42.246114,-89.009461
+1133,6998 Emily Valley,Mount Vernon,NY,40.909066,-73.820196
+1134,349 Duncan Union,Dallas,TX,32.805656,-96.797297
+1135,626 Davis Brooks,San Antonio,TX,29.579951,-98.414146
+1136,6280 Robinson Coves,Fort Worth,TX,32.876831,-97.358182
+1137,02728 Elliott Radial,Jacksonville,FL,30.394861,-81.607925
+1138,7862 Mary Tunnel,San Jose,CA,37.35839,-121.809211
+1139,82948 Hernandez Parkway,El Paso,TX,31.766945,-106.301789
+1140,0370 Glover Extensions,Tampa,FL,27.920402,-82.441609
+1141,282 Byrd Walk,Aurora,IL,41.772598,-88.285639
+1142,013 Allison Turnpike,Rochester,NY,43.165777,-77.657112
+1143,63838 Huffman Walks,Springfield,IL,39.793449,-89.603813
+1144,852 Parker Green,Orlando,FL,28.470277,-81.439486
+1145,1841 Spears Stravenue,Sacramento,CA,38.510495,-121.559156
+1146,50931 Morgan Ports,Austin,TX,30.26132,-97.771415
+1147,9026 Robinson Curve,Chicago,IL,41.847126,-87.602431
+1148,4520 Hayes Passage,Miami,FL,25.707472,-80.135949
+1149,93127 Tina Spur,Orlando,FL,28.487612,-81.379609
+1150,4306 Molly Run,Elgin,IL,42.001537,-88.261282
+1151,1010 Brennan Course,Peoria,IL,40.702181,-89.54073
+1152,3331 Kirk Rapids,San Jose,CA,37.392035,-121.831645
+1153,60942 Daniel Passage,Naperville,IL,41.717677,-88.128073
+1154,807 Karen Flat,Oakland,CA,37.846972,-122.286578
+1155,78284 Cassandra Stream,Dallas,TX,32.789374,-96.801521
+1156,2513 Melissa Drive,San Antonio,TX,29.592464,-98.596083
+1157,7482 Stephanie Passage,Fort Worth,TX,32.797252,-97.385995
+1158,1220 Castaneda Shoal,Dallas,TX,32.837314,-96.778886
+1159,360 Kristen Parkway,Peoria,IL,40.758544,-89.533454
+1160,124 Howard Prairie,Dallas,TX,32.896082,-96.71315
+1161,71279 Watson Mission,St. Petersburg,FL,27.758964,-82.630702
+1162,138 Samantha Meadows,Aurora,IL,41.703818,-88.255172
+1163,54215 Wagner Radial,Sacramento,CA,38.527538,-121.499626
+1164,62477 Warren Avenue,Fort Lauderdale,FL,26.177374,-80.179207
+1165,111 Sandoval Gateway,Rochester,NY,43.162292,-77.638107
+1166,49023 Robert Station,Fort Lauderdale,FL,26.17141,-80.157541
+1167,24882 Marissa Cliffs,Long Beach,CA,33.751862,-118.103328
+1168,451 Serrano Roads,San Francisco,CA,37.750169,-122.468095
+1169,851 Vazquez Meadows,Chicago,IL,41.843643,-87.601242
+1170,3091 Wilson Harbor,Fresno,CA,36.859175,-119.782087
+1171,06656 Mary River,Chicago,IL,41.905583,-87.682743
+1172,2302 Jensen Islands,Tallahassee,FL,30.49532,-84.237214
+1173,34917 Lisa Ports,Yonkers,NY,40.949398,-73.866009
+1174,602 Kenneth Glen,San Antonio,TX,29.46853,-98.524532
+1175,9806 Joshua Mills,Tampa,FL,27.919744,-82.442199
+1176,3953 Lopez Port,Yonkers,NY,40.94258,-73.869143
+1177,3089 Dominguez Ways,Jacksonville,FL,30.374613,-81.616334
+1178,249 Patty Ports,Hialeah,FL,25.898675,-80.272446
+1179,280 Benson Way,Syracuse,NY,43.040311,-76.198688
+1180,94305 Melissa View,Fort Worth,TX,32.804827,-97.336695
+1181,31864 Stephanie Light,Tampa,FL,27.964483,-82.455138
+1182,905 Kaitlyn Crossing,Syracuse,NY,43.088508,-76.111654
+1183,0915 Amanda Forks,New York,NY,40.70457,-73.916837
+1184,0250 Baker Walk,Naperville,IL,41.707069,-88.119508
+1185,81505 Michael Ridge,Fresno,CA,36.709611,-119.723566
+1186,84191 Christopher Fords,Miami,FL,25.892016,-80.165256
+1187,80397 Zuniga Valleys,Austin,TX,30.267483,-97.759519
+1188,83518 Bishop Corner,Mount Vernon,NY,40.912062,-73.82
+1189,2331 Lewis Springs,Los Angeles,CA,34.002305,-118.536196
+1190,8424 Parrish Village,Peoria,IL,40.73149,-89.589862
+1191,661 Jackson Center,Fort Worth,TX,32.765994,-97.368322
+1192,7178 Thompson Brooks,Springfield,IL,39.71782,-89.602295
+1193,81352 Sullivan Key,Mount Vernon,NY,40.912396,-73.821437
+1194,934 Gomez Groves,San Francisco,CA,37.736168,-122.471936
+1195,3228 Nathan Streets,Joliet,IL,41.58918,-88.044678
+1196,80967 Frost Harbor,El Paso,TX,31.890627,-106.368024
+1197,578 Charles Point,Houston,TX,29.753658,-95.074072
+1198,4157 Lopez Harbors,Corpus Christi,TX,27.879844,-97.369825
+1199,030 Dillon Fort,San Diego,CA,33.008564,-117.086472
+1200,115 Derek Ranch,Orlando,FL,28.519631,-81.368424
+1201,1175 Jones Spur,San Jose,CA,37.256006,-121.901892
+1202,757 Liu Glens,Mount Vernon,NY,40.918885,-73.82008
+1203,07577 Valencia Branch,Orlando,FL,28.524405,-81.471964
+1204,861 Ashley Loaf,St. Petersburg,FL,27.708874,-82.672013
+1205,0816 Tammy Village,Hialeah,FL,25.883349,-80.285623
+1206,79458 Patterson Drive,San Diego,CA,33.012013,-117.080206
+1207,429 Ramirez Mills,Springfield,IL,39.776202,-89.670753
+1208,780 Cantrell Island,Fresno,CA,36.870377,-119.755406
+1209,5011 Jackson Tunnel,Corpus Christi,TX,27.722001,-97.400337
+1210,69753 Yvonne Mission,Miami,FL,25.754398,-80.122386
+1211,15304 Graham Locks,Fort Worth,TX,32.709382,-97.331821
+1212,616 Sandra Street,Albany,NY,42.643928,-73.799686
+1213,87884 Lauren Path,Naperville,IL,41.732201,-88.153924
+1214,980 Victor Ridges,Rochester,NY,43.107071,-77.626747
+1215,30004 Robin Summit,Peoria,IL,40.76475,-89.543071
+1216,141 Nicholas Forks,Jacksonville,FL,30.38819,-81.646503
+1217,77894 Ashley Brooks,Tallahassee,FL,30.441473,-84.271599
+1218,2319 Johnson Mountain,St. Petersburg,FL,27.758359,-82.602307
+1219,339 Green Court,Chicago,IL,41.843098,-87.591386
+1220,12377 Wilson Cape,Tampa,FL,27.943837,-82.45838
+1221,243 Deanna Plaza,Aurora,IL,41.775224,-88.276671
+1222,99134 Ruiz Bypass,Peoria,IL,40.740032,-89.541866
+1223,6392 Phillips River,Oakland,CA,37.728597,-122.206688
+1224,4980 Alejandro Shoal,Elgin,IL,42.022464,-88.201661
+1225,04791 Elizabeth Glen,St. Petersburg,FL,27.743317,-82.632072
+1226,894 Barajas Port,Jacksonville,FL,30.369992,-81.657484
+1227,58385 Baker Squares,San Diego,CA,32.870061,-116.949764
+1228,8065 Robinson Rue,El Paso,TX,31.890778,-106.331717
+1229,1979 Anthony Junctions,Long Beach,CA,33.79586,-118.142949
+1230,62597 Richard Inlet,Syracuse,NY,43.063292,-76.182304
+1231,5852 Faith Extension,New York,NY,40.794602,-73.925503
+1232,20986 Sullivan Way,Fort Lauderdale,FL,26.149382,-80.139282
+1233,8064 Joshua Avenue,Dallas,TX,32.743059,-96.721465
+1234,57072 James Lights,Mount Vernon,NY,40.918249,-73.822706
+1235,38364 Jones Drive,Tampa,FL,27.981631,-82.475882
+1236,5924 Antonio Circles,Arlington,TX,32.741247,-97.174756
+1237,625 Carol Falls,Naperville,IL,41.7432,-88.128743
+1238,6804 Lopez Roads,Chicago,IL,41.899636,-87.604466
+1239,46150 Johnson Well,El Paso,TX,31.734134,-106.430651
+1240,16612 Matthews Mountains,Rockford,IL,42.204969,-89.073318
+1241,2510 Carla Fork,San Diego,CA,32.734079,-116.916492
+1242,108 Harris Highway,Jacksonville,FL,30.317814,-81.611606
+1243,8644 Christine Shores,Fresno,CA,36.85067,-119.896926
+1244,17649 Fernandez Lodge,Hialeah,FL,25.869248,-80.289105
+1245,7472 Cooper Square,Hialeah,FL,25.857531,-80.29227
+1246,04665 Murray Locks,Aurora,IL,41.778662,-88.209038
+1247,04154 Jennifer Course,Tallahassee,FL,30.446407,-84.248471
+1248,1047 Michael Stream,St. Petersburg,FL,27.741782,-82.689193
+1249,654 Hicks Club,Miami,FL,25.755699,-80.286074
+1250,1938 Karl Prairie,Fort Lauderdale,FL,26.167116,-80.157437
+1251,69177 White Shoal,Yonkers,NY,40.942263,-73.854324
+1252,06339 Bailey Fields,Fresno,CA,36.809322,-119.756635
+1253,7043 Taylor Inlet,Naperville,IL,41.762141,-88.167558
+1254,565 Jerry Ranch,Oakland,CA,37.818892,-122.276051
+1255,8577 Zachary Summit,Los Angeles,CA,33.953371,-118.32704
+1256,2962 Christina Rapid,Fort Lauderdale,FL,26.158898,-80.13946
+1257,8405 Stephen Summit,Orlando,FL,28.515018,-81.482412
+1258,843 Kathryn Forks,Oakland,CA,37.747611,-122.241516
+1259,5880 King Forges,Albany,NY,42.646634,-73.786564
+1260,85191 Alicia Harbor,Miami,FL,25.865671,-80.177123
+1261,90245 Maxwell Station,Fresno,CA,36.883901,-119.747888
+1262,453 Allen Path,Miami,FL,25.817038,-80.230113
+1263,93519 Willis Hills,Orlando,FL,28.423158,-81.396624
+1264,1026 Amy Freeway,Mount Vernon,NY,40.908185,-73.824149
+1265,3583 Lisa Burgs,Corpus Christi,TX,27.824865,-97.46381
+1266,284 Robert Cape,Hialeah,FL,25.866713,-80.258558
+1267,71233 James Trail,Fort Lauderdale,FL,26.191371,-80.198148
+1268,4217 Henry Mountain,St. Petersburg,FL,27.793941,-82.676251
+1269,647 Lewis Divide,Tampa,FL,27.986954,-82.429919
+1270,35807 Katelyn Island,Elgin,IL,42.032274,-88.230799
+1271,8303 Ramos Mountains,Buffalo,NY,42.875275,-78.880281
+1272,60838 Baxter Ville,Naperville,IL,41.747796,-88.198536
+1273,2608 Matthew Lock,Albany,NY,42.646628,-73.763429
+1274,747 Ward Camp,New York,NY,40.740322,-73.922601
+1275,575 Michael Way,Elgin,IL,42.047871,-88.254052
+1276,87356 Rios Plaza,Fort Worth,TX,32.789597,-97.319289
+1277,906 Perry Mountains,Sacramento,CA,38.619072,-121.591874
+1278,5525 Wolf Creek,Naperville,IL,41.743111,-88.193823
+1279,355 Jennifer Islands,Arlington,TX,32.709752,-97.114385
+1280,741 Deborah Stravenue,Corpus Christi,TX,27.85947,-97.455194
+1281,17483 Smith Pike,Oakland,CA,37.7644,-122.207581
+1282,1976 Brittany Crossing,Syracuse,NY,43.001052,-76.198798
+1283,86030 Leah Islands,Rockford,IL,42.274535,-89.02401
+1284,48302 Davenport Burg,Fort Lauderdale,FL,26.117145,-80.170462
+1285,147 Leah Meadows,Elgin,IL,42.047745,-88.276003
+1286,60297 Lowery Ferry,El Paso,TX,31.871924,-106.42572
+1287,50280 Kristin Walk,El Paso,TX,31.851124,-106.428394
+1288,94502 Mary Island,Miami,FL,25.855356,-80.150458
+1289,46556 Cruz Harbors,Long Beach,CA,33.75403,-118.158272
+1290,62632 Michael Pines,El Paso,TX,31.840154,-106.446957
+1291,63877 Skinner Hollow,Naperville,IL,41.731564,-88.175824
+1292,0251 Kathleen Dam,San Diego,CA,32.912401,-117.181952
+1293,66290 Cooper Key,Sacramento,CA,38.636091,-121.573589
+1294,9748 Richard Prairie,Albany,NY,42.634606,-73.788166
+1295,5465 Daniel Ford,San Francisco,CA,37.786929,-122.409562
+1296,34724 Pierce Ferry,Springfield,IL,39.721156,-89.644148
+1297,67681 Meghan Trace,Tallahassee,FL,30.452454,-84.269046
+1298,82364 Clark Ways,Austin,TX,30.260048,-97.768658
+1299,40387 Whitaker Hollow,Dallas,TX,32.88855,-96.782894
+1300,6055 Christopher Spur,Peoria,IL,40.711316,-89.510729
+1301,5308 Stevens Creek,Joliet,IL,41.52936,-88.040318
+1302,016 Peterson Orchard,Fort Worth,TX,32.734966,-97.318588
+1303,3813 Hobbs Causeway,Corpus Christi,TX,27.825531,-97.476423
+1304,2924 Young Shore,Rockford,IL,42.209228,-89.027694
+1305,79593 Ronald Row,Orlando,FL,28.516998,-81.376028
+1306,53982 Ortiz Junction,New York,NY,40.796376,-73.91826
+1307,911 Colleen Causeway,Joliet,IL,41.541057,-88.022984
+1308,139 Eric Plaza,San Francisco,CA,37.776186,-122.490801
+1309,3768 Murillo Mountain,Chicago,IL,41.867753,-87.607788
+1310,5116 Robert Haven,Dallas,TX,32.869464,-96.887816
+1311,58599 Pierce Stravenue,Buffalo,NY,42.914087,-78.853563
+1312,98465 Joseph Trail,Fort Worth,TX,32.765116,-97.356627
+1313,373 Dunn Extensions,Tallahassee,FL,30.434945,-84.211183
+1314,0960 Sherry Wall,Dallas,TX,32.816457,-96.835264
+1315,2326 Maureen Parkways,Long Beach,CA,33.789393,-118.193428
+1316,1270 Christina Via,Buffalo,NY,42.913399,-78.867191
+1317,1428 Gregory Ford,Arlington,TX,32.79455,-97.174222
+1318,544 Hanna Cliff,Los Angeles,CA,34.005987,-118.658903
+1319,77931 Lisa Ferry,Orlando,FL,28.436184,-81.374918
+1320,488 Wendy Parkways,Yonkers,NY,40.9235,-73.890811
+1321,7205 Vasquez Court,Fresno,CA,36.898866,-119.780503
+1322,6248 Torres Ways,Houston,TX,29.712222,-95.254631
+1323,18210 Paula Bridge,Long Beach,CA,33.759525,-118.153485
+1324,471 Lisa Shoal,Houston,TX,29.822659,-95.496479
+1325,937 Heather Park,San Jose,CA,37.247993,-122.040631
+1326,51358 Heather Springs,Hialeah,FL,25.862086,-80.271348
+1327,11247 Lowe Springs,Yonkers,NY,40.904354,-73.880449
+1328,13151 Erik Roads,Arlington,TX,32.705883,-97.159824
+1329,296 Salinas Lodge,Fort Lauderdale,FL,26.126645,-80.105699
+1330,76442 Sandra Vista,New Rochelle,NY,40.905908,-73.768338
+1331,908 Sosa Underpass,San Diego,CA,33.052226,-117.117849
+1332,185 Jasmine Plains,Corpus Christi,TX,27.795287,-97.433229
+1333,36489 Mckee Canyon,Los Angeles,CA,34.047353,-118.161518
+1334,6139 Stephanie Keys,San Diego,CA,32.887939,-117.015945
+1335,9409 Kelly Prairie,Long Beach,CA,33.799249,-118.156712
+1336,3076 Gillespie Point,Elgin,IL,42.012825,-88.248672
+1337,974 Brandon Turnpike,Syracuse,NY,43.055048,-76.101743
+1338,992 Thomas Burgs,Dallas,TX,32.799128,-96.892468
+1339,34506 Vincent Village,Sacramento,CA,38.593398,-121.59253
+1340,49735 Brittany Ridges,Albany,NY,42.650814,-73.764551
+1341,007 Shirley Bypass,Albany,NY,42.654355,-73.797403
+1342,407 Nielsen Streets,New Rochelle,NY,40.902303,-73.777837
+1343,53351 Juan Freeway,Rochester,NY,43.185471,-77.655098
+1344,057 Jennifer Causeway,Fort Worth,TX,32.819358,-97.396083
+1345,49368 Lawrence Burg,Buffalo,NY,42.875398,-78.859712
+1346,511 Lisa Plaza,St. Petersburg,FL,27.745307,-82.654509
+1347,426 Nicole Loaf,Dallas,TX,32.802054,-96.751496
+1348,64370 Sellers Highway,Austin,TX,30.372419,-97.790777
+1349,210 Kim Walk,New Rochelle,NY,40.908989,-73.770929
+1350,1530 Fisher Shores,Long Beach,CA,33.758203,-118.137434
+1351,4852 Christopher Spurs,Rochester,NY,43.150617,-77.68829
+1352,40927 Derek Branch,Mount Vernon,NY,40.90414,-73.825555
+1353,62689 Megan Circles,Tampa,FL,27.908672,-82.453028
+1354,4402 Andrew Tunnel,Tampa,FL,27.994781,-82.483399
+1355,4576 Daniel Knolls,San Antonio,TX,29.429962,-98.424474
+1356,580 Parker Mews,Yonkers,NY,40.941428,-73.894533
+1357,420 Rhonda Divide,Chicago,IL,41.975398,-87.612814
+1358,67908 Carr Dale,Jacksonville,FL,30.302387,-81.666414
+1359,42856 Bennett Street,Sacramento,CA,38.619906,-121.490741
+1360,7188 Sellers Cove,Rochester,NY,43.185549,-77.67909
+1361,95947 Ross Forks,St. Petersburg,FL,27.755016,-82.610823
+1362,793 Bennett Terrace,New York,NY,40.702183,-73.926743
+1363,3437 Sean Rapids,Yonkers,NY,40.929653,-73.863089
+1364,26644 Jessica Junction,Corpus Christi,TX,27.791605,-97.373919
+1365,4808 Timothy Plains,Tampa,FL,27.933922,-82.405659
+1366,17031 Michelle Shoal,Syracuse,NY,43.086511,-76.188139
+1367,8956 Gregory Wells,Buffalo,NY,42.854359,-78.834104
+1368,67453 Mcdaniel Tunnel,San Jose,CA,37.340742,-121.950836
+1369,2020 Smith Terrace,Arlington,TX,32.715181,-97.136775
+1370,131 Jason Lane,San Diego,CA,33.00773,-116.925364
+1371,93602 Snow Club,Orlando,FL,28.502385,-81.430316
+1372,5915 Bruce Ranch,San Francisco,CA,37.724072,-122.428684
+1373,54186 Young Stream,San Diego,CA,32.808852,-117.140666
+1374,750 Stanton Forge,Rochester,NY,43.144076,-77.616505
+1375,6893 Stewart Rapid,Chicago,IL,41.806025,-87.574782
+1376,1321 Ronald Brooks,Houston,TX,29.741699,-95.024942
+1377,4247 Pittman Trafficway,Miami,FL,25.756637,-80.140779
+1378,5323 Victoria Dam,St. Petersburg,FL,27.739776,-82.615478
+1379,000 Gonzalez Keys,Tallahassee,FL,30.411878,-84.262013
+1380,97540 Jacqueline Union,Dallas,TX,32.848445,-96.862755
+1381,4196 Jennifer Green,Orlando,FL,28.471843,-81.417583
+1382,1946 Wilson Shoals,San Antonio,TX,29.355842,-98.5706
+1383,4915 Jeffrey Valleys,San Antonio,TX,29.372663,-98.547312
+1384,12238 Jason Field,San Antonio,TX,29.442342,-98.526292
+1385,864 Amanda Mountains,Oakland,CA,37.844287,-122.250074
+1386,6146 Henry Roads,Jacksonville,FL,30.358409,-81.627593
+1387,11337 Tracy Stravenue,Oakland,CA,37.718292,-122.284963
+1388,873 Lynch Divide,Fort Lauderdale,FL,26.16918,-80.186873
+1389,4183 Terri Stravenue,Hialeah,FL,25.862392,-80.264579
+1390,46649 Justin Plain,Peoria,IL,40.71501,-89.564819
+1391,8314 Simpson Rest,San Antonio,TX,29.583192,-98.496645
+1392,3331 Michael Mountains,Jacksonville,FL,30.314309,-81.680394
+1393,56858 Valerie Passage,San Francisco,CA,37.704388,-122.471118
+1394,5948 Ross Turnpike,Springfield,IL,39.714263,-89.699948
+1395,479 Williams Causeway,New York,NY,40.768311,-73.977745
+1396,4448 Baker Lake,New York,NY,40.792137,-73.983329
+1397,8666 Ingram Circles,Long Beach,CA,33.794218,-118.114253
+1398,415 Norman Knolls,Oakland,CA,37.835071,-122.20273
+1399,312 Kaylee Spurs,San Diego,CA,33.046932,-117.134825
+1400,8563 Silva Rest,Hialeah,FL,25.852483,-80.268995
+1401,9833 Lisa Roads,Yonkers,NY,40.925379,-73.857214
+1402,0856 Becky Plaza,Orlando,FL,28.582409,-81.399602
+1403,18031 Lisa Burgs,Joliet,IL,41.559123,-88.063124
+1404,58489 Danielle Ports,Mount Vernon,NY,40.916736,-73.824894
+1405,43042 Lisa Ways,Chicago,IL,41.980093,-87.677278
+1406,8339 Vanessa Heights,San Diego,CA,33.01977,-116.945478
+1407,333 Briana Tunnel,San Antonio,TX,29.58667,-98.57257
+1408,77817 Bruce Island,Arlington,TX,32.790799,-97.187872
+1409,851 Delgado Manors,Arlington,TX,32.719179,-97.170881
+1410,94643 Williams Extensions,Fort Lauderdale,FL,26.184284,-80.187713
+1411,654 Christine Harbors,Corpus Christi,TX,27.742586,-97.42438
+1412,45382 Baker Lights,Dallas,TX,32.719417,-96.726442
+1413,813 James Roads,Hialeah,FL,25.892986,-80.259969
+1414,10595 Jesse Forest,Naperville,IL,41.762432,-88.108622
+1415,991 Andrea Vista,Dallas,TX,32.806518,-96.770946
+1416,6535 Meagan Ports,Rockford,IL,42.202955,-89.090299
+1417,38088 Walter Drives,New Rochelle,NY,40.907713,-73.770286
+1418,102 Lauren Views,Dallas,TX,32.753784,-96.882127
+1419,1917 Evans Junction,San Francisco,CA,37.725326,-122.347708
+1420,7664 Hood Park,San Diego,CA,33.036718,-116.983518
+1421,706 Robert Mission,New Rochelle,NY,40.913305,-73.762954
+1422,506 Nancy Viaduct,New Rochelle,NY,40.918518,-73.75201
+1423,979 Gould Village,Orlando,FL,28.435862,-81.325378
+1424,395 Kimberly Circles,Albany,NY,42.649624,-73.763916
+1425,98016 Zachary Land,Corpus Christi,TX,27.785365,-97.397924
+1426,607 Santos Port,Mount Vernon,NY,40.914022,-73.827586
+1427,46475 Rogers Plaza,Oakland,CA,37.774184,-122.263605
+1428,98317 Hill Orchard,San Francisco,CA,37.744833,-122.461762
+1429,12399 Tina Square,Springfield,IL,39.787095,-89.627141
+1430,085 Andrew Springs,Hialeah,FL,25.864903,-80.280358
+1431,700 Long Shoal,Naperville,IL,41.757592,-88.147303
+1432,9796 Thomas Run,El Paso,TX,31.734036,-106.389163
+1433,067 Romero Tunnel,Fort Lauderdale,FL,26.136731,-80.191236
+1434,4784 Jeremiah Tunnel,Tampa,FL,27.919078,-82.484683
+1435,82165 Torres Vista,Austin,TX,30.337779,-97.720352
+1436,05865 Brown Row,Buffalo,NY,42.927437,-78.859243
+1437,945 Kim Stravenue,New York,NY,40.722959,-73.966039
+1438,77273 Amy Brooks,Dallas,TX,32.741821,-96.871709
+1439,1045 Jonathan Port,Springfield,IL,39.727184,-89.674376
+1440,3604 Sharon Lakes,Dallas,TX,32.760224,-96.817465
+1441,3122 Gary Lock,Jacksonville,FL,30.39707,-81.685891
+1442,67221 Jessica Mount,Aurora,IL,41.772987,-88.224071
+1443,2081 Fields Crest,Tallahassee,FL,30.425146,-84.274058
+1444,922 Hinton Pines,Oakland,CA,37.82251,-122.201672
+1445,42741 Shepherd Mount,El Paso,TX,31.863403,-106.311636
+1446,89852 Daniel Bypass,Buffalo,NY,42.921268,-78.8572
+1447,854 Megan Plains,Peoria,IL,40.757205,-89.542901
+1448,613 Taylor Squares,Elgin,IL,42.047709,-88.203086
+1449,53956 Raymond Plains,Fort Lauderdale,FL,26.171203,-80.16213
+1450,33606 Jordan Prairie,San Diego,CA,32.711345,-117.127872
+1451,0957 Randy Passage,Fresno,CA,36.892211,-119.777381
+1452,49324 French Square,Austin,TX,30.287801,-97.695633
+1453,6443 Reeves Station,Rockford,IL,42.254263,-89.098312
+1454,954 Tammy Rest,Buffalo,NY,42.870147,-78.847352
+1455,9949 Huynh Island,San Francisco,CA,37.711429,-122.304386
+1456,110 Melissa Mountains,Rochester,NY,43.157803,-77.624128
+1457,49752 Villegas Club,San Diego,CA,32.81584,-117.090537
+1458,6882 Zachary Underpass,Sacramento,CA,38.620172,-121.454385
+1459,75452 Smith Neck,El Paso,TX,31.742151,-106.332675
+1460,1591 Laura Meadows,Springfield,IL,39.790041,-89.644139
+1461,52306 Nguyen Points,Rockford,IL,42.260834,-89.026
+1462,6139 Gomez Locks,Joliet,IL,41.587264,-88.035275
+1463,9137 Gregory Dale,Arlington,TX,32.793504,-97.128256
+1464,07672 Katherine Loaf,Springfield,IL,39.78358,-89.625393
+1465,81602 Mendoza Plain,Fresno,CA,36.873281,-119.886438
+1466,5527 Beard Motorway,Hialeah,FL,25.889521,-80.27293
+1467,3498 Ferrell Rue,Aurora,IL,41.77941,-88.200188
+1468,037 Donald Squares,San Francisco,CA,37.70269,-122.476534
+1469,05742 Lopez Roads,Tallahassee,FL,30.452046,-84.2881
+1470,168 Graves Keys,Long Beach,CA,33.797851,-118.141369
+1471,5592 Audrey Drive,Mount Vernon,NY,40.909994,-73.825481
+1472,60310 Allison Stream,Dallas,TX,32.775572,-96.741758
+1473,391 Wheeler Cape,Chicago,IL,41.981067,-87.696593
+1474,50322 Madden Hill,Buffalo,NY,42.947919,-78.823003
+1475,86174 Hicks Pike,Los Angeles,CA,34.15585,-118.25699
+1476,6080 Conner Drives,Yonkers,NY,40.912304,-73.880198
+1477,83290 Danielle Place,Springfield,IL,39.744947,-89.661497
+1478,55408 Stephen Shore,Mount Vernon,NY,40.916258,-73.827816
+1479,74760 Todd Ford,Jacksonville,FL,30.369452,-81.691101
+1480,899 Mann Stravenue,Fort Worth,TX,32.765585,-97.303299
+1481,1311 Joyce Crossing,Oakland,CA,37.720839,-122.202676
+1482,45028 Simpson Manor,Rochester,NY,43.105106,-77.698222
+1483,9660 Cox Mount,Oakland,CA,37.799404,-122.273087
+1484,36277 Hale Village,New York,NY,40.743347,-73.96873
+1485,74367 Clark Pine,Syracuse,NY,43.014931,-76.107972
+1486,6436 Natalie Freeway,San Antonio,TX,29.358839,-98.443146
+1487,700 Johns Corner,Corpus Christi,TX,27.889904,-97.338448
+1488,186 Jeffrey Centers,Corpus Christi,TX,27.886629,-97.460717
+1489,636 Gregory Island,San Francisco,CA,37.762973,-122.355401
+1490,9221 Elizabeth Lake,Springfield,IL,39.745176,-89.6346
+1491,7674 Jones Green,Yonkers,NY,40.916864,-73.870618
+1492,885 Eddie Branch,Springfield,IL,39.768023,-89.665487
+1493,358 Lewis Shoal,Buffalo,NY,42.938898,-78.897659
+1494,1259 Thomas Expressway,Sacramento,CA,38.640917,-121.424258
+1495,895 Tony Loaf,Dallas,TX,32.803628,-96.737284
+1496,8277 Rose Walk,El Paso,TX,31.882048,-106.385988
+1497,033 Karen Shoal,Yonkers,NY,40.926862,-73.888087
+1498,203 Estrada Neck,Houston,TX,29.812761,-95.054562
+1499,252 Donna Circle,San Antonio,TX,29.559795,-98.55432
+1500,54028 Villa Mountain,Aurora,IL,41.775077,-88.297309
+1501,9842 Fuller Ways,Fort Lauderdale,FL,26.187631,-80.192457
+1502,304 Gonzales Rue,El Paso,TX,31.771517,-106.361629
+1503,1518 Rivera Way,Joliet,IL,41.576972,-88.010424
+1504,12607 Bell Drives,Tallahassee,FL,30.468305,-84.261338
+1505,14560 Sandra Avenue,Orlando,FL,28.442544,-81.374091
+1506,796 Stewart Motorway,Austin,TX,30.386658,-97.785833
+1507,6846 Karen Course,Fresno,CA,36.868087,-119.704045
+1508,387 Kim Estates,New Rochelle,NY,40.901066,-73.758437
+1509,31829 John Crossroad,Fort Lauderdale,FL,26.151354,-80.140077
+1510,122 Middleton Course,El Paso,TX,31.853423,-106.309909
+1511,475 Edwards Manors,San Antonio,TX,29.462453,-98.535087
+1512,35262 Mata Ville,Los Angeles,CA,33.989072,-118.544903
+1513,838 Gibson Station,Buffalo,NY,42.940798,-78.824801
+1514,656 Chavez Loop,Los Angeles,CA,34.230467,-118.654233
+1515,08853 Mccullough Pine,Rockford,IL,42.291223,-89.059859
+1516,6797 Baxter Rue,El Paso,TX,31.729552,-106.475874
+1517,4893 Richard Falls,Fort Worth,TX,32.809058,-97.316997
+1518,336 Wilson Mission,Albany,NY,42.648275,-73.779821
+1519,097 Stephenson Inlet,Sacramento,CA,38.603976,-121.554261
+1520,131 Rachel Union,Arlington,TX,32.757635,-97.151519
+1521,690 Colon Plains,Fort Lauderdale,FL,26.197577,-80.187659
+1522,89763 Obrien Summit,San Jose,CA,37.22159,-121.922561
+1523,3108 Jason Harbor,San Antonio,TX,29.453507,-98.449656
+1524,06071 Krista Avenue,Oakland,CA,37.711587,-122.255901
+1525,096 Jacob Valleys,Miami,FL,25.736997,-80.236796
+1526,91626 Bautista Road,New York,NY,40.755436,-73.972458
+1527,0625 William Fields,Sacramento,CA,38.516037,-121.450952
+1528,76480 Joshua Curve,Los Angeles,CA,34.282464,-118.650553
+1529,8723 Cunningham Loop,Fort Lauderdale,FL,26.100122,-80.109364
+1530,74345 Allen Freeway,Houston,TX,30.016258,-95.480678
+1531,476 Savannah Orchard,Jacksonville,FL,30.399203,-81.669855
+1532,8560 Michael Camp,St. Petersburg,FL,27.746967,-82.631298
+1533,663 Johnson Lights,Los Angeles,CA,34.005307,-118.667625
+1534,7186 Anthony Crescent,Mount Vernon,NY,40.904412,-73.827665
+1535,257 Brad Squares,Buffalo,NY,42.911008,-78.852311
+1536,4525 Hines Islands,Miami,FL,25.746992,-80.22549
+1537,9175 Deanna Branch,New York,NY,40.757046,-73.996921
+1538,346 Hamilton Pike,Los Angeles,CA,34.071345,-118.313174
+1539,0079 Rice Cove,Jacksonville,FL,30.306383,-81.681301
+1540,65110 Robert Courts,Elgin,IL,42.024046,-88.264288
+1541,773 Ferguson Wall,Chicago,IL,41.84222,-87.593436
+1542,76373 Ryan Rapid,San Antonio,TX,29.589993,-98.410973
+1543,387 Walker Locks,Naperville,IL,41.786976,-88.172822
+1544,1681 Lindsey Point,Naperville,IL,41.749059,-88.161045
+1545,98974 Morris Plain,Houston,TX,30.054607,-95.166425
+1546,61637 Nicole Fords,Chicago,IL,41.960421,-87.537165
+1547,675 Melanie Court,Sacramento,CA,38.602973,-121.409546
+1548,402 Edward Gardens,New Rochelle,NY,40.905269,-73.77407
+1549,42867 Stewart Fort,Jacksonville,FL,30.329455,-81.657469
+1550,910 John Road,Miami,FL,25.783935,-80.296698
+1551,20728 Alvarez Roads,Hialeah,FL,25.88253,-80.279018
+1552,1921 Tamara Meadow,Naperville,IL,41.7075,-88.138833
+1553,815 Tonya Parks,Aurora,IL,41.709675,-88.222327
+1554,014 Kathleen Crossroad,San Diego,CA,32.882709,-117.110829
+1555,409 Richard Village,Tampa,FL,27.977476,-82.452787
+1556,36181 Rebecca Roads,Fresno,CA,36.825845,-119.778511
+1557,65692 Sarah Tunnel,Dallas,TX,32.843469,-96.889049
+1558,7139 Gilbert Harbors,New Rochelle,NY,40.91087,-73.751811
+1559,490 Brown Trafficway,Aurora,IL,41.701462,-88.286958
+1560,344 Dixon Circles,Tampa,FL,27.992491,-82.442279
+1561,068 Benjamin Stream,Joliet,IL,41.59104,-88.037798
+1562,06609 David Prairie,St. Petersburg,FL,27.765263,-82.638241
+1563,28567 Alexander Station,Albany,NY,42.644876,-73.783448
+1564,5686 Gonzalez Way,Miami,FL,25.861328,-80.178879
+1565,526 Cobb Ports,Tampa,FL,27.915947,-82.493577
+1566,3027 Ellis Trafficway,Springfield,IL,39.755337,-89.638796
+1567,03149 Craig Squares,El Paso,TX,31.876685,-106.497481
+1568,4573 Adams Avenue,Springfield,IL,39.738961,-89.630946
+1569,769 Nelson Corners,Fresno,CA,36.819575,-119.731166
+1570,17514 Glover Crescent,Naperville,IL,41.771123,-88.118774
+1571,17367 Jones Wall,Tampa,FL,27.959401,-82.447346
+1572,4520 Williams Mount,Tallahassee,FL,30.421707,-84.270888
+1573,7437 Rich Hollow,Hialeah,FL,25.857202,-80.286196
+1574,6839 Chan Haven,Yonkers,NY,40.947592,-73.874706
+1575,75980 Reyes Junction,Hialeah,FL,25.897477,-80.289797
+1576,1414 Clarke Tunnel,Syracuse,NY,43.060104,-76.174369
+1577,41569 Harmon Creek,Rochester,NY,43.147757,-77.620187
+1578,6439 Erin Fields,Fort Lauderdale,FL,26.156193,-80.192785
+1579,311 Jackson Village,Albany,NY,42.639075,-73.751499
+1580,240 Michelle Isle,Tampa,FL,27.908459,-82.472549
+1581,89664 Gibbs Light,Dallas,TX,32.800424,-96.774886
+1582,2601 Rosario Loop,Fort Lauderdale,FL,26.129319,-80.165381
+1583,066 Marsh Underpass,Fort Worth,TX,32.784428,-97.363856
+1584,517 Johnson Views,Aurora,IL,41.757948,-88.243327
+1585,59760 Adrian Square,Jacksonville,FL,30.38524,-81.698382
+1586,520 Boyd Ridge,San Antonio,TX,29.596973,-98.554537
+1587,8460 Clark Key,Fort Worth,TX,32.716506,-97.392251
+1588,684 Andrew Route,San Antonio,TX,29.562021,-98.442465
+1589,2853 Brandon Pass,El Paso,TX,31.855373,-106.33949
+1590,374 Diane Falls,Fresno,CA,36.741193,-119.844507
+1591,28527 Sims Flat,Long Beach,CA,33.753024,-118.103337
+1592,59362 Jeremy Bridge,Sacramento,CA,38.654323,-121.512478
+1593,7330 Koch Terrace,New York,NY,40.749905,-73.985682
+1594,3058 Autumn Port,New York,NY,40.737261,-73.91565
+1595,296 Alexander Court,Naperville,IL,41.796628,-88.165557
+1596,15045 Richard Islands,Joliet,IL,41.567072,-88.036463
+1597,8029 Melanie Mountains,Buffalo,NY,42.872505,-78.808151
+1598,75293 David Road,San Jose,CA,37.285199,-121.966058
+1599,8657 Francisco Ranch,Albany,NY,42.652772,-73.790482
+1600,3518 Smith Expressway,San Francisco,CA,37.7569,-122.415296
+1601,803 Martinez Stream,Syracuse,NY,43.070447,-76.167295
+1602,3629 Sexton Throughway,Peoria,IL,40.746122,-89.508291
+1603,7357 Velasquez Cape,Joliet,IL,41.582033,-88.063213
+1604,15559 Padilla Fall,Dallas,TX,32.791561,-96.78791
+1605,241 Wade Trail,Houston,TX,30.088954,-95.013286
+1606,907 Mendez Flat,Houston,TX,29.915407,-95.310828
+1607,46419 Mccullough Plains,Joliet,IL,41.522483,-88.053283
+1608,942 Paula Village,Fort Lauderdale,FL,26.154555,-80.117845
+1609,555 Hernandez Glens,Corpus Christi,TX,27.812696,-97.406376
+1610,353 Navarro Mission,Hialeah,FL,25.874806,-80.264439
+1611,2271 Oconnor Mountain,Arlington,TX,32.728799,-97.194048
+1612,91298 Andrew Branch,San Francisco,CA,37.793332,-122.381685
+1613,68357 Ricardo Lodge,Elgin,IL,42.001341,-88.276552
+1614,6512 Jeremy Springs,St. Petersburg,FL,27.711749,-82.670208
+1615,812 Melissa Valley,Dallas,TX,32.756052,-96.747145
+1616,97133 Fitzpatrick Brooks,Sacramento,CA,38.671924,-121.409041
+1617,24918 Erica Land,Joliet,IL,41.54306,-88.03968
+1618,62095 Vasquez Green,Miami,FL,25.842049,-80.255659
+1619,9209 Li Estates,Jacksonville,FL,30.306079,-81.61753
+1620,00404 Kathryn Radial,Elgin,IL,42.021569,-88.233243
+1621,814 Whitehead Center,Rockford,IL,42.253106,-89.092653
+1622,04803 Larry Hollow,San Francisco,CA,37.755727,-122.308884
+1623,1122 Hernandez Mall,St. Petersburg,FL,27.758737,-82.692791
+1624,9369 Rodriguez Corners,Joliet,IL,41.576695,-88.083156
+1625,438 Lee Shores,El Paso,TX,31.731362,-106.387097
+1626,039 Tammy Unions,New Rochelle,NY,40.900069,-73.777571
+1627,3295 Allen Track,Peoria,IL,40.733076,-89.511229
+1628,93807 Johnson Stravenue,San Francisco,CA,37.796878,-122.355044
+1629,562 Collins Courts,Buffalo,NY,42.936416,-78.824675
+1630,764 Teresa Mills,Oakland,CA,37.757167,-122.20753
+1631,30372 King Tunnel,Elgin,IL,42.047455,-88.212813
+1632,953 Johnson Square,San Diego,CA,33.036299,-116.92319
+1633,722 Julia Lights,St. Petersburg,FL,27.723128,-82.665817
+1634,600 Graham Cape,Aurora,IL,41.791428,-88.20869
+1635,620 Collins Roads,Rockford,IL,42.261704,-89.005747
+1636,629 Walton Underpass,Naperville,IL,41.764024,-88.191726
+1637,101 Williams Oval,Albany,NY,42.651102,-73.799552
+1638,88542 Reynolds Hill,San Diego,CA,32.85985,-117.011682
+1639,374 Devin Canyon,Mount Vernon,NY,40.918839,-73.821723
+1640,3384 Forbes Centers,Buffalo,NY,42.906624,-78.873033
+1641,43714 Timothy Road,Houston,TX,29.724621,-95.095149
+1642,404 Jacobs Village,Fresno,CA,36.896263,-119.714939
+1643,3799 Moore Centers,Naperville,IL,41.732661,-88.148261
+1644,9536 Amy Forges,El Paso,TX,31.748089,-106.433437
+1645,135 Price Port,Rockford,IL,42.244967,-89.031791
+1646,1179 Mcdonald Walks,Jacksonville,FL,30.331369,-81.607208
+1647,0287 Dana Junction,Miami,FL,25.831864,-80.224212
+1648,74043 Schaefer Walk,Rockford,IL,42.283116,-89.015376
+1649,101 Nichole Manors,Peoria,IL,40.787072,-89.519705
+1650,54740 Alicia Centers,Austin,TX,30.34045,-97.671836
+1651,224 Steele Port,San Diego,CA,32.758446,-117.127189
+1652,117 Austin Highway,Rochester,NY,43.141851,-77.62391
+1653,953 Steven Shore,El Paso,TX,31.872756,-106.374765
+1654,428 Chang Ways,Dallas,TX,32.872263,-96.768882
+1655,8690 Wanda Estates,Oakland,CA,37.786098,-122.210874
+1656,568 Sparks Station,Joliet,IL,41.575245,-88.061899
+1657,22118 Alexis Stravenue,Fort Lauderdale,FL,26.146269,-80.120651
+1658,2683 Abigail Highway,Joliet,IL,41.554413,-88.09874
+1659,514 Lowe Coves,Long Beach,CA,33.75785,-118.170012
+1660,5218 Adrienne Gateway,Syracuse,NY,43.062215,-76.119793
+1661,1032 Jessica Ramp,St. Petersburg,FL,27.706161,-82.69773
+1662,923 Robert Hill,Fresno,CA,36.810055,-119.77303
+1663,4221 Johnson Hollow,San Francisco,CA,37.737448,-122.353716
+1664,81177 Michael Crescent,Tallahassee,FL,30.475546,-84.256293
+1665,919 Sarah Fords,Sacramento,CA,38.589436,-121.484538
+1666,6415 Olsen Valleys,Joliet,IL,41.520242,-88.055652
+1667,811 Newman Turnpike,Sacramento,CA,38.69797,-121.49201
+1668,7126 Tina Greens,Elgin,IL,42.006562,-88.284311
+1669,2239 Watts Ways,Joliet,IL,41.526957,-88.097883
+1670,28987 Jones Harbors,Los Angeles,CA,33.987454,-118.433449
+1671,2996 Thomas Freeway,Long Beach,CA,33.77173,-118.166046
+1672,6123 Kevin Light,Fort Lauderdale,FL,26.150276,-80.132854
+1673,168 Michael Manors,Miami,FL,25.762934,-80.149329
+1674,86922 Thomas Turnpike,San Francisco,CA,37.770117,-122.397657
+1675,8595 David Trafficway,Corpus Christi,TX,27.720522,-97.438527
+1676,74808 Aaron Green,Arlington,TX,32.735927,-97.179957
+1677,38346 Phillips Falls,Miami,FL,25.760617,-80.267105
+1678,5185 Bonilla Glens,Albany,NY,42.638796,-73.754014
+1679,11219 Barron Plains,Peoria,IL,40.723539,-89.538125
+1680,246 Wilson Circle,Yonkers,NY,40.928884,-73.872932
+1681,790 Fields Plains,Sacramento,CA,38.525332,-121.490233
+1682,6837 Brown Summit,New York,NY,40.726086,-73.992282
+1683,009 Jeffrey Valley,Los Angeles,CA,34.145922,-118.352527
+1684,382 Young Canyon,Sacramento,CA,38.54799,-121.401618
+1685,417 Ross Ville,Arlington,TX,32.714599,-97.154114
+1686,665 Debra Valleys,Sacramento,CA,38.540249,-121.441931
+1687,3777 Henry Street,Chicago,IL,41.990081,-87.52253
+1688,078 Hunt Route,Sacramento,CA,38.562038,-121.413826
+1689,9022 Scott Views,Chicago,IL,41.920843,-87.542197
+1690,101 Hall Squares,Naperville,IL,41.716402,-88.135995
+1691,70511 Angela Corners,Rochester,NY,43.153222,-77.690854
+1692,94753 Jose Views,Albany,NY,42.634436,-73.781348
+1693,113 Sabrina Forge,Jacksonville,FL,30.321172,-81.641464
+1694,56481 Lewis Trail,San Diego,CA,33.012567,-117.074063
+1695,174 Erin Spurs,San Diego,CA,32.84431,-117.179248
+1696,71775 Williams Views,Buffalo,NY,42.863711,-78.801465
+1697,3005 Alexandria Islands,Fort Lauderdale,FL,26.154093,-80.148249
+1698,7676 Timothy Springs,Oakland,CA,37.809264,-122.262878
+1699,426 Stephen Village,Buffalo,NY,42.945554,-78.806085
+1700,374 Kathryn Plaza,Springfield,IL,39.704465,-89.606019
+1701,3074 Maria Creek,Houston,TX,29.77027,-95.240998
+1702,507 Megan Ways,San Diego,CA,32.854402,-117.16735
+1703,48177 Chelsey View,Jacksonville,FL,30.31067,-81.609556
+1704,38004 Robbins Oval,Tampa,FL,27.956815,-82.484621
+1705,6207 Joseph Mission,Springfield,IL,39.763833,-89.634287
+1706,83545 Munoz Hill,Arlington,TX,32.755534,-97.196924
+1707,422 Billy Mission,Naperville,IL,41.717193,-88.151854
+1708,2842 Heather Alley,New Rochelle,NY,40.915735,-73.777834
+1709,33367 Jennifer Lane,San Diego,CA,33.087534,-116.927678
+1710,7135 Kim Courts,Los Angeles,CA,34.292791,-118.509421
+1711,3418 Caitlin Cliffs,Long Beach,CA,33.786908,-118.108187
+1712,5241 Baird Falls,Tampa,FL,27.946847,-82.473496
+1713,5408 Cabrera Loaf,Miami,FL,25.775178,-80.104692
+1714,76427 Gill Forge,St. Petersburg,FL,27.745862,-82.630357
+1715,812 Ingram Parks,Rochester,NY,43.100822,-77.635803
+1716,95904 Brittany Stravenue,Springfield,IL,39.71893,-89.607034
+1717,488 Michelle Greens,El Paso,TX,31.718194,-106.439815
+1718,346 Mercer Track,San Antonio,TX,29.487917,-98.469097
+1719,6110 Michael Parkways,Corpus Christi,TX,27.830826,-97.342011
+1720,8767 Green Route,Dallas,TX,32.764427,-96.752248
+1721,939 Alison Mountain,Sacramento,CA,38.511643,-121.504543
+1722,768 Jones Mill,Austin,TX,30.274222,-97.766011
+1723,89754 Robinson Course,Chicago,IL,41.889155,-87.613727
+1724,0069 Silva Isle,Elgin,IL,42.047415,-88.276958
+1725,82159 Mike Shoal,Yonkers,NY,40.91,-73.859501
+1726,6994 Morgan Plaza,Orlando,FL,28.566965,-81.43878
+1727,0441 Rebecca Oval,Buffalo,NY,42.934796,-78.800751
+1728,81361 Victoria Flat,Orlando,FL,28.594672,-81.325904
+1729,574 Mary Field,Syracuse,NY,43.082432,-76.104238
+1730,2776 Scott Junctions,Chicago,IL,41.867383,-87.549251
+1731,07234 Thomas Mission,Fort Worth,TX,32.750813,-97.389405
+1732,231 Sheila Mission,San Diego,CA,32.702291,-117.038526
+1733,6633 Stanley Wells,Syracuse,NY,43.005973,-76.118356
+1734,20298 Pope Ports,Sacramento,CA,38.677405,-121.588245
+1735,71759 Drake Mountains,Mount Vernon,NY,40.900654,-73.826229
+1736,55624 Smith Glen,Buffalo,NY,42.93236,-78.808371
+1737,31792 Stokes Valleys,Mount Vernon,NY,40.919068,-73.82885
+1738,2732 Thomas Lane,San Diego,CA,32.790399,-117.059983
+1739,03642 Herbert Flat,San Jose,CA,37.24951,-121.953771
+1740,645 Baldwin Greens,Naperville,IL,41.730494,-88.179234
+1741,8747 Terrance Villages,Austin,TX,30.302858,-97.657483
+1742,729 Melissa Dale,Elgin,IL,42.004967,-88.286101
+1743,346 Pope Squares,Hialeah,FL,25.899322,-80.29763
+1744,697 Jones Circle,Corpus Christi,TX,27.735166,-97.321494
+1745,479 Manning Meadows,Syracuse,NY,43.098228,-76.11531
+1746,4969 Joshua Way,Tallahassee,FL,30.465073,-84.285548
+1747,945 Jackson Curve,Naperville,IL,41.73265,-88.177528
+1748,1253 Abigail Squares,San Antonio,TX,29.360464,-98.549624
+1749,477 Madison Glen,Tampa,FL,27.984654,-82.436945
+1750,4479 Lisa Rest,El Paso,TX,31.779661,-106.413559
+1751,3046 Hobbs Lodge,Tallahassee,FL,30.47363,-84.226987
+1752,61968 Shepard Shores,Long Beach,CA,33.793799,-118.139168
+1753,143 Kenneth Ports,Corpus Christi,TX,27.839995,-97.448427
+1754,00015 Martinez Plains,San Diego,CA,33.073893,-117.094109
+1755,612 Claudia Roads,Los Angeles,CA,33.95401,-118.558448
+1756,3802 Nicole Fall,Chicago,IL,41.933715,-87.685599
+1757,562 Kim Port,Rochester,NY,43.147118,-77.659821
+1758,58860 Daniel Canyon,Austin,TX,30.207965,-97.775483
+1759,91454 Valentine Avenue,El Paso,TX,31.882245,-106.427034
+1760,279 Meyer Drives,New York,NY,40.798299,-73.916252
+1761,626 Richard Track,Miami,FL,25.794566,-80.226578
+1762,58581 Franco Burgs,Jacksonville,FL,30.384614,-81.668031
+1763,8943 David Road,Aurora,IL,41.721375,-88.214624
+1764,4385 Michael Shores,Fresno,CA,36.876647,-119.788179
+1765,1668 Schneider Mountains,Rockford,IL,42.216569,-89.077348
+1766,5816 Riley Square,Albany,NY,42.636562,-73.754043
+1767,0931 Drew Park,Jacksonville,FL,30.317645,-81.651484
+1768,2361 Rick Throughway,Fresno,CA,36.836754,-119.803309
+1769,9953 Castro Springs,Peoria,IL,40.736123,-89.574175
+1770,05323 Brown Ports,Albany,NY,42.630328,-73.75187
+1771,144 Amy Passage,El Paso,TX,31.739739,-106.393548
+1772,038 Ryan Villages,Peoria,IL,40.74414,-89.51592
+1773,333 Turner Forges,Elgin,IL,42.0335,-88.238148
+1774,34339 Dillon Islands,St. Petersburg,FL,27.770953,-82.677282
+1775,243 Campbell Spur,Yonkers,NY,40.9059,-73.883166
+1776,084 Kidd Way,Tallahassee,FL,30.434822,-84.268044
+1777,9918 Collins Road,Aurora,IL,41.704538,-88.218084
+1778,666 Cheryl Burg,Rockford,IL,42.294184,-89.094791
+1779,4913 Leslie Springs,Joliet,IL,41.512582,-88.095358
+1780,54541 Bright Trafficway,Houston,TX,29.736461,-95.486868
+1781,84602 Frazier Groves,Mount Vernon,NY,40.915878,-73.828263
+1782,129 Huff Route,Houston,TX,29.867601,-95.069236
+1783,71750 Parker Court,St. Petersburg,FL,27.768168,-82.637283
+1784,6335 Gregory Hills,Peoria,IL,40.791135,-89.524684
+1785,2341 Wilson Meadows,Joliet,IL,41.582865,-88.040334
+1786,04694 Katherine Flat,Rockford,IL,42.224998,-89.051439
+1787,8473 Sara Expressway,Joliet,IL,41.573354,-88.046351
+1788,8228 Jeffery Flats,Mount Vernon,NY,40.914067,-73.825685
+1789,12239 Melissa Crescent,Arlington,TX,32.797629,-97.189078
+1790,7787 Newton Radial,Fort Worth,TX,32.817053,-97.371013
+1791,904 Monroe Trail,Orlando,FL,28.479579,-81.484577
+1792,8223 Jacob Loaf,Long Beach,CA,33.793144,-118.168064
+1793,513 Jessica Light,Buffalo,NY,42.87955,-78.886416
+1794,018 Edwards Run,San Jose,CA,37.361251,-121.808982
+1795,4411 Gaines Drive,Fort Lauderdale,FL,26.137035,-80.144865
+1796,32422 David Point,Jacksonville,FL,30.361364,-81.647673
+1797,818 Janice Throughway,Austin,TX,30.258386,-97.650953
+1798,4558 Jamie Point,Corpus Christi,TX,27.734467,-97.356328
+1799,3376 Sarah Fall,Tampa,FL,27.957047,-82.40863
+1800,7853 Clarke Street,Elgin,IL,42.047278,-88.253919
+1801,9439 Ellen Route,Arlington,TX,32.727593,-97.188098
+1802,7854 Sarah Pass,Peoria,IL,40.74338,-89.505995
+1803,76662 Mason Wall,Aurora,IL,41.784217,-88.2502
+1804,036 Zachary Pine,Los Angeles,CA,34.093979,-118.282976
+1805,85601 Mary Pike,Austin,TX,30.277233,-97.791104
+1806,4641 Roman Ports,Sacramento,CA,38.656623,-121.403161
+1807,4632 Laura Alley,El Paso,TX,31.814712,-106.322772
+1808,3772 Austin Shores,Joliet,IL,41.543105,-88.057519
+1809,291 Joann Island,Los Angeles,CA,34.083124,-118.610469
+1810,086 John Bridge,San Diego,CA,33.088193,-116.982229
+1811,381 Reynolds Springs,Rockford,IL,42.206402,-89.038088
+1812,9359 Anderson Flat,Austin,TX,30.292345,-97.790519
+1813,6472 Emily Locks,El Paso,TX,31.761974,-106.346159
+1814,62887 Kylie Crossroad,Naperville,IL,41.71368,-88.102873
+1815,5117 Anderson Crossroad,Arlington,TX,32.745197,-97.148356
+1816,388 Smith Locks,San Diego,CA,32.803008,-117.07518
+1817,69177 Porter Point,El Paso,TX,31.738942,-106.343849
+1818,844 Joseph Skyway,Los Angeles,CA,34.091873,-118.517536
+1819,310 Nicholas Forks,Arlington,TX,32.7405,-97.147188
+1820,209 Rogers Drive,New York,NY,40.719236,-73.910655
+1821,70437 Robin Knolls,San Diego,CA,32.722477,-117.068163
+1822,1326 Jill Pass,Jacksonville,FL,30.301392,-81.627907
+1823,4089 Santos Canyon,Houston,TX,29.726957,-95.10477
+1824,783 Greer Valleys,Chicago,IL,41.834215,-87.616113
+1825,3989 Boone Green,San Francisco,CA,37.710057,-122.474705
+1826,7520 Christopher Rest,Albany,NY,42.631999,-73.789489
+1827,8513 Scott Fall,Syracuse,NY,43.041648,-76.147855
+1828,12025 Mcdowell Park,Miami,FL,25.830452,-80.11302
+1829,0189 Stephanie Place,Fort Worth,TX,32.737203,-97.355159
+1830,812 Hall Highway,Rochester,NY,43.126909,-77.633381
+1831,92335 Jordan Circles,Houston,TX,29.904241,-95.287251
+1832,8990 Greene Centers,Orlando,FL,28.505167,-81.306169
+1833,9430 Navarro Lodge,Elgin,IL,42.016888,-88.282358
+1834,665 Jon Crossing,Corpus Christi,TX,27.726961,-97.300977
+1835,31306 Brown Overpass,Arlington,TX,32.79312,-97.177144
+1836,6099 Kristen Crest,Naperville,IL,41.785846,-88.193793
+1837,235 Romero Spurs,Mount Vernon,NY,40.900062,-73.822308
+1838,6813 Scott Unions,Sacramento,CA,38.606302,-121.52325
+1839,4405 Briggs Pike,San Diego,CA,32.760481,-117.140201
+1840,8903 Emma Valley,San Diego,CA,32.827644,-117.047128
+1841,393 Calvin Landing,New Rochelle,NY,40.91869,-73.778485
+1842,220 White Circles,Dallas,TX,32.87599,-96.709912
+1843,616 Courtney Manors,Naperville,IL,41.789003,-88.149557
+1844,3418 Robert Plains,Yonkers,NY,40.91488,-73.873949
+1845,240 Brittany Mountains,San Antonio,TX,29.593031,-98.46163
+1846,311 Alyssa Union,Aurora,IL,41.778677,-88.221408
+1847,888 Alan Via,Rochester,NY,43.197894,-77.668164
+1848,982 James Bypass,Los Angeles,CA,34.270956,-118.123125
+1849,0491 Bell Roads,Buffalo,NY,42.903581,-78.839558
+1850,9601 Lauren Row,Arlington,TX,32.791639,-97.174207
+1851,1154 Wilkinson Orchard,San Francisco,CA,37.73768,-122.383346
+1852,96792 Diane Inlet,Fresno,CA,36.847851,-119.891267
+1853,5677 Jessica Overpass,Albany,NY,42.652509,-73.799899
+1854,0487 Sean Via,Dallas,TX,32.87785,-96.886705
+1855,544 Murphy Lodge,New Rochelle,NY,40.904515,-73.768843
+1856,529 Wilson Divide,Oakland,CA,37.781381,-122.218431
+1857,452 Huang Road,San Diego,CA,33.087732,-116.981985
+1858,735 Belinda Harbor,Chicago,IL,41.928444,-87.677844
+1859,75987 Moore Loop,Austin,TX,30.347326,-97.788518
+1860,98127 Koch Forge,Tampa,FL,27.937042,-82.421281
+1861,2887 William Orchard,San Francisco,CA,37.713412,-122.332205
+1862,6808 Faulkner Turnpike,Arlington,TX,32.781178,-97.16381
+1863,708 Murphy Passage,San Jose,CA,37.392459,-121.876551
+1864,934 Cross Keys,Syracuse,NY,43.087887,-76.145679
+1865,5775 Anderson Glen,Fort Worth,TX,32.726525,-97.393455
+1866,77632 Ronald Branch,Elgin,IL,42.011649,-88.225228
+1867,9473 Davis Well,Chicago,IL,41.823574,-87.687655
+1868,35904 Kent Rue,Austin,TX,30.360632,-97.746005
+1869,72505 Bowman Avenue,El Paso,TX,31.837836,-106.459677
+1870,04626 Gross Overpass,Jacksonville,FL,30.371545,-81.648018
+1871,89005 Joseph Camp,Oakland,CA,37.705295,-122.206716
+1872,573 Isabel Flat,New Rochelle,NY,40.907303,-73.769881
+1873,83155 Alexis Gateway,San Francisco,CA,37.708326,-122.316697
+1874,42180 Johnson Station,Rockford,IL,42.230224,-89.076776
+1875,82834 Fleming Trace,St. Petersburg,FL,27.789561,-82.699239
+1876,3777 Johnson Via,San Antonio,TX,29.454285,-98.545746
+1877,9341 Susan Branch,Tallahassee,FL,30.486259,-84.274082
+1878,738 Park Mission,Dallas,TX,32.759992,-96.732512
+1879,692 Stephens Station,Tampa,FL,27.939651,-82.497995
+1880,62532 Alexis Locks,San Antonio,TX,29.402609,-98.49423
+1881,024 Diane Junction,Houston,TX,30.052177,-95.213083
+1882,35044 Kevin Rapid,Tampa,FL,27.999188,-82.450162
+1883,2659 William Walk,Yonkers,NY,40.919022,-73.863875
+1884,70142 Kayla Burgs,San Francisco,CA,37.714246,-122.315954
+1885,737 Brenda Islands,Arlington,TX,32.712813,-97.174132
+1886,83712 Lopez Mills,Tallahassee,FL,30.434969,-84.279328
+1887,734 Sanchez Crescent,Joliet,IL,41.541321,-88.025682
+1888,1430 Buchanan Lodge,Fort Lauderdale,FL,26.186206,-80.14726
+1889,902 Tim Route,Fort Worth,TX,32.721653,-97.341772
+1890,08481 Douglas Drive,Long Beach,CA,33.752103,-118.173981
+1891,481 Baker Motorway,Jacksonville,FL,30.391384,-81.693256
+1892,01353 Roberts Locks,Joliet,IL,41.500927,-88.028964
+1893,009 James Stream,Naperville,IL,41.709936,-88.188064
+1894,329 Brown Lodge,Houston,TX,29.776957,-95.345185
+1895,981 Wang Loaf,Fresno,CA,36.811465,-119.868496
+1896,492 Richard Station,Yonkers,NY,40.927299,-73.871492
+1897,010 Alicia Lock,Austin,TX,30.272765,-97.705733
+1898,17085 Conway Wells,San Francisco,CA,37.757027,-122.410995
+1899,588 Travis Underpass,Tallahassee,FL,30.419245,-84.205471
+1900,205 Christopher Locks,St. Petersburg,FL,27.738339,-82.600936
+1901,086 Francisco Road,Chicago,IL,41.913148,-87.589295
+1902,0354 Jonathan Creek,Orlando,FL,28.497637,-81.383845
+1903,41679 Hanson Ville,San Jose,CA,37.237122,-121.82706
+1904,7094 Garza Extension,Springfield,IL,39.707859,-89.636181
+1905,28335 Beck Falls,Buffalo,NY,42.917829,-78.869245
+1906,7779 Terrance Mission,Naperville,IL,41.706145,-88.105331
+1907,124 Lester Ridge,Joliet,IL,41.572079,-88.0999
+1908,82728 Schwartz Meadows,Springfield,IL,39.741534,-89.60651
+1909,31906 Christopher Grove,Hialeah,FL,25.893934,-80.268021
+1910,078 Adam Circles,Orlando,FL,28.442075,-81.340784
+1911,9033 Brian Center,Mount Vernon,NY,40.908459,-73.829509
+1912,5589 Kiara Alley,Orlando,FL,28.549133,-81.4385
+1913,528 Daniel Stream,Yonkers,NY,40.900718,-73.895237
+1914,545 Timothy Lake,Los Angeles,CA,34.043718,-118.659897
+1915,17577 Natalie Pike,San Francisco,CA,37.746329,-122.378474
+1916,3096 David Throughway,El Paso,TX,31.714652,-106.305351
+1917,9772 Lori Grove,Albany,NY,42.637784,-73.757064
+1918,92956 Cardenas Flat,Rochester,NY,43.172764,-77.625783
+1919,36122 Brown Mills,New York,NY,40.713801,-73.910342
+1920,95618 Amanda Isle,Dallas,TX,32.820104,-96.821727
+1921,229 Richard Locks,Aurora,IL,41.712951,-88.207423
+1922,71369 Eric Parkways,Sacramento,CA,38.648125,-121.54109
+1923,006 Chavez Brook,Miami,FL,25.769096,-80.203284
+1924,2235 Green Lane,Miami,FL,25.868923,-80.116358
+1925,5369 Crystal River,El Paso,TX,31.767996,-106.390633
+1926,8737 Gordon Junctions,Buffalo,NY,42.89459,-78.840103
+1927,08587 Franklin Crest,Syracuse,NY,43.06883,-76.166846
+1928,973 Kim Via,Oakland,CA,37.747317,-122.224218
+1929,99812 Davis Avenue,Albany,NY,42.647994,-73.750703
+1930,078 Williamson Spurs,New Rochelle,NY,40.907934,-73.767456
+1931,55616 Medina Lodge,Austin,TX,30.357514,-97.65522
+1932,7022 Lee Villages,Hialeah,FL,25.854499,-80.292381
+1933,505 Griffin Cliffs,Long Beach,CA,33.756536,-118.150718
+1934,437 Shepard Harbor,Tallahassee,FL,30.413822,-84.270927
+1935,357 Smith Run,San Antonio,TX,29.328558,-98.558178
+1936,476 Cox Parkway,Fresno,CA,36.813097,-119.788564
+1937,4511 Felicia Mission,St. Petersburg,FL,27.75177,-82.675413
+1938,47963 Calvin Street,Orlando,FL,28.422377,-81.485938
+1939,3501 Vazquez Road,Long Beach,CA,33.774911,-118.106044
+1940,40201 Lopez Lane,Tampa,FL,27.980863,-82.448951
+1941,54075 Thornton Grove,Long Beach,CA,33.775208,-118.115345
+1942,397 Harris Square,Mount Vernon,NY,40.909279,-73.826953
+1943,07719 Osborne Bypass,New York,NY,40.729378,-73.915089
+1944,7423 Hubbard Radial,New York,NY,40.740649,-73.957234
+1945,468 Jackson Burg,San Diego,CA,32.80013,-117.178269
+1946,1087 David Villages,San Antonio,TX,29.500119,-98.437159
+1947,0750 Taylor Mountains,Los Angeles,CA,34.057182,-118.395278
+1948,3109 Walker Green,Corpus Christi,TX,27.831103,-97.387777
+1949,37620 Stewart Square,Yonkers,NY,40.915349,-73.862207
+1950,429 Krista Center,Houston,TX,30.021946,-95.144891
+1951,605 Tara View,Oakland,CA,37.83854,-122.231506
+1952,634 Fischer Point,Peoria,IL,40.713391,-89.581539
+1953,485 Howard Overpass,Chicago,IL,41.907567,-87.576457
+1954,26036 Jessica Flat,Jacksonville,FL,30.352084,-81.690335
+1955,52956 Clark Inlet,Springfield,IL,39.713441,-89.697651
+1956,14639 Marshall Tunnel,Fresno,CA,36.739632,-119.864483
+1957,412 Kendra Heights,Austin,TX,30.381627,-97.643567
+1958,48244 Perez Lodge,Buffalo,NY,42.942531,-78.86364
+1959,3613 Lopez Path,San Antonio,TX,29.345059,-98.454368
+1960,004 Jessica Roads,Hialeah,FL,25.851773,-80.289277
+1961,8287 Jessica Shore,San Diego,CA,33.04819,-117.009202
+1962,2316 Jessica Oval,Rockford,IL,42.24282,-89.064924
+1963,38337 Sarah Isle,San Francisco,CA,37.748846,-122.46559
+1964,9971 Jennifer Plain,Springfield,IL,39.701195,-89.650458
+1965,052 Andrews Isle,Elgin,IL,42.048044,-88.230437
+1966,71131 Robinson Isle,Miami,FL,25.808719,-80.254041
+1967,679 Campbell Dale,Peoria,IL,40.785275,-89.525323
+1968,0314 Berry Tunnel,Long Beach,CA,33.798179,-118.123655
+1969,5049 Gibbs Avenue,Mount Vernon,NY,40.915616,-73.8276
+1970,3485 Lyons Extension,Tampa,FL,27.982104,-82.404902
+1971,78215 Kelly Port,Jacksonville,FL,30.383135,-81.617328
+1972,1516 Bridges Stream,New York,NY,40.745158,-73.939232
+1973,39940 Kristin Overpass,Naperville,IL,41.718086,-88.119367
+1974,7854 Joel Forge,Yonkers,NY,40.901806,-73.880283
+1975,26597 Frey Passage,Dallas,TX,32.718255,-96.875536
+1976,6807 Moore Valley,Miami,FL,25.868117,-80.267479
+1977,7653 Bullock Run,Oakland,CA,37.842304,-122.263332
+1978,3635 Patricia Orchard,Dallas,TX,32.799915,-96.868675
+1979,669 Johnson Cove,Syracuse,NY,43.076634,-76.107487
+1980,301 Harris Manors,Syracuse,NY,43.056199,-76.152045
+1981,32878 Morgan Cliffs,Miami,FL,25.779189,-80.192894
+1982,13241 David Glens,Tampa,FL,27.920774,-82.449852
+1983,89968 Amy Stravenue,Peoria,IL,40.712965,-89.502273
+1984,775 Barnett Isle,Elgin,IL,42.046254,-88.278561
+1985,2749 Thompson Mount,Hialeah,FL,25.898567,-80.271223
+1986,9980 Woods Forges,San Jose,CA,37.2388,-122.04502
+1987,7249 Timothy Square,Fresno,CA,36.879438,-119.842757
+1988,689 Katherine Points,Hialeah,FL,25.898484,-80.270601
+1989,714 Fox Pass,Oakland,CA,37.773559,-122.222838
+1990,721 Hunter Heights,New York,NY,40.74586,-73.986823
+1991,77465 Shaw Bypass,Houston,TX,30.058421,-95.086035
+1992,5906 Fitzpatrick Freeway,Fresno,CA,36.728369,-119.831221
+1993,18896 Ruben Track,Mount Vernon,NY,40.918468,-73.828517
+1994,99067 Jessica Divide,Orlando,FL,28.582642,-81.45383
+1995,5256 Friedman Plaza,Orlando,FL,28.476504,-81.39955
+1996,76422 Lawrence Streets,Mount Vernon,NY,40.900283,-73.828822
+1997,3120 Kenneth Glen,Corpus Christi,TX,27.739415,-97.430071
+1998,7171 Todd Streets,Syracuse,NY,43.039754,-76.196935
+1999,122 Fernandez Islands,Yonkers,NY,40.9349,-73.854831
+2000,112 Scott Pass,San Jose,CA,37.270355,-121.956478
+2001,05344 Stewart Summit,New Rochelle,NY,40.900167,-73.751942
+2002,72532 Cole Land,Houston,TX,29.939467,-95.414395
+2003,93083 Levine Estates,Rochester,NY,43.163156,-77.662469
+2004,161 Christina Squares,El Paso,TX,31.827441,-106.386928
+2005,603 Bowen Pike,San Jose,CA,37.215926,-121.808744
+2006,455 William Knoll,San Francisco,CA,37.726979,-122.427
+2007,79495 Kathleen Flats,San Diego,CA,32.930192,-117.009928
+2008,916 Alexander Locks,Syracuse,NY,43.002962,-76.109678
+2009,216 Smith Branch,Miami,FL,25.777525,-80.102564
+2010,4884 Laura Field,Houston,TX,29.716398,-95.32982
+2011,222 Garcia Squares,Tampa,FL,27.926355,-82.424268
+2012,5937 Angela Course,Long Beach,CA,33.779541,-118.132418
+2013,21550 Debbie Field,Orlando,FL,28.534971,-81.409234
+2014,85080 Gutierrez Gateway,Long Beach,CA,33.761461,-118.105961
+2015,60070 Emily Viaduct,Fort Worth,TX,32.76405,-97.358761
+2016,314 Cody Valleys,St. Petersburg,FL,27.739189,-82.654405
+2017,466 Lynn Extensions,Houston,TX,30.024485,-95.494504
+2018,615 Edwards Greens,El Paso,TX,31.701738,-106.470052
+2019,75111 Alvarez Plains,Yonkers,NY,40.917329,-73.887573
+2020,8038 Alexis Light,Orlando,FL,28.549456,-81.463197
+2021,9706 James Road,Mount Vernon,NY,40.905961,-73.82627
+2022,757 Veronica Views,Tallahassee,FL,30.40065,-84.226337
+2023,4832 Stacey Mount,New Rochelle,NY,40.918819,-73.771949
+2024,611 Logan Mill,Yonkers,NY,40.925352,-73.876416
+2025,178 Garcia Via,St. Petersburg,FL,27.729327,-82.674137
+2026,74337 Nathaniel Cliff,Fort Lauderdale,FL,26.105741,-80.184407
+2027,805 Jacob Inlet,St. Petersburg,FL,27.751674,-82.673318
+2028,038 Robles Port,Hialeah,FL,25.888107,-80.279554
+2029,4504 Shah Garden,St. Petersburg,FL,27.729122,-82.617889
+2030,57138 Tracy Rapids,Jacksonville,FL,30.398182,-81.682551
+2031,7439 Noble Village,Chicago,IL,41.816261,-87.653062
+2032,55617 Marcus Curve,New York,NY,40.702219,-73.958144
+2033,081 Gloria Village,Tallahassee,FL,30.492476,-84.219414
+2034,224 Hall Burg,Syracuse,NY,43.077298,-76.170374
+2035,876 Shelby Square,Long Beach,CA,33.775731,-118.169658
+2036,8002 Michael Cliff,San Diego,CA,32.836252,-117.147515
+2037,757 Miller Plaza,Arlington,TX,32.719277,-97.14127
+2038,819 French Drives,Naperville,IL,41.734909,-88.14972
+2039,4845 Lori Cliff,San Antonio,TX,29.410851,-98.504495
+2040,1884 Dean Junction,Rochester,NY,43.147623,-77.627267
+2041,36055 Melendez Groves,Buffalo,NY,42.890398,-78.845058
+2042,1425 Carolyn Forges,Sacramento,CA,38.56501,-121.516627
+2043,05834 Hudson Run,Chicago,IL,41.967823,-87.667949
+2044,0145 Haynes Extensions,Oakland,CA,37.764567,-122.261864
+2045,84993 Barajas Row,Buffalo,NY,42.853992,-78.876312
+2046,677 Michael Locks,Orlando,FL,28.523537,-81.377329
+2047,8185 Hernandez Loaf,Los Angeles,CA,34.043999,-118.646057
+2048,25272 James Cove,Springfield,IL,39.72459,-89.601453
+2049,08442 Chapman Squares,Elgin,IL,42.001596,-88.213215
+2050,91387 Rivera Islands,Arlington,TX,32.735803,-97.161712
+2051,10572 William Hollow,San Diego,CA,32.932381,-117.012616
+2052,6595 Graves Wells,San Antonio,TX,29.362396,-98.505918
+2053,50215 Roberta Lock,Fresno,CA,36.849693,-119.849909
+2054,6677 Jennifer Coves,Naperville,IL,41.790978,-88.172694
+2055,312 Kristen Corners,Arlington,TX,32.763392,-97.121281
+2056,4596 Roberson Spur,Sacramento,CA,38.572058,-121.559302
+2057,46253 Matthew Flat,Arlington,TX,32.70194,-97.165775
+2058,630 Miller Flat,Springfield,IL,39.734339,-89.604855
+2059,8975 Christine Falls,Oakland,CA,37.749343,-122.253783
+2060,7883 Fox Ports,Arlington,TX,32.713429,-97.182277
+2061,1875 Campbell Haven,Houston,TX,29.979936,-95.200298
+2062,165 Michael Wall,Oakland,CA,37.803198,-122.218896
+2063,5365 Ward Canyon,Los Angeles,CA,34.129271,-118.573027
+2064,959 Coleman Groves,Dallas,TX,32.708935,-96.724993
+2065,10365 Michael Branch,Fort Lauderdale,FL,26.183395,-80.173424
+2066,960 Angela Spur,Long Beach,CA,33.791065,-118.11725
+2067,690 Stevenson Extensions,San Francisco,CA,37.75313,-122.493135
+2068,242 Amanda Dale,Houston,TX,29.851454,-95.43053
+2069,83238 Moran Haven,Austin,TX,30.202528,-97.69705
+2070,61266 Benjamin Flat,Joliet,IL,41.581147,-88.008992
+2071,7153 Hawkins Motorway,Yonkers,NY,40.92833,-73.899225
+2072,7258 Kendra Squares,Sacramento,CA,38.564928,-121.555498
+2073,9763 Heather Field,Austin,TX,30.349282,-97.609567
+2074,295 Wright Mews,Elgin,IL,42.023477,-88.288443
+2075,483 David Plains,St. Petersburg,FL,27.785281,-82.667045
+2076,089 Sanchez Drives,Peoria,IL,40.71721,-89.566821
+2077,0740 Duncan Garden,El Paso,TX,31.847055,-106.430024
+2078,9271 Kaiser Garden,Fort Worth,TX,32.778229,-97.376368
+2079,0597 William Cape,Elgin,IL,42.002204,-88.207979
+2080,984 Nichols Summit,New Rochelle,NY,40.900035,-73.770698
+2081,5039 Bradley Ferry,Rockford,IL,42.202729,-89.015028
+2082,35597 Edwards Center,Springfield,IL,39.75889,-89.642633
+2083,04911 Lisa Hollow,Austin,TX,30.286995,-97.683873
+2084,43077 Wilson Inlet,Tampa,FL,27.99736,-82.451406
+2085,8199 Emily Way,Arlington,TX,32.739137,-97.156109
+2086,8143 Roberts Cove,San Diego,CA,32.728445,-117.120488
+2087,80168 Chandler Shore,Buffalo,NY,42.873388,-78.833935
+2088,70241 Jasmine Lakes,Tampa,FL,27.971739,-82.460075
+2089,0196 Spencer Pines,Los Angeles,CA,34.118211,-118.513091
+2090,19887 Sandra Spurs,Peoria,IL,40.743988,-89.570636
+2091,2476 Cole Inlet,Arlington,TX,32.788925,-97.127675
+2092,7814 Anthony Crest,Rochester,NY,43.119239,-77.683288
+2093,77578 Holland Track,Jacksonville,FL,30.39277,-81.659133
+2094,9785 Sheri Brooks,Arlington,TX,32.76752,-97.187144
+2095,926 Danielle Turnpike,Peoria,IL,40.788065,-89.565553
+2096,3771 Wang Falls,Buffalo,NY,42.947656,-78.846541
+2097,100 Dean Mountains,Rockford,IL,42.292994,-89.080272
+2098,861 Carla Stravenue,Aurora,IL,41.759543,-88.242444
+2099,7424 Saunders Land,San Francisco,CA,37.707687,-122.398159
+2100,552 Jimmy Valley,Buffalo,NY,42.881438,-78.803343
+2101,8600 Jennifer Causeway,San Francisco,CA,37.737945,-122.433245
+2102,90165 Cochran Key,Naperville,IL,41.765931,-88.120875
+2103,472 Baker Center,El Paso,TX,31.876508,-106.374894
+2104,1095 Morales Place,San Jose,CA,37.358537,-121.948639
+2105,655 David Vista,Rockford,IL,42.271609,-89.039967
+2106,02216 Archer Plains,Aurora,IL,41.729055,-88.223241
+2107,2516 Branch Spurs,Peoria,IL,40.790183,-89.555187
+2108,77301 Kevin Port,Dallas,TX,32.857452,-96.796515
+2109,73473 Jamie Tunnel,Tampa,FL,27.93113,-82.427008
+2110,045 Thomas Rapid,Dallas,TX,32.880698,-96.851626
+2111,4326 Henry Coves,San Francisco,CA,37.792749,-122.354761
+2112,78671 Alan Extension,Syracuse,NY,43.099344,-76.14464
+2113,5259 Miller Passage,Sacramento,CA,38.640584,-121.424356
+2114,54560 Evans Course,Yonkers,NY,40.911351,-73.89527
+2115,501 Yates Light,Albany,NY,42.647275,-73.777026
+2116,741 White Common,Rockford,IL,42.261311,-89.014637
+2117,2432 Kristin Canyon,Fort Worth,TX,32.727246,-97.307121
+2118,1338 Andrew Mountains,Rochester,NY,43.136649,-77.65171
+2119,01993 Carrie Wells,Los Angeles,CA,34.099088,-118.246389
+2120,759 Brandi Highway,Los Angeles,CA,34.249561,-118.285101
+2121,052 Jose Inlet,Houston,TX,29.899937,-95.370253
+2122,88407 Jennifer Circles,New Rochelle,NY,40.912535,-73.769683
+2123,7606 Christina Mountains,Albany,NY,42.642663,-73.753603
+2124,241 Peterson Curve,Naperville,IL,41.726502,-88.123051
+2125,73120 Jessica Overpass,Corpus Christi,TX,27.81827,-97.324182
+2126,5375 Calderon Ferry,Oakland,CA,37.837734,-122.231426
+2127,59183 Zachary Plains,Corpus Christi,TX,27.785276,-97.480453
+2128,745 Lewis Burgs,Hialeah,FL,25.8842,-80.278143
+2129,839 Gina Prairie,San Antonio,TX,29.575262,-98.411937
+2130,71039 Moore Garden,San Jose,CA,37.210368,-121.977629
+2131,37929 Theresa Plaza,Miami,FL,25.746023,-80.281148
+2132,7015 Barry Drive,Peoria,IL,40.730455,-89.577053
+2133,2314 Cook Circle,Chicago,IL,41.910033,-87.513262
+2134,025 Chloe Corner,San Diego,CA,33.030189,-117.000517
+2135,741 Wilson Bridge,Syracuse,NY,43.092373,-76.147486
+2136,16563 Davis Neck,Naperville,IL,41.782733,-88.113329
+2137,3427 Tanner Pike,Hialeah,FL,25.876173,-80.254195
+2138,4119 Jones Cape,Joliet,IL,41.560152,-88.036475
+2139,740 Wilson Trail,Springfield,IL,39.738045,-89.609131
+2140,24065 Michele Coves,Oakland,CA,37.769535,-122.220092
+2141,712 Brown Spur,Austin,TX,30.233378,-97.686912
+2142,6461 Smith Skyway,Jacksonville,FL,30.387538,-81.685917
+2143,719 Belinda Trail,Elgin,IL,42.0321,-88.226271
+2144,0413 Mcmillan Plains,El Paso,TX,31.856386,-106.422698
+2145,12282 Caleb Overpass,Syracuse,NY,43.077496,-76.11908
+2146,31145 Lindsey Fields,Albany,NY,42.637418,-73.768973
+2147,777 Brock Shores,Houston,TX,30.044397,-95.176114
+2148,863 Zhang Crossroad,Long Beach,CA,33.792013,-118.117441
+2149,955 Perry Lights,Buffalo,NY,42.92719,-78.899495
+2150,201 Lewis Pike,Hialeah,FL,25.883501,-80.259485
+2151,730 Martin Glens,Fort Lauderdale,FL,26.154434,-80.125956
+2152,8580 Garrett Place,Chicago,IL,41.836624,-87.592298
+2153,344 Jones Turnpike,Corpus Christi,TX,27.788009,-97.31959
+2154,867 Anthony Groves,Fresno,CA,36.807985,-119.704348
+2155,31337 Martinez Common,Springfield,IL,39.762238,-89.635701
+2156,285 Latoya Freeway,Fort Lauderdale,FL,26.114624,-80.105899
+2157,252 Samantha Throughway,Tampa,FL,27.90894,-82.458279
+2158,672 Snyder Spur,St. Petersburg,FL,27.708553,-82.636193
+2159,72797 French Flats,Miami,FL,25.749424,-80.100849
+2160,53291 Samuel Glens,Syracuse,NY,43.069486,-76.166015
+2161,580 Williams Ridges,Mount Vernon,NY,40.914866,-73.828231
+2162,1255 Steven Coves,San Diego,CA,33.026014,-117.115911
+2163,291 Megan Cliff,Fort Lauderdale,FL,26.106676,-80.146765
+2164,0428 Michelle Pines,St. Petersburg,FL,27.752095,-82.635397
+2165,51977 Ortega Terrace,Naperville,IL,41.765337,-88.175322
+2166,7894 Silva Junctions,Dallas,TX,32.853816,-96.859957
+2167,53414 Escobar Place,Austin,TX,30.355675,-97.751648
+2168,27194 Watson Fall,Albany,NY,42.650695,-73.787302
+2169,41782 Bill Roads,Aurora,IL,41.723136,-88.249844
+2170,77628 Emily Shoals,Austin,TX,30.328292,-97.616158
+2171,66757 Castillo Road,Hialeah,FL,25.873684,-80.295285
+2172,93825 Coleman Unions,Hialeah,FL,25.853017,-80.272924
+2173,435 Smith Course,Corpus Christi,TX,27.894518,-97.375018
+2174,20511 Mooney Stravenue,Elgin,IL,42.046431,-88.257008
+2175,931 Kelly Haven,Springfield,IL,39.71901,-89.680436
+2176,5372 Jones Highway,Buffalo,NY,42.864334,-78.81223
+2177,52546 Bauer Village,Syracuse,NY,43.019314,-76.171337
+2178,4951 Jennifer Villages,New Rochelle,NY,40.913218,-73.778143
+2179,672 Rachel Islands,Fresno,CA,36.865593,-119.727351
+2180,436 Karen Walk,Springfield,IL,39.756825,-89.60376
+2181,7303 Donna Branch,Aurora,IL,41.73784,-88.248425
+2182,9437 Wallace Burgs,Albany,NY,42.637028,-73.764183
+2183,3421 Golden Ridges,San Francisco,CA,37.770649,-122.342664
+2184,385 Barbara Trace,Corpus Christi,TX,27.731644,-97.496003
+2185,022 Deleon Drive,San Francisco,CA,37.739446,-122.451315
+2186,7658 Jeffrey Fort,Miami,FL,25.758339,-80.270084
+2187,598 Watson Pass,Syracuse,NY,43.037495,-76.174575
+2188,876 Kenneth Plains,Orlando,FL,28.464371,-81.389309
+2189,60120 Savage Mountains,Buffalo,NY,42.855822,-78.89355
+2190,865 Johnson Circles,Jacksonville,FL,30.325185,-81.604164
+2191,8557 Yoder Forest,Albany,NY,42.632436,-73.759566
+2192,7962 Donna Loop,Joliet,IL,41.5851,-88.039212
+2193,271 Robert Union,Chicago,IL,41.879096,-87.61485
+2194,9930 Anderson Corner,Syracuse,NY,43.007721,-76.174887
+2195,002 Newman Ramp,Naperville,IL,41.797317,-88.178277
+2196,526 Kristin Light,Hialeah,FL,25.889398,-80.258051
+2197,6135 Smith Overpass,Long Beach,CA,33.752313,-118.113776
+2198,304 Knight Locks,Austin,TX,30.31581,-97.78027
+2199,131 Megan Manor,Tampa,FL,27.902736,-82.473774
+2200,4017 Rebecca Islands,San Jose,CA,37.358442,-121.816717
+2201,702 Emily Corner,Chicago,IL,41.829437,-87.52449
+2202,79152 Jones Plaza,Houston,TX,29.720453,-95.169319
+2203,82497 Christopher Keys,Rochester,NY,43.13162,-77.63056
+2204,06925 Johnson Forge,Long Beach,CA,33.759741,-118.129748
+2205,6450 Smith Tunnel,Tampa,FL,27.933608,-82.414015
+2206,67010 Diane Cove,Chicago,IL,41.867246,-87.694495
+2207,4697 Jones Vista,Fresno,CA,36.740247,-119.766865
+2208,4220 Amber Stream,Fort Worth,TX,32.888971,-97.369092
+2209,2465 Vang River,Elgin,IL,42.004754,-88.241261
+2210,8862 Rivas Bypass,Fresno,CA,36.761036,-119.874081
+2211,76698 Harmon Fields,Elgin,IL,42.031815,-88.261954
+2212,1803 Ryan Hollow,Jacksonville,FL,30.370553,-81.671578
+2213,621 Andrea Stravenue,Albany,NY,42.645356,-73.777001
+2214,474 Rodriguez Lake,Yonkers,NY,40.940141,-73.871575
+2215,2753 Dean Circles,Jacksonville,FL,30.350096,-81.6821
+2216,1711 Good Hill,Houston,TX,30.004822,-95.029984
+2217,095 John Trail,El Paso,TX,31.863321,-106.427821
+2218,2114 Garza Way,El Paso,TX,31.720703,-106.367163
+2219,11394 Harold Knoll,Rochester,NY,43.147919,-77.682623
+2220,37805 Ricky Trace,Naperville,IL,41.797434,-88.11725
+2221,562 Reed Wall,Rochester,NY,43.182631,-77.610244
+2222,816 Michael Burgs,Elgin,IL,42.010743,-88.294558
+2223,246 Mark Plaza,Fort Worth,TX,32.849778,-97.33659
+2224,2083 Brittany Camp,Corpus Christi,TX,27.844043,-97.404238
+2225,8040 Brandt Terrace,Springfield,IL,39.727356,-89.602369
+2226,26344 Nash Causeway,St. Petersburg,FL,27.782486,-82.621007
+2227,699 Velasquez Pines,Buffalo,NY,42.891989,-78.821973
+2228,77541 Spence Mountain,Arlington,TX,32.768556,-97.192245
+2229,07061 Samantha Expressway,Oakland,CA,37.817316,-122.259467
+2230,254 Christopher Village,Naperville,IL,41.798982,-88.171102
+2231,528 Jason Estate,Chicago,IL,41.951677,-87.525473
+2232,031 Matthew Road,Rockford,IL,42.242486,-89.04214
+2233,82878 Brown Haven,Los Angeles,CA,33.989356,-118.218003
+2234,19583 Rose Harbor,Houston,TX,29.867833,-95.463203
+2235,9961 Garcia Road,Long Beach,CA,33.770191,-118.138473
+2236,99401 Alexa Lodge,Syracuse,NY,43.044716,-76.103693
+2237,72014 Bailey Bridge,Jacksonville,FL,30.395694,-81.645835
+2238,50660 Marissa Canyon,San Francisco,CA,37.773965,-122.452649
+2239,63472 Young Vista,El Paso,TX,31.893279,-106.309467
+2240,0869 Julie Hill,Rochester,NY,43.10794,-77.648993
+2241,851 Alan Oval,Jacksonville,FL,30.337983,-81.663208
+2242,707 Zavala Road,Hialeah,FL,25.87246,-80.278866
+2243,853 Walker Plains,New Rochelle,NY,40.909183,-73.77772
+2244,5199 Rebecca Parkways,Mount Vernon,NY,40.905425,-73.827817
+2245,9142 Ellis Cape,Sacramento,CA,38.631729,-121.441592
+2246,0495 Serrano Field,Springfield,IL,39.775641,-89.628553
+2247,9058 Amber Streets,Fort Worth,TX,32.721461,-97.345718
+2248,967 Jeff Canyon,Peoria,IL,40.724343,-89.596083
+2249,954 Bruce Valley,El Paso,TX,31.709316,-106.41914
+2250,9621 Schultz Pine,Houston,TX,29.710534,-95.188812
+2251,47817 Kathryn Place,St. Petersburg,FL,27.744343,-82.675517
+2252,478 Christopher Rue,Houston,TX,30.058989,-95.384272
+2253,77390 Adam Via,Joliet,IL,41.595282,-88.048097
+2254,41347 Christopher Circles,Peoria,IL,40.751491,-89.585883
+2255,04408 Megan Meadows,Tampa,FL,27.962287,-82.433397
+2256,1273 James Square,Rockford,IL,42.283299,-89.069425
+2257,76987 Nichols Locks,San Diego,CA,32.857978,-117.107681
+2258,99402 Cook View,Naperville,IL,41.7048,-88.126371
+2259,568 White Drive,Naperville,IL,41.7077,-88.166329
+2260,7002 Jefferson Falls,Orlando,FL,28.427511,-81.314604
+2261,5918 Rodriguez Lights,Sacramento,CA,38.580641,-121.597396
+2262,2325 Jennifer Villages,Springfield,IL,39.742877,-89.672207
+2263,4172 Fleming Road,Fort Lauderdale,FL,26.112773,-80.127987
+2264,9634 James Turnpike,New Rochelle,NY,40.916337,-73.774538
+2265,895 Nunez Pass,Tampa,FL,27.997645,-82.474576
+2266,0182 William Park,New York,NY,40.716849,-73.950988
+2267,39991 Ryan Oval,Naperville,IL,41.718077,-88.183851
+2268,5473 Dorothy Keys,Chicago,IL,41.803503,-87.568063
+2269,02276 Chavez Garden,Rockford,IL,42.280832,-89.005365
+2270,607 Cassidy Court,Orlando,FL,28.583152,-81.393396
+2271,7238 Lawrence Locks,Chicago,IL,41.941574,-87.529316
+2272,887 Graham Haven,Fort Lauderdale,FL,26.151383,-80.163824
+2273,84235 Micheal Row,Aurora,IL,41.77725,-88.224963
+2274,465 Chad Mill,Naperville,IL,41.776147,-88.141049
+2275,2129 Wendy Street,Fresno,CA,36.866358,-119.772245
+2276,6386 Kathryn Centers,Houston,TX,29.889427,-95.277505
+2277,62568 Fuller Key,Oakland,CA,37.716247,-122.203101
+2278,4584 Amy Crest,New Rochelle,NY,40.915471,-73.753437
+2279,686 Reyes Junction,Aurora,IL,41.709579,-88.272314
+2280,763 Walker Island,Naperville,IL,41.758096,-88.156101
+2281,188 Steven Cliff,Oakland,CA,37.782878,-122.251518
+2282,8355 Ryan Port,Springfield,IL,39.724601,-89.697202
+2283,33973 Larson Motorway,Fresno,CA,36.808121,-119.721881
+2284,3286 Patricia Prairie,Houston,TX,29.835674,-95.200267
+2285,7516 Jeffrey Lane,Orlando,FL,28.404317,-81.368849
+2286,675 Diaz Prairie,San Francisco,CA,37.706269,-122.335555
+2287,73774 Robinson Hill,St. Petersburg,FL,27.725194,-82.661192
+2288,62007 Beard Forest,Mount Vernon,NY,40.911955,-73.82073
+2289,19033 Tiffany Points,San Francisco,CA,37.721992,-122.315968
+2290,38093 Suarez Coves,Elgin,IL,42.037208,-88.248301
+2291,31288 Lori Square,Chicago,IL,41.805574,-87.564664
+2292,960 Joseph Passage,Elgin,IL,42.030404,-88.237999
+2293,504 Mann Dale,Rockford,IL,42.269469,-89.047539
+2294,228 Barbara Loaf,San Diego,CA,32.852479,-116.985644
+2295,289 Gomez Vista,Elgin,IL,42.042028,-88.270782
+2296,869 Jonathan Plaza,Tampa,FL,27.952804,-82.452884
+2297,259 Linda Ramp,San Jose,CA,37.273653,-121.907019
+2298,0530 Sherry Way,New York,NY,40.764723,-73.934625
+2299,398 Price Plain,Sacramento,CA,38.60648,-121.586669
+2300,083 Little Lodge,Houston,TX,29.713373,-95.20268
+2301,682 Katherine Flat,Los Angeles,CA,34.058329,-118.143628
+2302,3650 Casey Park,Elgin,IL,42.036192,-88.214047
+2303,4246 Moore Shoal,Rochester,NY,43.172511,-77.608334
+2304,9848 Mckinney Flats,New Rochelle,NY,40.902138,-73.773653
+2305,2498 Timothy Harbor,Austin,TX,30.396193,-97.629842
+2306,2399 Harper Plains,New Rochelle,NY,40.912339,-73.750481
+2307,79783 Edward Tunnel,Naperville,IL,41.797755,-88.156297
+2308,96572 John Expressway,Buffalo,NY,42.898043,-78.869485
+2309,0849 David Green,San Jose,CA,37.382366,-121.875363
+2310,48961 Brandon Village,Miami,FL,25.76903,-80.266756
+2311,21485 Wright Forges,Elgin,IL,42.018566,-88.220369
+2312,1290 Foley Haven,Hialeah,FL,25.856011,-80.287446
+2313,74752 Hailey Trail,New York,NY,40.751176,-73.987733
+2314,847 Pamela Manor,Aurora,IL,41.771045,-88.279292
+2315,7622 Bailey Station,El Paso,TX,31.726775,-106.323102
+2316,295 Malone Mission,Hialeah,FL,25.857239,-80.272418
+2317,3097 Tommy Prairie,Hialeah,FL,25.863036,-80.272937
+2318,4151 Clark Estate,San Diego,CA,32.922976,-116.914885
+2319,74099 Vanessa Circles,Los Angeles,CA,34.114427,-118.400038
+2320,47660 Williams Pass,Arlington,TX,32.72717,-97.148827
+2321,8566 Michelle Gateway,Dallas,TX,32.790339,-96.825376
+2322,64628 Edwards Drive,Tallahassee,FL,30.454094,-84.2541
+2323,19693 Charles Shoal,Chicago,IL,41.933303,-87.54482
+2324,9344 Kim Road,Rochester,NY,43.198875,-77.635673
+2325,6440 Bates Rapid,Long Beach,CA,33.793788,-118.154877
+2326,9324 Robert Grove,Sacramento,CA,38.695018,-121.47729
+2327,6642 Abbott Locks,Syracuse,NY,43.089096,-76.163378
+2328,632 Thomas Mill,San Francisco,CA,37.739785,-122.36973
+2329,953 Simon Forges,San Jose,CA,37.352438,-121.985199
+2330,875 Price Road,Elgin,IL,42.001638,-88.213632
+2331,4521 Daniel Manors,Tallahassee,FL,30.497953,-84.23409
+2332,6774 Kenneth Summit,Hialeah,FL,25.852094,-80.252158
+2333,4715 Jennifer Trace,San Francisco,CA,37.73377,-122.405482
+2334,61690 Steven Lock,Buffalo,NY,42.903349,-78.853914
+2335,3518 Alexander Gateway,Joliet,IL,41.549985,-88.057515
+2336,9781 Leonard Mills,Fort Lauderdale,FL,26.165999,-80.164952
+2337,25112 Miguel Fords,Aurora,IL,41.724012,-88.270726
+2338,932 Church Well,Aurora,IL,41.70977,-88.289468
+2339,8157 Mary Glen,Rockford,IL,42.212549,-89.09998
+2340,728 Mary Knolls,Springfield,IL,39.746431,-89.680398
+2341,512 Victoria Cliff,Miami,FL,25.768277,-80.120268
+2342,729 Ashley Key,Fort Lauderdale,FL,26.135031,-80.179724
+2343,0781 Brendan Land,El Paso,TX,31.706142,-106.438784
+2344,534 Patricia Circle,Tampa,FL,27.942142,-82.485771
+2345,924 Beck Forest,El Paso,TX,31.787446,-106.380776
+2346,645 Jackson Stravenue,Springfield,IL,39.728634,-89.683707
+2347,462 Jackson Bridge,Naperville,IL,41.7912,-88.113245
+2348,55834 Williams Parks,Joliet,IL,41.524591,-88.039745
+2349,9627 Huynh Lock,Fresno,CA,36.731294,-119.819983
+2350,57309 Brandy Radial,Elgin,IL,42.047206,-88.200872
+2351,376 Susan Road,San Jose,CA,37.398441,-121.981283
+2352,5961 Nancy Via,Rockford,IL,42.223626,-89.002406
+2353,57916 Jade Walk,Sacramento,CA,38.530442,-121.490519
+2354,06032 Strong Forges,Naperville,IL,41.779649,-88.163228
+2355,0531 Mccullough Shores,St. Petersburg,FL,27.719789,-82.672875
+2356,386 Clark Estate,Sacramento,CA,38.505932,-121.567231
+2357,98345 Marie Mountain,Chicago,IL,41.970712,-87.526706
+2358,82456 Garcia Station,Corpus Christi,TX,27.72662,-97.47236
+2359,879 Adam Glens,Mount Vernon,NY,40.908138,-73.822986
+2360,58640 Sellers Underpass,Los Angeles,CA,34.092885,-118.63491
+2361,9297 Cortez Falls,Mount Vernon,NY,40.907396,-73.828985
+2362,680 Nathaniel Drive,San Jose,CA,37.254144,-122.021351
+2363,73025 Kirby Loop,Corpus Christi,TX,27.734958,-97.436927
+2364,903 Carter Views,San Diego,CA,32.796686,-116.957315
+2365,0751 Sullivan Underpass,Houston,TX,29.976193,-95.108085
+2366,3540 John Stravenue,Orlando,FL,28.548312,-81.42999
+2367,3167 Hall Falls,St. Petersburg,FL,27.742395,-82.69921
+2368,5605 Robbins Dale,San Diego,CA,32.852312,-117.041799
+2369,5076 Stephen Roads,Buffalo,NY,42.867147,-78.832836
+2370,895 Conner Junction,Hialeah,FL,25.865887,-80.260265
+2371,37271 Brown Knoll,Elgin,IL,42.028036,-88.200088
+2372,6287 Isaac Squares,El Paso,TX,31.887584,-106.382745
+2373,26312 Williams Meadows,Orlando,FL,28.569725,-81.351277
+2374,29574 Santiago Ridge,Fort Worth,TX,32.874055,-97.394463
+2375,6449 Amanda Mountains,Naperville,IL,41.704234,-88.132012
+2376,7156 Hinton Port,El Paso,TX,31.745037,-106.425097
+2377,85728 Lopez Streets,Elgin,IL,42.004251,-88.255149
+2378,88743 Howard Freeway,San Antonio,TX,29.426701,-98.53772
+2379,719 Tina Road,Houston,TX,29.834569,-95.172313
+2380,9888 Stefanie Extensions,Arlington,TX,32.794906,-97.125773
+2381,97248 Rhonda Plaza,Tallahassee,FL,30.403887,-84.222291
+2382,80453 Garner Gardens,Jacksonville,FL,30.347565,-81.68485
+2383,353 Coleman Ports,New Rochelle,NY,40.910649,-73.77414
+2384,218 Jasmine Path,Mount Vernon,NY,40.907511,-73.82794
+2385,540 Barber Court,Elgin,IL,42.046129,-88.24321
+2386,160 Thompson Points,San Jose,CA,37.216342,-122.004045
+2387,9148 Keith Motorway,Corpus Christi,TX,27.881326,-97.351592
+2388,90702 Donna Grove,Rochester,NY,43.139498,-77.614958
+2389,106 Olson Hill,St. Petersburg,FL,27.762668,-82.686631
+2390,469 Boyd Expressway,San Francisco,CA,37.749446,-122.304754
+2391,2831 Joseph Skyway,Yonkers,NY,40.909183,-73.869502
+2392,1405 Jenkins Harbors,Fort Lauderdale,FL,26.110156,-80.133177
+2393,8246 Luis Pines,Austin,TX,30.277747,-97.767523
+2394,8594 Freeman Loop,Rockford,IL,42.258045,-89.031223
+2395,426 Knox Plains,New York,NY,40.792272,-73.960337
+2396,2797 Mckay Terrace,San Francisco,CA,37.719832,-122.341771
+2397,824 Rodriguez View,Springfield,IL,39.744676,-89.606959
+2398,4273 Moore Valleys,San Jose,CA,37.295359,-122.029361
+2399,0751 Huang Unions,Buffalo,NY,42.916085,-78.829644
+2400,25890 Cortez Track,San Jose,CA,37.20773,-121.933063
+2401,582 Michael Union,Sacramento,CA,38.568966,-121.573785
+2402,3671 Mills Vista,Fort Lauderdale,FL,26.199258,-80.178261
+2403,6288 Gary Corner,Springfield,IL,39.713964,-89.61795
+2404,50372 Thomas Rest,Oakland,CA,37.806411,-122.260026
+2405,272 Mcdowell Plaza,Fort Lauderdale,FL,26.121566,-80.184507
+2406,68299 Roth Cliff,Peoria,IL,40.714025,-89.562708
+2407,917 Love Port,El Paso,TX,31.711695,-106.350212
+2408,6841 Burton Courts,New York,NY,40.767405,-73.945794
+2409,13321 Anthony Gardens,Arlington,TX,32.75921,-97.133499
+2410,131 Crane Prairie,New York,NY,40.79818,-73.928072
+2411,35202 Collins Freeway,Jacksonville,FL,30.377506,-81.628495
+2412,61903 Melanie Junction,Long Beach,CA,33.79737,-118.144317
+2413,8078 Jenkins Stravenue,Fort Worth,TX,32.723769,-97.359904
+2414,00765 Evans Spurs,Albany,NY,42.651783,-73.785104
+2415,7052 Lopez Mountain,San Diego,CA,32.736923,-116.913361
+2416,940 April Crossing,Chicago,IL,41.885644,-87.615029
+2417,111 Medina Walks,El Paso,TX,31.769166,-106.348696
+2418,9457 David Mountain,San Diego,CA,32.963989,-117.024003
+2419,65272 Coleman Brooks,Joliet,IL,41.513421,-88.005035
+2420,364 Alyssa Court,New Rochelle,NY,40.91935,-73.77883
+2421,87859 Zachary Park,Tallahassee,FL,30.461146,-84.246773
+2422,398 Ryan Pass,St. Petersburg,FL,27.745387,-82.609039
+2423,53362 Ramsey Lakes,Austin,TX,30.382256,-97.72368
+2424,281 Luna Stravenue,Oakland,CA,37.717838,-122.295766
+2425,55334 Tammy Camp,Joliet,IL,41.598513,-88.017409
+2426,3721 Shannon Spring,Aurora,IL,41.783576,-88.254678
+2427,3875 Willis Mount,Albany,NY,42.657656,-73.79518
+2428,43774 Jeremiah Mill,San Diego,CA,32.70009,-117.191909
+2429,59590 Sherry Mill,St. Petersburg,FL,27.789686,-82.601828
+2430,024 David Rapid,Houston,TX,29.889082,-95.259791
+2431,386 Webb Stravenue,Dallas,TX,32.726825,-96.852574
+2432,3211 Daniel Greens,Rochester,NY,43.120419,-77.670062
+2433,7284 Mario Pine,New York,NY,40.731227,-73.948083
+2434,8992 Nicole Plains,Rockford,IL,42.264889,-89.028772
+2435,95893 Mary Avenue,Miami,FL,25.895886,-80.295986
+2436,4917 Peterson Falls,Aurora,IL,41.782119,-88.218479
+2437,665 Leslie Mountains,San Jose,CA,37.378069,-121.974767
+2438,7788 Hardin Vista,San Francisco,CA,37.744784,-122.47957
+2439,17431 Jonathan Branch,Fort Worth,TX,32.752056,-97.324526
+2440,3333 Daniel Ports,El Paso,TX,31.830398,-106.391784
+2441,01844 Morgan Crest,Naperville,IL,41.790046,-88.198286
+2442,47821 Mariah Cove,Tampa,FL,27.901089,-82.401433
+2443,005 Theresa Hollow,El Paso,TX,31.870454,-106.348983
+2444,48213 Christopher Trail,Yonkers,NY,40.910159,-73.877115
+2445,49666 Andre Drive,Fresno,CA,36.876811,-119.783964
+2446,799 Peters Islands,San Diego,CA,32.850165,-116.900395
+2447,58552 Harris Inlet,Fort Worth,TX,32.866281,-97.37451
+2448,82489 Courtney Village,Mount Vernon,NY,40.913941,-73.822251
+2449,2348 James Fork,Yonkers,NY,40.919169,-73.850971
+2450,011 Amy Springs,Rockford,IL,42.244794,-89.062277
+2451,547 Guzman Harbor,Corpus Christi,TX,27.859166,-97.461201
+2452,249 Robert Mountain,Syracuse,NY,43.015519,-76.163822
+2453,01019 Martha Land,Rochester,NY,43.165956,-77.663431
+2454,15597 Christopher Parks,Joliet,IL,41.574375,-88.009146
+2455,016 Wells Springs,San Francisco,CA,37.721429,-122.491199
+2456,1088 Lisa Drive,Buffalo,NY,42.867189,-78.89749
+2457,4037 Matthew Squares,Syracuse,NY,43.018657,-76.108725
+2458,467 Ortega Radial,Mount Vernon,NY,40.91455,-73.821196
+2459,89789 Hurst Well,Houston,TX,29.828816,-95.043329
+2460,2199 Haney Villages,El Paso,TX,31.791844,-106.359844
+2461,2495 Mitchell Mountain,San Antonio,TX,29.44256,-98.582716
+2462,969 Gonzalez Summit,Aurora,IL,41.778133,-88.284134
+2463,63105 Taylor Ville,Los Angeles,CA,34.156016,-118.4353
+2464,277 Kelly Crest,San Jose,CA,37.240779,-122.087804
+2465,595 William Hollow,Aurora,IL,41.795893,-88.287577
+2466,107 David Square,Buffalo,NY,42.929533,-78.891509
+2467,00031 Aaron Walk,Aurora,IL,41.72813,-88.262799
+2468,392 Norman Manor,Rochester,NY,43.138733,-77.659093
+2469,1581 Williams Union,Orlando,FL,28.480916,-81.387412
+2470,8467 Moore Fords,Sacramento,CA,38.693636,-121.446096
+2471,7454 Washington Overpass,Peoria,IL,40.779749,-89.517103
+2472,662 Green Falls,El Paso,TX,31.752737,-106.325315
+2473,296 White Corner,Houston,TX,29.709685,-95.294755
+2474,69042 Ashley Ranch,San Jose,CA,37.261419,-122.091694
+2475,179 Nelson Stream,San Jose,CA,37.369932,-122.084181
+2476,9937 Deanna Inlet,Fresno,CA,36.732003,-119.715124
+2477,00773 Ibarra Inlet,Rockford,IL,42.222588,-89.014057
+2478,73984 Gina Village,Yonkers,NY,40.943814,-73.885574
+2479,827 Lydia Burgs,Miami,FL,25.742271,-80.247399
+2480,308 Clayton Mall,Fort Worth,TX,32.888423,-97.352886
+2481,7307 Russo Creek,Syracuse,NY,43.033541,-76.191325
+2482,78198 Kevin Green,Arlington,TX,32.746744,-97.174837
+2483,00853 Chase Forest,Springfield,IL,39.791081,-89.673275
+2484,3257 Alyssa Squares,Houston,TX,29.735246,-95.44915
+2485,73567 King River,Yonkers,NY,40.915933,-73.888183
+2486,12118 Hoffman Parkways,San Francisco,CA,37.777736,-122.476308
+2487,3780 Daniel Junctions,Rochester,NY,43.14723,-77.666462
+2488,18823 Paul Pass,Syracuse,NY,43.004693,-76.150636
+2489,55173 Ernest Loaf,Jacksonville,FL,30.383759,-81.626227
+2490,9056 Davis Land,San Jose,CA,37.206672,-122.075576
+2491,2927 Murphy Avenue,New York,NY,40.784897,-73.905862
+2492,1500 Hall Walks,Fort Worth,TX,32.766021,-97.334631
+2493,362 Nelson Greens,Fort Worth,TX,32.876563,-97.394079
+2494,684 Wolfe Mall,Tampa,FL,27.922884,-82.408571
+2495,869 Daniel Way,New York,NY,40.775353,-73.901076
+2496,138 Davis Shoal,Austin,TX,30.36401,-97.611174
+2497,449 Brandon Loaf,Yonkers,NY,40.939832,-73.865421
+2498,3556 Donald Tunnel,Rockford,IL,42.226931,-89.055886
+2499,1275 Johnson Isle,Fort Lauderdale,FL,26.18538,-80.186993
+2500,828 Sarah Loop,Elgin,IL,42.046614,-88.268546
+2501,836 Hall Crossing,Springfield,IL,39.79323,-89.684401
+2502,745 John Lock,Miami,FL,25.706076,-80.159599
+2503,4853 Miller Terrace,Dallas,TX,32.731919,-96.825403
+2504,048 Dean Islands,Austin,TX,30.227956,-97.606638
+2505,78640 Stephen Pines,Tampa,FL,27.906867,-82.467688
+2506,913 Aaron Vista,Sacramento,CA,38.559174,-121.457501
+2507,87394 Joshua Turnpike,Buffalo,NY,42.903206,-78.874844
+2508,21579 Williamson Springs,Syracuse,NY,43.098659,-76.174691
+2509,5650 Schultz Parks,Arlington,TX,32.747477,-97.169907
+2510,52889 Randall Forks,Tallahassee,FL,30.467999,-84.285099
+2511,272 Berry Causeway,Peoria,IL,40.759843,-89.579842
+2512,50398 Martinez Prairie,San Jose,CA,37.354362,-121.872249
+2513,63801 Nichols Manor,San Diego,CA,33.031239,-117.132694
+2514,81173 Morris Parkway,Austin,TX,30.279148,-97.708365
+2515,15336 Torres Hollow,Oakland,CA,37.723105,-122.240115
+2516,518 Smith Locks,Buffalo,NY,42.909143,-78.860618
+2517,8983 Johnson Shoal,Hialeah,FL,25.889718,-80.258321
+2518,74419 Daniel Port,Aurora,IL,41.741221,-88.211878
+2519,9102 Kimberly Fields,Orlando,FL,28.432099,-81.489063
+2520,066 Wilson Drive,New York,NY,40.795865,-73.995632
+2521,945 Garcia Via,Elgin,IL,42.016254,-88.234091
+2522,22155 Krueger Terrace,Albany,NY,42.650259,-73.765299
+2523,740 Brenda Highway,Peoria,IL,40.732809,-89.528998
+2524,17997 Christopher Parkways,Elgin,IL,42.029786,-88.261865
+2525,6533 Anderson Haven,New York,NY,40.756674,-73.956749
+2526,88533 Mann Creek,Hialeah,FL,25.851785,-80.27441
+2527,92697 Hahn Inlet,Tampa,FL,27.973082,-82.489713
+2528,7510 Rebecca Plaza,Corpus Christi,TX,27.703573,-97.434292
+2529,3321 Isaiah Underpass,Rochester,NY,43.179393,-77.679478
+2530,94459 Cody Pike,San Antonio,TX,29.485126,-98.555412
+2531,34010 Christopher Vista,Rockford,IL,42.227846,-89.029916
+2532,005 Randy Flat,Miami,FL,25.70606,-80.293939
+2533,7997 Williams Isle,Chicago,IL,41.898064,-87.567348
+2534,2686 Sanchez Corners,New Rochelle,NY,40.90539,-73.778088
+2535,211 Clark Village,Mount Vernon,NY,40.919407,-73.828624
+2536,728 Joseph Summit,Sacramento,CA,38.602474,-121.455951
+2537,249 Brandon Mountains,San Jose,CA,37.327668,-122.015179
+2538,1846 Troy Loop,Buffalo,NY,42.897704,-78.80265
+2539,68303 Pamela Flats,Arlington,TX,32.729931,-97.186558
+2540,99820 Kurt Run,New Rochelle,NY,40.907609,-73.753203
+2541,52904 Scott Valleys,Rockford,IL,42.290415,-89.086485
+2542,992 Kimberly Expressway,Arlington,TX,32.70224,-97.192765
+2543,28365 Quinn River,Springfield,IL,39.760144,-89.607046
+2544,09726 Kenneth Valleys,Joliet,IL,41.594818,-88.090024
+2545,6040 Christine Forges,Houston,TX,30.050583,-95.30233
+2546,405 Daniel Mountain,Jacksonville,FL,30.314009,-81.610322
+2547,6767 Rachel Brooks,Arlington,TX,32.735126,-97.193914
+2548,325 Cassidy Crossroad,Springfield,IL,39.799565,-89.623179
+2549,30140 Moore Drives,Mount Vernon,NY,40.912551,-73.823426
+2550,57854 Rodriguez Fort,Fort Lauderdale,FL,26.183451,-80.101465
+2551,88295 Juarez Grove,Hialeah,FL,25.85734,-80.259392
+2552,5583 Ray Summit,El Paso,TX,31.789608,-106.369804
+2553,0545 Pope Pines,El Paso,TX,31.897646,-106.341919
+2554,4504 Shannon Circle,Tallahassee,FL,30.416132,-84.293016
+2555,5500 Melanie Loop,Springfield,IL,39.758675,-89.646687
+2556,7090 Eileen Underpass,San Antonio,TX,29.358209,-98.46758
+2557,1008 Andrea Path,Naperville,IL,41.778022,-88.125132
+2558,9103 Howard Islands,Fort Worth,TX,32.862058,-97.321649
+2559,128 Joseph Route,Albany,NY,42.651019,-73.751598
+2560,0409 Le Mountain,Buffalo,NY,42.932493,-78.858905
+2561,230 Crystal Way,Yonkers,NY,40.934412,-73.867009
+2562,214 Johnson Valleys,Rochester,NY,43.135213,-77.670863
+2563,5035 Roberts Way,Oakland,CA,37.760449,-122.281267
+2564,714 Hoover Branch,Dallas,TX,32.737523,-96.77861
+2565,7851 Lawrence Keys,Hialeah,FL,25.866553,-80.296745
+2566,585 Everett Meadows,San Diego,CA,32.86655,-117.154334
+2567,74452 Shelly Skyway,St. Petersburg,FL,27.766839,-82.61471
+2568,4915 Peterson Parkways,El Paso,TX,31.71344,-106.464615
+2569,800 Jones Glens,Tallahassee,FL,30.46371,-84.241438
+2570,0115 Jennifer Tunnel,San Jose,CA,37.220226,-121.964765
+2571,515 Murray Cliffs,New York,NY,40.73208,-73.917554
+2572,2904 Thompson Bypass,El Paso,TX,31.793484,-106.331624
+2573,45855 Thomas Harbor,San Jose,CA,37.329077,-121.851723
+2574,2221 Christopher Wells,San Jose,CA,37.291737,-121.8857
+2575,275 Johnny Expressway,Joliet,IL,41.548873,-88.006863
+2576,20971 Moore Lakes,Springfield,IL,39.726959,-89.678907
+2577,9244 Edgar Shores,Fort Lauderdale,FL,26.14326,-80.189438
+2578,82964 Kelly Mountains,Fresno,CA,36.82464,-119.881243
+2579,868 Hannah Greens,San Francisco,CA,37.702566,-122.406124
+2580,93822 Jones Track,Corpus Christi,TX,27.816725,-97.426376
+2581,4640 Jennifer Estate,Springfield,IL,39.725917,-89.698375
+2582,49171 Davis Village,El Paso,TX,31.811484,-106.470288
+2583,87482 Matthew Hill,San Antonio,TX,29.457039,-98.546723
+2584,04431 Mary Extensions,Oakland,CA,37.720156,-122.261789
+2585,394 Gary Overpass,Orlando,FL,28.410533,-81.342933
+2586,167 Wells Bridge,Tampa,FL,27.979539,-82.426724
+2587,21022 Gary Union,Albany,NY,42.634258,-73.764647
+2588,40635 Simmons Meadow,Naperville,IL,41.794732,-88.156586
+2589,058 Cordova View,Naperville,IL,41.790776,-88.104248
+2590,410 Marcia Passage,Tampa,FL,27.939689,-82.4574
+2591,3540 Terri Park,Aurora,IL,41.705269,-88.274313
+2592,07056 David Extension,San Francisco,CA,37.746083,-122.433085
+2593,5741 Allison Parkway,Corpus Christi,TX,27.839207,-97.305511
+2594,947 Sierra Land,San Antonio,TX,29.534018,-98.518075
+2595,129 Julie Pass,Buffalo,NY,42.900546,-78.880262
+2596,46762 Carlson Loop,Joliet,IL,41.506514,-88.047276
+2597,8455 Wallace Ridges,Oakland,CA,37.832995,-122.275168
+2598,42300 Audrey Union,San Diego,CA,33.090578,-116.985069
+2599,25535 Kristy Vista,Yonkers,NY,40.913447,-73.858152
+2600,0247 Allison Landing,Rockford,IL,42.23507,-89.062571
+2601,45853 Rebecca Landing,Arlington,TX,32.778491,-97.106398
+2602,1742 David Roads,Fort Lauderdale,FL,26.188993,-80.159144
+2603,9216 Smith Pike,Sacramento,CA,38.539926,-121.418442
+2604,700 Horton Wall,Buffalo,NY,42.927435,-78.898341
+2605,623 Martin Spring,San Antonio,TX,29.545065,-98.46872
+2606,174 Gordon Fort,Corpus Christi,TX,27.818139,-97.393349
+2607,049 Ruiz Fields,San Jose,CA,37.319786,-122.080299
+2608,6979 Carol Ford,Sacramento,CA,38.637537,-121.406644
+2609,322 Lori Shoals,Joliet,IL,41.552391,-88.074721
+2610,15414 Kimberly Lakes,Jacksonville,FL,30.394695,-81.693217
+2611,2061 Brown Creek,New Rochelle,NY,40.906701,-73.75577
+2612,1530 John Shore,Rochester,NY,43.104524,-77.653898
+2613,97798 Andrew Inlet,Fort Lauderdale,FL,26.126363,-80.120319
+2614,42381 Brady Fort,Oakland,CA,37.754364,-122.214731
+2615,581 Hahn Cliff,Los Angeles,CA,34.288534,-118.65053
+2616,17955 Samantha Avenue,Jacksonville,FL,30.376527,-81.63783
+2617,57174 Michael Island,San Francisco,CA,37.78447,-122.345696
+2618,024 Karen Lodge,Hialeah,FL,25.854144,-80.255746
+2619,054 Garcia Wells,Naperville,IL,41.706704,-88.181694
+2620,334 Bridges Mountain,Naperville,IL,41.738274,-88.16773
+2621,20697 Kyle Locks,Arlington,TX,32.766008,-97.118938
+2622,483 Hannah Rapids,Elgin,IL,42.046909,-88.258375
+2623,918 Olivia Spur,Fresno,CA,36.776019,-119.836448
+2624,1060 Scott Well,St. Petersburg,FL,27.730946,-82.677303
+2625,04592 Jacobs Viaduct,Elgin,IL,42.000423,-88.291466
+2626,08215 Lauren Heights,Fort Lauderdale,FL,26.148061,-80.149676
+2627,717 Taylor Circle,Sacramento,CA,38.613168,-121.416091
+2628,706 Roberts Squares,San Antonio,TX,29.408401,-98.46922
+2629,99122 Todd Lock,Oakland,CA,37.847444,-122.264759
+2630,7195 Gonzalez Wells,St. Petersburg,FL,27.735194,-82.612252
+2631,581 Boyd Freeway,Miami,FL,25.765401,-80.135793
+2632,69149 Garcia Freeway,Fort Worth,TX,32.780543,-97.394162
+2633,7594 Moore Way,Orlando,FL,28.489547,-81.335657
+2634,6815 Haynes Mountains,Yonkers,NY,40.927767,-73.865998
+2635,33856 Daniel Heights,Corpus Christi,TX,27.800308,-97.323945
+2636,7648 Corey Circle,Long Beach,CA,33.790131,-118.155452
+2637,4868 Kendra Bridge,Fort Lauderdale,FL,26.172942,-80.160281
+2638,9832 Brian Groves,Orlando,FL,28.500354,-81.312983
+2639,2503 Tiffany Camp,Sacramento,CA,38.52019,-121.483266
+2640,073 Christopher Port,Houston,TX,29.715943,-95.470744
+2641,5262 Sanchez Plaza,Aurora,IL,41.733716,-88.23453
+2642,243 Dillon Turnpike,Sacramento,CA,38.699432,-121.456729
+2643,297 Ortiz Ford,New Rochelle,NY,40.901556,-73.776552
+2644,0969 Adams Crossing,Fresno,CA,36.77943,-119.888247
+2645,550 Guzman Bypass,San Jose,CA,37.220677,-122.099605
+2646,660 Danielle Plains,Tampa,FL,27.959686,-82.405456
+2647,3816 Kathryn Ridge,Hialeah,FL,25.880965,-80.26204
+2648,85801 Williams Courts,Joliet,IL,41.505665,-88.052293
+2649,33905 Mclaughlin Summit,Tampa,FL,27.988012,-82.459518
+2650,422 Cortez Streets,Albany,NY,42.632781,-73.781666
+2651,475 Martin Mall,Rockford,IL,42.265127,-89.064315
+2652,426 Suarez Fords,Jacksonville,FL,30.300146,-81.662161
+2653,490 Sweeney Alley,New York,NY,40.741685,-73.912375
+2654,5960 Salazar Rapid,Tallahassee,FL,30.403302,-84.275264
+2655,507 Kathy Spring,New Rochelle,NY,40.911941,-73.753731
+2656,5940 William Road,Tampa,FL,27.957327,-82.499113
+2657,860 Martinez Mount,Albany,NY,42.655343,-73.782122
+2658,7962 Kelly Wells,Springfield,IL,39.729957,-89.643931
+2659,17586 Bryant Trail,Fresno,CA,36.778552,-119.789692
+2660,18370 Jose Place,Naperville,IL,41.759297,-88.102793
+2661,8124 Montoya Flats,Buffalo,NY,42.917163,-78.860934
+2662,3801 Michelle Crest,Peoria,IL,40.735257,-89.576125
+2663,0284 Butler Parks,Sacramento,CA,38.593353,-121.598817
+2664,705 Fox Curve,Jacksonville,FL,30.30754,-81.667026
+2665,58123 Haley Forges,San Antonio,TX,29.574144,-98.434309
+2666,925 Mary Forges,San Francisco,CA,37.735604,-122.344911
+2667,085 Jennings Terrace,San Francisco,CA,37.707169,-122.320086
+2668,3714 Kenneth Brook,Chicago,IL,41.818647,-87.683353
+2669,1771 Ernest Ports,San Jose,CA,37.280961,-122.012729
+2670,7200 Barry Locks,Fresno,CA,36.704956,-119.844607
+2671,4069 Hannah Meadow,Dallas,TX,32.834719,-96.834497
+2672,427 Michele Inlet,Albany,NY,42.643848,-73.774634
+2673,402 David Coves,Houston,TX,29.853916,-95.136608
+2674,14592 Vazquez Forges,Buffalo,NY,42.899546,-78.853348
+2675,4062 Troy Ramp,Fresno,CA,36.752001,-119.800185
+2676,27872 Brian Village,San Jose,CA,37.275387,-121.870616
+2677,4227 Williams Locks,San Antonio,TX,29.349236,-98.595059
+2678,0459 Ariel Walk,Arlington,TX,32.757512,-97.166336
+2679,192 Rodriguez Square,Fort Lauderdale,FL,26.183607,-80.179062
+2680,240 Heather Hills,Buffalo,NY,42.91302,-78.864744
+2681,146 Mary Field,Los Angeles,CA,34.03607,-118.581247
+2682,02469 Wallace Spurs,Corpus Christi,TX,27.894801,-97.316793
+2683,5490 Roberts Mill,Mount Vernon,NY,40.900509,-73.822926
+2684,007 Kim Views,Austin,TX,30.295148,-97.718679
+2685,102 Thomas Plaza,Joliet,IL,41.586051,-88.004209
+2686,7949 Sarah Gardens,San Diego,CA,32.980155,-117.099834
+2687,58671 Luis Glens,Tallahassee,FL,30.466443,-84.243866
+2688,181 Huang Circles,Dallas,TX,32.782672,-96.890344
+2689,06643 Allen Mall,Syracuse,NY,43.07941,-76.198303
+2690,4202 Michael Village,Elgin,IL,42.040621,-88.277675
+2691,1959 Watson Squares,San Diego,CA,32.925438,-117.031102
+2692,8141 David Club,Corpus Christi,TX,27.781395,-97.346404
+2693,1267 Michael Cliff,Fort Worth,TX,32.820867,-97.328041
+2694,364 Andrew Trafficway,Tallahassee,FL,30.424973,-84.275892
+2695,19442 Davis Camp,St. Petersburg,FL,27.714219,-82.625883
+2696,167 Smith Falls,New York,NY,40.758722,-73.987583
+2697,2190 Jennifer Rapids,Fort Worth,TX,32.833791,-97.352038
+2698,6634 Richard Extensions,Fort Lauderdale,FL,26.131334,-80.117847
+2699,219 Mark Cove,Hialeah,FL,25.898066,-80.253683
+2700,4006 Tracey Inlet,Long Beach,CA,33.751508,-118.159976
+2701,2353 Sullivan Loop,Tampa,FL,27.989775,-82.458821
+2702,8910 Kimberly Common,Chicago,IL,41.965023,-87.620125
+2703,285 Kenneth Rapid,Hialeah,FL,25.856076,-80.25703
+2704,679 Tyler Ranch,Albany,NY,42.6531,-73.785652
+2705,291 Kevin Keys,Rochester,NY,43.152796,-77.641451
+2706,00916 Bowen Port,Tampa,FL,27.993297,-82.468619
+2707,9578 Campbell Islands,San Jose,CA,37.374929,-121.956258
+2708,11013 Pearson Extensions,San Diego,CA,32.964986,-116.932772
+2709,5820 Summer Motorway,Syracuse,NY,43.054203,-76.119619
+2710,08622 Young Mission,Orlando,FL,28.509916,-81.342008
+2711,4579 Moran Valley,Orlando,FL,28.578603,-81.403323
+2712,40875 George Falls,Elgin,IL,42.038635,-88.234875
+2713,837 House Estates,Albany,NY,42.659545,-73.781939
+2714,001 Douglas Summit,Joliet,IL,41.590883,-88.082285
+2715,27186 Malone Spur,Aurora,IL,41.795372,-88.27199
+2716,51599 Scott Parkway,Buffalo,NY,42.936472,-78.864199
+2717,156 Karen Square,Albany,NY,42.643547,-73.757933
+2718,4957 Bray Trafficway,Elgin,IL,42.049783,-88.260329
+2719,12275 Terry Expressway,Peoria,IL,40.7383,-89.55446
+2720,98549 Melinda Roads,San Diego,CA,32.790164,-117.175073
+2721,79099 Pamela Ports,Fort Lauderdale,FL,26.10055,-80.171359
+2722,02095 Snow Port,Rochester,NY,43.196593,-77.659768
+2723,631 Holly Causeway,Peoria,IL,40.794368,-89.528531
+2724,832 Kristina Circles,Fort Lauderdale,FL,26.131761,-80.132172
+2725,61826 Delacruz Branch,Fresno,CA,36.799666,-119.742616
+2726,364 Rebecca Mountains,San Diego,CA,32.731274,-117.122295
+2727,1246 Sherry Fort,New Rochelle,NY,40.915525,-73.760268
+2728,58177 Hernandez Road,Long Beach,CA,33.799033,-118.12547
+2729,379 Watkins Knolls,Fort Lauderdale,FL,26.184285,-80.130221
+2730,59921 Evans Meadow,San Jose,CA,37.276865,-122.059343
+2731,99506 David Flat,Corpus Christi,TX,27.783809,-97.303988
+2732,052 Richard Mount,Dallas,TX,32.888447,-96.896091
+2733,472 White Trafficway,Tallahassee,FL,30.497371,-84.281775
+2734,996 Melissa Neck,Naperville,IL,41.770824,-88.163878
+2735,45431 Christopher Road,Jacksonville,FL,30.349998,-81.602188
+2736,2577 Cheryl Radial,Los Angeles,CA,33.922835,-118.618712
+2737,2182 Miller Harbor,Aurora,IL,41.76274,-88.293609
+2738,0884 Kathryn View,Syracuse,NY,43.005999,-76.198744
+2739,34528 Gomez Terrace,Buffalo,NY,42.85174,-78.899661
+2740,591 Perry Forks,Fresno,CA,36.705748,-119.874467
+2741,01075 Rivers Views,San Jose,CA,37.291566,-121.906898
+2742,07590 Hall Port,Peoria,IL,40.766576,-89.527696
+2743,8327 Ana Pass,Mount Vernon,NY,40.905132,-73.822352
+2744,4152 Ryan Knoll,Hialeah,FL,25.882499,-80.264253
+2745,18079 Christopher Stravenue,Rochester,NY,43.189183,-77.670331
+2746,744 Jacqueline Village,Peoria,IL,40.762256,-89.514926
+2747,099 Taylor Ranch,Long Beach,CA,33.784764,-118.193636
+2748,442 Ponce Junctions,Arlington,TX,32.746334,-97.185052
+2749,707 Christopher Mountain,San Jose,CA,37.22305,-121.858346
+2750,1290 Brown Green,Aurora,IL,41.70668,-88.242604
+2751,42804 Boone Landing,Houston,TX,29.983613,-95.428086
+2752,183 Neal Locks,Long Beach,CA,33.7636,-118.186944
+2753,7708 Lori Flats,El Paso,TX,31.829242,-106.321091
+2754,5510 Stacy Drive,Orlando,FL,28.458435,-81.4809
+2755,9887 Emily Mission,Peoria,IL,40.797725,-89.558087
+2756,17718 Erin Land,Aurora,IL,41.730109,-88.290118
+2757,63826 Mary Crossing,Yonkers,NY,40.901061,-73.869074
+2758,274 Galvan Crest,Peoria,IL,40.792222,-89.522671
+2759,4977 Christopher Overpass,Sacramento,CA,38.651102,-121.572478
+2760,983 Haynes Loop,Sacramento,CA,38.501088,-121.457818
+2761,3292 Costa Spur,Tampa,FL,27.904531,-82.424588
+2762,59419 Rush Mountains,Fresno,CA,36.891686,-119.794755
+2763,40240 Kathy Summit,Oakland,CA,37.848219,-122.20505
+2764,514 Humphrey Mission,Fort Lauderdale,FL,26.139395,-80.178095
+2765,317 Cook Lights,Sacramento,CA,38.622396,-121.437231
+2766,1444 Cordova Mountains,Jacksonville,FL,30.369294,-81.601869
+2767,71638 Debbie Common,San Francisco,CA,37.74794,-122.38161
+2768,91793 Powers Points,Austin,TX,30.238849,-97.618421
+2769,676 Taylor Lake,Miami,FL,25.769229,-80.241471
+2770,68746 Hart Plaza,Rockford,IL,42.215639,-89.073361
+2771,659 Smith Stream,Dallas,TX,32.769665,-96.810143
+2772,20955 Harris Underpass,Naperville,IL,41.787322,-88.10359
+2773,889 Hughes Drives,San Francisco,CA,37.788413,-122.429615
+2774,46934 Amanda Falls,Austin,TX,30.363622,-97.73919
+2775,146 Duncan Streets,Peoria,IL,40.728553,-89.558366
+2776,43573 Michelle Fords,Tampa,FL,27.98161,-82.460566
+2777,65684 Lopez Bridge,Fort Worth,TX,32.762534,-97.373295
+2778,67066 Sarah Radial,Aurora,IL,41.769603,-88.201414
+2779,149 Michael Canyon,Chicago,IL,41.99915,-87.560165
+2780,171 Henson Valley,Albany,NY,42.641179,-73.788682
+2781,047 Sally Streets,Fort Worth,TX,32.897533,-97.335143
+2782,96252 Stokes Cliffs,St. Petersburg,FL,27.706403,-82.685757
+2783,510 Perez Skyway,El Paso,TX,31.727774,-106.38752
+2784,782 Bradley Mill,Tampa,FL,27.975628,-82.462842
+2785,2626 Kyle Landing,Tampa,FL,27.997696,-82.457856
+2786,585 Obrien Crossroad,Tampa,FL,27.965846,-82.414745
+2787,947 Robinson Springs,Joliet,IL,41.546299,-88.061281
+2788,937 Ryan Cove,Chicago,IL,41.895197,-87.691152
+2789,4062 White Causeway,Aurora,IL,41.726538,-88.286934
+2790,8329 Macias Inlet,Hialeah,FL,25.897226,-80.262275
+2791,119 Mueller Road,Joliet,IL,41.535252,-88.091377
+2792,6517 Sellers Bridge,Albany,NY,42.631519,-73.779052
+2793,641 Gregory Curve,New York,NY,40.796277,-73.940963
+2794,9780 Rodriguez Skyway,Corpus Christi,TX,27.854541,-97.316043
+2795,52177 Joshua Plains,Fresno,CA,36.798728,-119.736753
+2796,08391 Richard Keys,Syracuse,NY,43.02171,-76.130305
+2797,1965 Hall Extensions,Joliet,IL,41.548973,-88.073475
+2798,52479 Donald Lock,Orlando,FL,28.508686,-81.4978
+2799,530 Sims Knolls,San Francisco,CA,37.728802,-122.360847
+2800,902 Joseph Causeway,Jacksonville,FL,30.33274,-81.629608
+2801,8500 Amy Heights,New York,NY,40.767464,-73.908593
+2802,4607 Richard Road,Tampa,FL,27.968454,-82.413127
+2803,144 Jennifer View,Elgin,IL,42.048318,-88.249989
+2804,73063 Nathaniel Crest,Fort Worth,TX,32.747646,-97.320618
+2805,779 Jeremiah Shoal,Corpus Christi,TX,27.805745,-97.300881
+2806,43788 Washington Row,Fresno,CA,36.764107,-119.700651
+2807,17775 Thomas Fall,Mount Vernon,NY,40.906341,-73.827223
+2808,6782 Connie Stravenue,Tampa,FL,27.942227,-82.41729
+2809,720 Andrew Valley,Hialeah,FL,25.887621,-80.297924
+2810,62492 Jeffrey Ports,Jacksonville,FL,30.317218,-81.663972
+2811,2523 Jeanette Hollow,Springfield,IL,39.717633,-89.671438
+2812,810 Reese Dam,New York,NY,40.721912,-73.902971
+2813,78124 Thomas Lane,Peoria,IL,40.797423,-89.577976
+2814,8642 Flores Viaduct,Peoria,IL,40.731914,-89.584385
+2815,792 Douglas Street,Fort Lauderdale,FL,26.116657,-80.199669
+2816,9046 Vincent Lakes,El Paso,TX,31.873578,-106.364131
+2817,88961 Williams Curve,Elgin,IL,42.007414,-88.201067
+2818,188 Krystal Garden,Corpus Christi,TX,27.733513,-97.41351
+2819,88750 Nancy Locks,Hialeah,FL,25.87591,-80.273332
+2820,3614 Sanders Corner,Hialeah,FL,25.867717,-80.289891
+2821,07339 Allen Cliff,Peoria,IL,40.765819,-89.554965
+2822,4909 Phillips Mountain,Miami,FL,25.70044,-80.137797
+2823,04117 Campbell Point,New York,NY,40.761399,-73.986015
+2824,9406 Lee Forges,Springfield,IL,39.753994,-89.681526
+2825,4029 Hicks Pine,Naperville,IL,41.714644,-88.192587
+2826,72944 Johnson Stravenue,Yonkers,NY,40.949578,-73.871592
+2827,4250 Ashley Summit,Rockford,IL,42.242936,-89.094567
+2828,820 Kim Manor,Springfield,IL,39.744209,-89.620823
+2829,3191 Frederick Lakes,Austin,TX,30.21029,-97.792478
+2830,09882 James Flats,Tampa,FL,27.971579,-82.487091
+2831,5078 Mary Fords,Albany,NY,42.657027,-73.779858
+2832,1668 Russell Mission,Dallas,TX,32.733603,-96.700664
+2833,088 Steven Mews,Buffalo,NY,42.86793,-78.847517
+2834,069 Robert Springs,Naperville,IL,41.703491,-88.136528
+2835,231 Bradley Forge,Fort Lauderdale,FL,26.168996,-80.19281
+2836,2057 Holly Forge,San Diego,CA,32.781633,-117.079983
+2837,3746 Williams Unions,El Paso,TX,31.837634,-106.464063
+2838,2517 White Row,Hialeah,FL,25.85514,-80.260901
+2839,7903 Holt Wells,Fort Worth,TX,32.813567,-97.359597
+2840,73763 Anthony Loop,Syracuse,NY,43.071048,-76.170815
+2841,0062 Philip Valleys,Jacksonville,FL,30.301515,-81.661087
+2842,6389 Robbins Estates,New York,NY,40.752059,-73.905104
+2843,1313 Richards Via,Joliet,IL,41.511054,-88.042101
+2844,78499 Lam Grove,Fresno,CA,36.70484,-119.725911
+2845,9535 Gonzalez Hills,Long Beach,CA,33.78033,-118.121265
+2846,664 Taylor Course,Long Beach,CA,33.773402,-118.152255
+2847,836 Stephen Lock,Tampa,FL,27.961841,-82.403572
+2848,03069 Burke Junction,Jacksonville,FL,30.317283,-81.628828
+2849,9077 Gilbert Walk,Los Angeles,CA,33.948142,-118.361128
+2850,054 Alexander Field,San Diego,CA,32.76557,-117.034604
+2851,16294 Morgan Coves,New Rochelle,NY,40.91238,-73.751822
+2852,94430 Mills Cliff,Sacramento,CA,38.54098,-121.465215
+2853,14148 Sarah Ports,San Francisco,CA,37.741359,-122.352697
+2854,143 Williams Valley,Jacksonville,FL,30.341562,-81.694321
+2855,03436 Wright Highway,Arlington,TX,32.7976,-97.148048
+2856,603 Leslie Mountain,Long Beach,CA,33.759046,-118.196194
+2857,68150 Reed Fields,Joliet,IL,41.560711,-88.06905
+2858,971 Frost Islands,Orlando,FL,28.582795,-81.407795
+2859,7298 Sydney Islands,Dallas,TX,32.839959,-96.75849
+2860,7907 Hall Station,Los Angeles,CA,34.116866,-118.64308
+2861,2774 Luis Shores,Aurora,IL,41.75903,-88.269739
+2862,32104 Olson Freeway,Albany,NY,42.643063,-73.776887
+2863,15583 Daniel Pine,Miami,FL,25.745316,-80.120567
+2864,04228 Mindy Underpass,Tallahassee,FL,30.401747,-84.259677
+2865,7840 Jones Haven,Oakland,CA,37.743881,-122.206392
+2866,690 Espinoza Stravenue,Dallas,TX,32.744036,-96.796419
+2867,64517 Frank Locks,Rockford,IL,42.252855,-89.053355
+2868,44382 Joseph Pine,Dallas,TX,32.725311,-96.868809
+2869,63521 Kimberly Shoal,Los Angeles,CA,34.018868,-118.575611
+2870,733 Pierce Gardens,Fort Worth,TX,32.709438,-97.326261
+2871,2878 Rodriguez Ranch,Mount Vernon,NY,40.900265,-73.824227
+2872,302 Linda Trafficway,Fort Lauderdale,FL,26.184108,-80.144329
+2873,5956 Fischer Estate,Corpus Christi,TX,27.889525,-97.341563
+2874,324 Shaw Fords,Buffalo,NY,42.909531,-78.84771
+2875,129 Luis Street,Elgin,IL,42.019251,-88.234541
+2876,220 Daniel Row,Houston,TX,29.879318,-95.394561
+2877,23702 Carter Harbors,Naperville,IL,41.757009,-88.121798
+2878,2306 Powell Valley,Albany,NY,42.656917,-73.773554
+2879,9905 Aaron Unions,Los Angeles,CA,34.157479,-118.536493
+2880,651 Diaz Key,Fort Lauderdale,FL,26.130438,-80.173452
+2881,61331 Rivas Lodge,St. Petersburg,FL,27.777584,-82.69558
+2882,91154 Nicole Valley,Yonkers,NY,40.943219,-73.864857
+2883,75327 Chavez Orchard,Sacramento,CA,38.692251,-121.413883
+2884,732 Erica Lock,Rochester,NY,43.155231,-77.616444
+2885,78092 Emily Camp,Jacksonville,FL,30.320913,-81.691696
+2886,8110 Candice Station,Oakland,CA,37.846571,-122.269449
+2887,67836 Ayala Common,Jacksonville,FL,30.362549,-81.666205
+2888,28406 Jones Course,Fresno,CA,36.726806,-119.814867
+2889,8638 Isabella Throughway,Hialeah,FL,25.887709,-80.257554
+2890,849 Lisa Forge,Houston,TX,29.870914,-95.117688
+2891,79421 Thomas Causeway,Miami,FL,25.764254,-80.120056
+2892,506 Joshua Streets,Arlington,TX,32.701298,-97.192533
+2893,6867 Ramirez Meadows,Dallas,TX,32.716736,-96.816573
+2894,14934 Kyle Flats,Fort Worth,TX,32.822278,-97.38014
+2895,984 Cody Spring,Miami,FL,25.896029,-80.239502
+2896,520 Sherry Avenue,Albany,NY,42.646501,-73.79754
+2897,3621 Sanchez Crossing,Fort Lauderdale,FL,26.127098,-80.181577
+2898,752 Hernandez Spur,Austin,TX,30.357202,-97.702794
+2899,2475 Michael Way,New Rochelle,NY,40.905248,-73.75229
+2900,96180 Clark Lock,Rockford,IL,42.239424,-89.024418
+2901,91197 Galloway Orchard,Joliet,IL,41.599856,-88.030052
+2902,169 Brown Stream,Arlington,TX,32.767747,-97.120804
+2903,9478 Roberts Lights,New Rochelle,NY,40.918252,-73.750728
+2904,59031 Glass Village,San Diego,CA,33.079405,-117.020022
+2905,4473 Duncan Land,New Rochelle,NY,40.919536,-73.771566
+2906,160 Alexa Causeway,El Paso,TX,31.860187,-106.411633
+2907,36500 Laura Points,Sacramento,CA,38.624409,-121.586584
+2908,52674 Jamie Branch,Arlington,TX,32.708585,-97.171842
+2909,78866 Christopher Estates,Rockford,IL,42.277054,-89.064583
+2910,3780 Jason Ports,Houston,TX,30.083303,-95.39243
+2911,2322 Lopez Center,Yonkers,NY,40.916443,-73.866655
+2912,81473 Regina Mill,Syracuse,NY,43.052197,-76.159336
+2913,162 Ashley Course,Tampa,FL,27.901368,-82.494561
+2914,898 Carolyn Land,Mount Vernon,NY,40.902487,-73.826888
+2915,163 Holland Creek,San Jose,CA,37.242548,-121.963416
+2916,9532 Christina Ports,Mount Vernon,NY,40.904909,-73.824179
+2917,071 Anne Ville,Buffalo,NY,42.871764,-78.850556
+2918,42034 Lisa Underpass,Rockford,IL,42.284564,-89.095089
+2919,5728 Kevin Ridge,Los Angeles,CA,34.283609,-118.645181
+2920,91506 Kelly Point,Orlando,FL,28.420131,-81.303654
+2921,191 Angela Plains,Tampa,FL,27.965771,-82.452342
+2922,77958 Paul Extensions,Arlington,TX,32.732654,-97.104924
+2923,386 Baker Village,Joliet,IL,41.548389,-88.002671
+2924,3306 Ryan Fall,Oakland,CA,37.828003,-122.299084
+2925,010 Amber Lane,El Paso,TX,31.845698,-106.359838
+2926,53341 Michelle Road,Peoria,IL,40.765753,-89.598413
+2927,0254 Williams Coves,San Diego,CA,33.027513,-116.926589
+2928,79928 Maldonado Views,San Diego,CA,33.063841,-116.957922
+2929,652 Gregory Haven,St. Petersburg,FL,27.776726,-82.630031
+2930,9211 Matthew Flats,Tampa,FL,27.963789,-82.456012
+2931,205 Kayla Spring,Tallahassee,FL,30.445741,-84.267111
+2932,19937 John Mill,Los Angeles,CA,34.170988,-118.404573
+2933,913 Thornton Trafficway,Albany,NY,42.63179,-73.760714
+2934,08564 Michael Burgs,Yonkers,NY,40.901375,-73.859237
+2935,109 Ian Route,Naperville,IL,41.702461,-88.168484
+2936,127 Leah Lodge,San Diego,CA,32.852275,-116.968252
+2937,9081 Erika Spurs,El Paso,TX,31.843642,-106.465757
+2938,25840 Jacob Light,Fort Lauderdale,FL,26.141396,-80.118327
+2939,75087 Christopher Meadow,San Jose,CA,37.245921,-122.007965
+2940,92643 Orozco Divide,Houston,TX,29.939071,-95.339834
+2941,1385 Mclaughlin Bridge,San Antonio,TX,29.411537,-98.501636
+2942,5283 Nolan Loop,Houston,TX,29.817856,-95.159218
+2943,7622 Patricia Walk,Hialeah,FL,25.865723,-80.25733
+2944,72946 Brown Port,Rockford,IL,42.24443,-89.018716
+2945,98213 Coffey Islands,Springfield,IL,39.71855,-89.619944
+2946,11121 Williams Parkway,Yonkers,NY,40.929057,-73.886276
+2947,258 Woods Islands,Yonkers,NY,40.93665,-73.868071
+2948,262 Bean Passage,Springfield,IL,39.756838,-89.660378
+2949,6564 Nguyen Lake,Los Angeles,CA,34.250902,-118.386308
+2950,548 Michael Run,Fort Worth,TX,32.821093,-97.348113
+2951,21813 Butler Mission,Arlington,TX,32.762728,-97.122971
+2952,32504 Wright Mill,Jacksonville,FL,30.381496,-81.647034
+2953,4026 Joshua Neck,Arlington,TX,32.737467,-97.119273
+2954,6140 Peterson Heights,Miami,FL,25.769699,-80.187712
+2955,985 William Mission,Joliet,IL,41.59469,-88.074772
+2956,341 Thompson Islands,Oakland,CA,37.812899,-122.263344
+2957,24744 Smith Valleys,Miami,FL,25.797373,-80.214197
+2958,126 Anderson River,Buffalo,NY,42.913949,-78.872579
+2959,799 Stewart Summit,Fresno,CA,36.701653,-119.770504
+2960,249 Byrd Forks,Rochester,NY,43.143574,-77.69956
+2961,2803 Hamilton Causeway,Sacramento,CA,38.692897,-121.424242
+2962,7490 Yvonne Burgs,Oakland,CA,37.775104,-122.288624
+2963,274 Brittany Ports,Oakland,CA,37.720923,-122.256996
+2964,832 Ellen Hollow,San Francisco,CA,37.795456,-122.358752
+2965,7694 Castro Road,Aurora,IL,41.762878,-88.249691
+2966,04912 Pamela Place,Tallahassee,FL,30.453756,-84.207949
+2967,763 Amy Lodge,Buffalo,NY,42.864389,-78.836326
+2968,5372 Fry Key,Fort Worth,TX,32.719887,-97.360902
+2969,69599 Martha Corners,Chicago,IL,41.831881,-87.676793
+2970,448 Kristin Prairie,Hialeah,FL,25.863989,-80.298394
+2971,087 Jamie Inlet,Tampa,FL,27.909626,-82.492742
+2972,8247 Carter Manor,Orlando,FL,28.458001,-81.385439
+2973,818 Monica Inlet,Rockford,IL,42.225421,-89.043739
+2974,73920 Blair Shore,Long Beach,CA,33.796479,-118.168056
+2975,7356 Sims Turnpike,Buffalo,NY,42.907052,-78.812353
+2976,285 Camacho Walks,Mount Vernon,NY,40.916375,-73.820194
+2977,02950 Jason Shores,Yonkers,NY,40.927307,-73.863044
+2978,3740 Renee Estates,Fort Worth,TX,32.829964,-97.322533
+2979,3527 Payne Courts,Hialeah,FL,25.88809,-80.265873
+2980,15095 Alyssa Lake,Aurora,IL,41.714268,-88.294145
+2981,576 Buck Crest,New Rochelle,NY,40.901912,-73.750154
+2982,23877 Megan Squares,San Jose,CA,37.216937,-121.920054
+2983,884 Debbie Walk,Joliet,IL,41.505377,-88.044438
+2984,1665 Shelby Falls,Chicago,IL,41.936593,-87.576918
+2985,0061 Teresa Drive,Oakland,CA,37.706833,-122.28754
+2986,49453 Martin Station,Chicago,IL,41.839209,-87.552688
+2987,75579 Sarah Drive,Rockford,IL,42.204866,-89.018005
+2988,826 Dawn Lakes,Fresno,CA,36.743058,-119.880646
+2989,774 Joanne Ridge,Yonkers,NY,40.911036,-73.85988
+2990,78612 Love Manor,Buffalo,NY,42.88808,-78.853694
+2991,8282 Ho Hills,Chicago,IL,41.939864,-87.626795
+2992,12043 Wagner Ports,Austin,TX,30.254143,-97.602605
+2993,145 Julia Trace,Tallahassee,FL,30.497867,-84.22149
+2994,5423 Sherman Pines,St. Petersburg,FL,27.741422,-82.655282
+2995,549 Anthony River,Sacramento,CA,38.59413,-121.535253
+2996,490 Wood Cove,Jacksonville,FL,30.349706,-81.684691
+2997,56648 Rowe Mountain,Peoria,IL,40.796414,-89.567067
+2998,0198 Joshua Garden,Dallas,TX,32.781959,-96.745617
+2999,1291 Laurie Shore,Houston,TX,29.861591,-95.270165
+3000,48993 Frazier Island,Tallahassee,FL,30.450206,-84.247878
